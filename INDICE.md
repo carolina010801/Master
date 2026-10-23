@@ -726,6 +726,12 @@ Lezione di Irene Brunetti (16 ottobre 2026): due casi applicati di valutazione d
 
 Corso Moodle: <https://scienzepolitiche.el.uniroma3.it/course/view.php?id=2377>
 
+### Introduzione – Programma del corso
+
+**Programma del corso**  
+Cartella senza file: contiene solo il testo del programma · [apri su Moodle](https://scienzepolitiche.el.uniroma3.it/mod/folder/view.php?id=26367)  
+Docente Claudia Vittori. Testo di riferimento: Blanchard, Amighini, Giavazzi, «Macroeconomia. Una prospettiva europea» (ed. 2024); per gli esercizi D. Findlay, «Esercizi di Macroeconomia». Argomenti: variabili macroeconomiche; breve periodo (mercato dei beni e della moneta, IS-LM e politiche); mercato del lavoro e curva di Phillips; medio periodo (IS-LM-PC); lungo periodo (crescita, risparmio, accumulazione); economia aperta.
+
 ### Introduzione
 
 **Materiale esercitazioni / reddito spesa (aliquota fiscale).pdf**  
