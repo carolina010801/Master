@@ -8,6 +8,10 @@ Le risposte si basano sui materiali del master. I riferimenti tra parentesi indi
 
 ## Traccia 1 – Divari socioeconomici territoriali e indici compositi
 
+**Domanda.** *Si illustrino i principali fattori che incidono, sia a livello europeo che a livello italiano, sui divari socioeconomici a livello territoriale e le modalità con cui tali divari possono essere misurati attraverso opportuni indici compositi.*
+
+**Risposta.**
+
 **1. Il punto di partenza: la convergenza mancata.** L'indicatore tradizionale del benessere economico di un territorio è il PIL pro capite (*Ferrara, lezioni 3-4-5*, p. 10). In un'ottica di lungo periodo, la teoria del *catching up* prevede che le regioni più povere crescano più in fretta di quelle ricche, riducendo i divari. Tra il 2000 e il 2021, però, la convergenza in Europa è stata solo parziale. Ne hanno beneficiato quasi esclusivamente le regioni dell'Europa orientale, mentre sono rimaste indietro quelle di Grecia, Francia, Spagna e soprattutto Italia (ivi, pp. 9, 12, 14). Questo nonostante gli investimenti europei nella coesione: 911 miliardi di euro tra il 1999 e il 2020 (ivi, p. 2).
 
 **2. I fattori dei divari a livello europeo.**
@@ -18,7 +22,6 @@ Le risposte si basano sui materiali del master. I riferimenti tra parentesi indi
 
 **3. I fattori a livello italiano.** Nel 2000 dieci regioni italiane erano tra le prime 50 dell'UE per PIL pro capite. Nel 2021 ne restavano quattro (Bolzano, Lombardia, Trento, Valle d'Aosta), mentre diverse regioni del Sud erano scese tra le ultime 50 (*Ferrara, lezioni 3-4-5*, p. 21). Nel 2023 il PIL per abitante del Mezzogiorno era il 56,7% di quello del Centro-Nord, un valore più basso che all'inizio degli anni '70 (ivi, p. 63). A pesare è soprattutto il basso tasso di occupazione, oltre alla minore produttività. Calabria (48,5%), Campania (49,4%) e Sicilia (50,7%) hanno tassi tra i più bassi d'Europa e l'Italia ha la più alta disparità regionale nei tassi di occupazione (ivi, pp. 50, 52, 63). A ciò si aggiungono:
 - un divario di qualità istituzionale presente in tutte le dimensioni dell'IQI, con il Mezzogiorno tra il 36% e il 42% sotto il Centro-Nord (*Ferrara 20-27 marzo*, p. 24);
-- una disuguaglianza della qualità istituzionale tra regioni superiore a quella del PIL pro capite (*Ferrara, lezioni 13-20 marzo*, p. 29);
 - la minore efficacia della politica di coesione. Le cause sono la mancata addizionalità (le risorse europee sostituiscono quelle ordinarie) e un approccio orientato alla spesa più che ai risultati (*compliance based*). Le continue riprogrammazioni spostano risorse dalle infrastrutture agli incentivi, più facili da rendicontare, e ricorrono a progetti «retrospettivi» (ivi, pp. 20, 40, 44, 48-55);
 - il disagio sociale: Calabria (48,8%) e Campania (43,5%) sono tra le cinque regioni UE con un rischio di povertà o esclusione sociale più che doppio rispetto alla media europea del 21% (*Ferrara, lezioni 3-4-5*, p. 149).
 
@@ -31,13 +34,17 @@ Le risposte si basano sui materiali del master. I riferimenti tra parentesi indi
 - **European Quality of Government Index (EQI).** Si basa su sondaggi a oltre 129.000 cittadini in più di 200 regioni ed è articolato in tre pilastri: qualità, imparzialità e corruzione dei servizi pubblici. Per l'Italia non mostra miglioramenti sostanziali nel tempo (ivi, pp. 26-28).
 - **Indice di Qualità Istituzionale (IQI).** Usa solo dati oggettivi d'archivio, articolati in cinque dimensioni: controllo della corruzione, efficacia di governo, qualità della regolamentazione, stato di diritto e partecipazione civica. Tra il 2004 e il 2023 è sostanzialmente stabile, segno che le istituzioni sono un tratto «strutturale» dei territori (*Ferrara 20-27 marzo*, pp. 19-22, 27).
 - **Indicatore della Banca d'Italia sul contesto istituzionale**, in quattro domini (giustizia, integrità della PA, efficienza della burocrazia, servizi pubblici locali): «miglioramento senza convergenza» (ivi, pp. 30-41).
-- **European e Regional Innovation Scoreboard.** Raggruppano gli indicatori in quattro categorie: condizioni di contesto, investimenti, attività innovative e impatti. L'Italia è un *moderate innovator*. Le regioni del Sud migliorano, ma restano frenate dalla bassa spesa per innovazione non legata alla R&S e dalla scarsa formazione continua (ivi, pp. 269-274).
+- **European e Regional Innovation Scoreboard**, in quattro categorie (condizioni di contesto, investimenti, attività innovative, impatti): l'Italia è un *moderate innovator* (ivi, pp. 269-274).
 
-**6. Conclusione.** I divari sono multidimensionali e gli indici compositi permettono di leggerli insieme, sapendo però che dipendono dalle scelte di costruzione (indicatori, normalizzazione, pesi). Le lezioni ne traggono un'indicazione di policy: per uscire dalle trappole bisogna agire su istituzioni, istruzione terziaria, trattenimento dei giovani, R&S e innovazione, e non solo sulle risorse finanziarie (*Ferrara 20-27 marzo*, p. 11; *Ferrara, lezioni 13-20 marzo*, p. 56).
+**6. Conclusione.** I divari sono multidimensionali e gli indici compositi permettono di leggerli insieme, sapendo però che dipendono dalle scelte di costruzione (indicatori, normalizzazione, pesi). Per uscire dalle trappole occorre agire su istituzioni, istruzione, giovani, R&S e innovazione, non solo sulle risorse (*Ferrara 20-27 marzo*, p. 11).
 
 ---
 
 ## Traccia 2 – Il nuovo Patto di stabilità e crescita
+
+**Domanda.** *Si illustrino le modalità di funzionamento del nuovo Patto di stabilità e crescita, approfondendo il significato degli indicatori di finanza pubblica sui quali si basa la verifica del suo rispetto da parte degli Stati membri. Si esponga come tali obiettivi siano declinati nei documenti di finanza pubblica italiani.*
+
+**Risposta.**
 
 **1. Fondamento e ragioni della riforma.** Il Patto di stabilità e crescita (PSC), introdotto nel 1997, serve a garantire finanze pubbliche sane e sostenibili negli Stati UE, in particolare in quelli dell'euro. Il fondamento è l'art. 126 TFUE, che impone di evitare disavanzi eccessivi, insieme al Protocollo n. 12, che fissa i parametri del 3% del PIL per il deficit e del 60% per il debito (*PSC*, pp. 2, 5). Dopo la sospensione per la pandemia (ivi, p. 3), le vecchie regole sono apparse troppo rigide, difficili da applicare e basate su indicatori complessi. La riforma, approvata nel 2024 e pienamente in vigore dal 2025, non modifica i Trattati ma il diritto derivato (ivi, pp. 4-6):
 - il Regolamento (UE) 2024/1263, che sostituisce il Reg. 1466/97 (braccio preventivo);
@@ -53,7 +60,7 @@ Le risposte si basano sui materiali del master. I riferimenti tra parentesi indi
 - effetti delle misure discrezionali sulle entrate e misure una tantum;
 - entro limiti stabiliti, maggiori spese per la difesa e per l'efficienza energetica.
 
-È un indicatore osservabile, che lascia agli Stati la composizione della manovra: più spesa è ammessa se finanziata da nuove entrate strutturali. Il percorso deve essere approssimativamente lineare, senza rinviare la correzione agli ultimi anni (*no backloading*) (ivi, pp. 11-14).
+È un indicatore osservabile, che lascia agli Stati la composizione della manovra: più spesa è ammessa se finanziata da nuove entrate strutturali. Il percorso deve essere lineare, senza rinviare la correzione (*no backloading*) (ivi, pp. 11-14).
 
 Il percorso è fissato per ciascun Paese sulla base dell'analisi di sostenibilità del debito (DSA). Per chi supera il 60% di debito o il 3% di deficit, alla fine del periodo di aggiustamento il debito deve essere su un sentiero plausibilmente decrescente e il deficit sotto il 3%. Il periodo di aggiustamento dura quattro anni ed è estendibile fino a sette a fronte di riforme e investimenti. L'Italia ha scelto sette anni (ivi, p. 13). La crescita ammessa della spesa netta si commisura alla crescita del PIL potenziale (ivi, p. 15).
 
@@ -63,12 +70,11 @@ Il percorso è fissato per ciascun Paese sulla base dell'analisi di sostenibilit
 - *Paesi in PDE:* il saldo strutturale deve migliorare di almeno 0,5 punti all'anno. Nel triennio 2025-27 si guarda al saldo primario strutturale, per tener conto della maggiore spesa per interessi (ivi, p. 16).
 
 **5. Il significato degli indicatori.**
-- *Indebitamento netto (deficit):* differenza tra entrate e spese della PA secondo il criterio di competenza economica (SEC 2010). È il saldo rilevante per la soglia del 3% (*Saldi di bilancio*, p. 29).
-- *Saldo primario:* indebitamento netto al netto degli interessi. Misura lo sforzo di bilancio sotto il controllo del governo (ivi, p. 35).
+- *Indebitamento netto (deficit):* entrate meno spese della PA per competenza economica (SEC 2010), rilevante per il 3% (*Saldi di bilancio*, p. 29). Il *saldo primario* lo misura al netto degli interessi (ivi, p. 35).
 - *Saldo strutturale:* saldo nominale corretto per il ciclo, attraverso l'output gap, e al netto delle misure una tantum. Elimina gli effetti degli stabilizzatori automatici, ma dipende dalla stima del PIL potenziale, che non è osservabile (*PSC*, p. 19). Per questo il nuovo Patto ha scelto la spesa netta come indicatore operativo (*Documenti di bilancio*, s. 4).
 - *Debito/PIL:* la sua variazione dipende dal saldo primario, dall'effetto *snowball* (differenza tra costo medio del debito e crescita nominale del PIL) e dall'aggiustamento stock-flussi (*Debito*, pp. 33, 39).
 
-Il controllo avviene ex post tramite un «conto di controllo». Gli scostamenti annuali della spesa netta dal percorso approvato vengono registrati a debito o a credito e cumulati (*PSC*, p. 21). In PDE, la spesa netta è l'unico indicatore per verificare il «seguito effettivo» alle raccomandazioni. Uno scostamento superiore a 0,3 punti di PIL in un anno o a 0,6 punti cumulati fa presumere che il seguito effettivo sia mancato; seguono l'intimazione e, nei casi più gravi, le sanzioni (ivi, pp. 37-40). Sono previste una clausola di salvaguardia generale e una nazionale; in Italia lo scostamento va autorizzato dal Parlamento (art. 6 l. 243/2012) (ivi, pp. 41-43).
+Gli scostamenti annuali della spesa netta sono registrati e cumulati in un «conto di controllo» (*PSC*, p. 21). In PDE, la spesa netta è l'unico indicatore per verificare il «seguito effettivo» alle raccomandazioni. Uno scostamento superiore a 0,3 punti di PIL in un anno o a 0,6 punti cumulati fa presumere il mancato seguito, con possibili intimazione e sanzioni (ivi, pp. 37-40). Sono previste una clausola di salvaguardia generale e una nazionale; in Italia lo scostamento va autorizzato dal Parlamento (art. 6 l. 243/2012) (ivi, pp. 41-43).
 
 **6. L'Italia e i documenti di finanza pubblica.** Con la Decisione (UE) 2024/2124 il Consiglio ha accertato un disavanzo eccessivo per il 2023. L'Italia ha presentato il PSB il 15 ottobre 2024; il Consiglio l'ha approvato il 21 gennaio 2025 con un percorso di sette anni, chiedendo di riportare il deficit sotto il 3% entro il 2026 (ivi, pp. 25-28). Il ciclo nazionale è stato riorganizzato (*Documenti di bilancio*, s. 4-23):
 - il **PSB** fissa il percorso pluriennale della spesa netta, gli obiettivi su deficit e debito e le riforme;
@@ -82,13 +88,15 @@ Secondo il DFP 2026 (*Documenti di bilancio*, s. 68-72):
 - per il 2027 è previsto un nuovo superamento (2,2% contro 1,9%);
 - il debito è salito al 137,1% del PIL nel 2025 ed è previsto al 138,6% nel 2026, prima di scendere.
 
-L'UPB segnala rischi al ribasso e il pieno utilizzo dello spazio di bilancio (ivi, s. 37, 74-75).
-
 **7. Conclusione.** Il nuovo Patto è più semplice da monitorare e più adatto ai singoli Paesi, ma resta esigente per quelli ad alto debito. Per l'Italia la sfida è rispettare il percorso della spesa netta, uscire dalla PDE e sostenere la crescita potenziale.
 
 ---
 
 ## Traccia 3 – Il rapporto Draghi
+
+**Domanda.** *Il rapporto Draghi del settembre 2024 delinea un quadro di sfide e opportunità per il rafforzamento della posizione economica e strategica dell’Unione Europea (UE) individuando, tra gli altri, alcuni punti chiave su cui focalizzare le azioni prioritarie da intraprendere: diminuire i costi dell’energia; promuovere competitività delle imprese europee; estendere la capacità di fare ricerca e innovazione; ridurre le dipendenze dai Paesi extra-UE e sostenere gli investimenti produttivi nei settori strategici. Si approfondiscano almeno due dei punti sopracitati e si espongano le relative strategie di implementazione, evidenziando il ruolo delle istituzioni pubbliche europee e nazionali.*
+
+**Risposta.**
 
 **1. Il quadro.** Il rapporto *The future of European competitiveness*, presentato da Mario Draghi il 9 settembre 2024, diagnostica un rallentamento della produttività europea negli ultimi vent'anni. Individua tre aree d'azione: colmare il divario di innovazione con Stati Uniti e Cina, conciliare decarbonizzazione e competitività riducendo i prezzi dell'energia, ridurre le dipendenze per rafforzare la sicurezza. Stima un fabbisogno aggiuntivo di investimenti pubblici e privati di circa 750-800 miliardi di euro all'anno, fino a circa il 5% del PIL UE, da finanziare anche con debito comune. Qui si approfondiscono due punti: il costo dell'energia e la ricerca e innovazione, con un cenno alle dipendenze.
 
@@ -122,6 +130,10 @@ L'UPB segnala rischi al ribasso e il pieno utilizzo dello spazio di bilancio (iv
 
 ## Traccia 4 – Curva di Phillips, inflazione e aspettative
 
+**Domanda.** *Si illustri la curva di Phillips, la sua evoluzione nel tempo e il ruolo delle aspettative. Si spieghi perché l’inflazione del 2021-2023 sia riconducibile in larga parte a uno shock di offerta e non solo a pressioni di domanda. Si discuta il ruolo dell’ancoraggio delle aspettative all’obiettivo di inflazione della banca centrale.*
+
+**Risposta.**
+
 **1. La curva originaria.** Phillips individuò una relazione negativa tra inflazione e disoccupazione, poi chiamata «curva di Phillips» da Samuelson e Solow. Negli Stati Uniti la relazione ha funzionato tra il 1900 e il 1960 (*Phillips curve*, p. 2). Si ricava dal mercato del lavoro (ivi, pp. 3-6):
 - equazione dei salari: W = Pᵉ(1 − αu + z), dove z raccoglie i fattori istituzionali come sussidi e contrattazione;
 - equazione dei prezzi: P = (1 + m)W, con m il markup;
@@ -153,6 +165,10 @@ Il messaggio di fondo del capitolo: una bassa disoccupazione fa aumentare l'infl
 
 ## Traccia 5 – Risparmio, accumulazione di capitale e crescita
 
+**Domanda.** *Si illustrino il ruolo del risparmio e dell’accumulazione di capitale nella determinazione della produzione per lavoratore e le caratteristiche dello stato stazionario. Si spieghi perché un più alto tasso di risparmio non possa sostenere in modo permanente una maggiore crescita e perché il progresso tecnologico sia la fonte della crescita sostenuta. Si discuta il rallentamento della crescita nelle economie avanzate, con particolare riferimento all’Italia, e il ruolo degli investimenti pubblici e privati in ricerca e innovazione.*
+
+**Risposta.**
+
 **1. Le relazioni di base (modello di Solow senza progresso tecnico).** Con popolazione e tecnologia costanti, la produzione per lavoratore dipende dal capitale per lavoratore: Y/N = f(K/N), con rendimenti decrescenti. All'aumentare di K/N la produzione cresce, ma sempre meno (*Crescita 2*, pp. 4-6). In un'economia chiusa, con risparmio pubblico nullo e risparmio privato proporzionale al reddito, l'investimento è uguale al risparmio: I = sY (ivi, p. 7). Il capitale evolve secondo Kₜ₊₁ = (1 − δ)Kₜ + Iₜ, con δ il tasso di deprezzamento. Mettendo insieme le relazioni (ivi, pp. 9-12):
 
 **(Kₜ₊₁ − Kₜ)/N = s·f(Kₜ/N) − δ·Kₜ/N**
@@ -166,7 +182,7 @@ La variazione del capitale per lavoratore è uguale al risparmio per lavoratore 
 2. il tasso di risparmio determina invece il *livello* del prodotto per lavoratore nel lungo periodo;
 3. un aumento del tasso di risparmio produce una crescita più alta per un certo periodo, ma non per sempre.
 
-La ragione sta nei rendimenti decrescenti. Ogni unità aggiuntiva di capitale rende meno, mentre il deprezzamento cresce in proporzione allo stock: a un certo punto il risparmio aggiuntivo serve solo a mantenere il capitale esistente. Più risparmio non significa nemmeno sempre più benessere, perché ciò che conta è il consumo. In stato stazionario il consumo è massimo al livello di capitale della **regola aurea**, che nell'esempio corrisponde a s = 0,5. Sotto quella soglia più risparmio aumenta il consumo di lungo periodo, sopra lo riduce (ivi, pp. 22-24, 29-30). Il docente richiama un dato emblematico: dal 1970 Germania e Italia hanno avuto tassi di risparmio medi intorno al 23%, più alti del 17% degli USA, eppure attraversano decenni di crescita stagnante (ivi, p. 2). Il capitale umano estende il modello: un Paese che investe di più in istruzione raggiunge un livello più alto, ma la logica non cambia (ivi, pp. 31-33). I modelli di crescita endogena studiano come rendere la crescita durevole (ivi, p. 34).
+La ragione sta nei rendimenti decrescenti. Ogni unità aggiuntiva di capitale rende meno, mentre il deprezzamento cresce in proporzione allo stock: a un certo punto il risparmio aggiuntivo serve solo a mantenere il capitale esistente. Più risparmio non significa nemmeno sempre più benessere, perché ciò che conta è il consumo. In stato stazionario il consumo è massimo al livello di capitale della **regola aurea**, che nell'esempio corrisponde a s = 0,5. Sotto quella soglia più risparmio aumenta il consumo di lungo periodo, sopra lo riduce (ivi, pp. 22-24, 29-30). Un dato emblematico: dal 1970 Germania e Italia hanno avuto tassi di risparmio medi intorno al 23%, più alti del 17% degli USA, eppure attraversano decenni di crescita stagnante (ivi, p. 2). Il capitale umano estende il modello: un Paese che investe di più in istruzione raggiunge un livello più alto, ma la logica non cambia (ivi, pp. 31-33). I modelli di crescita endogena studiano come rendere la crescita durevole (ivi, p. 34).
 
 **4. Il progresso tecnologico come fonte della crescita sostenuta.** Introducendo lo stato della tecnologia A, la funzione diventa Y = F(K, AN), dove AN è il «lavoro effettivo» (*Crescita e progresso tecnologico*, pp. 3-7). In stato stazionario K/AN e Y/AN sono costanti. La produzione cresce al tasso gA + gN e il **prodotto per lavoratore cresce al tasso del progresso tecnologico gA**, che non dipende dal risparmio. Un risparmio più alto sposta l'economia su un sentiero più elevato, ma non ne cambia l'inclinazione di lungo periodo (ivi, pp. 14-20). Il progresso tecnico deriva soprattutto dalla R&S delle imprese e dipende da due fattori (ivi, pp. 24-27):
 - la *fertilità* della ricerca, che nasce dall'interazione tra ricerca di base, sistema educativo e ricerca applicata;
