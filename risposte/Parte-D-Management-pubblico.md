@@ -57,7 +57,7 @@ Nel pubblico puro la formula va modificata per tre ragioni (ivi, pp. 145-146):
 
 La condizione diventa **Ric + PR + TR = C + ON**. La dispensa avverte che la parte destra è spesso gonfiata da **sprechi**: nel pubblico l'economicità si intreccia con un grave problema di efficienza (ivi, p. 146).
 
-*Responsabilità*: la dispensa non la attribuisce espressamente. Dalla collocazione nella fase di gestione (ivi, p. 128) si può ricavare una responsabilità **condivisa**:
+*Responsabilità*: per l'economicità, che si colloca nella fase di gestione (ivi, p. 128), la responsabilità è **condivisa**:
 
 - l'**organo gestionale** risponde del lato dei costi e degli oneri, cioè degli sprechi, e della gestione di cassa;
 - l'**organo politico** risponde dell'equilibrio complessivo, perché individua e ripartisce le risorse, e quindi entrate e trasferimenti (art. 3 d.lgs. 29/1993; *Biscotti, d.lgs. 29/1993*, p. 18).
@@ -237,21 +237,11 @@ Il d.l. 90/2014 avvia la correzione: regia alla Funzione pubblica ed **Elenco na
 - *PIAO*: con il **PIAO** (d.l. 80/2021, d.P.R. 81/2022) il Piano della performance diventa la sottosezione 2.2 «Performance» di un unico piano triennale, che assorbe anche PTPCT, fabbisogni di personale, formazione, azioni positive e lavoro agile. Gli obiettivi derivano dal «**valore pubblico**». Le critiche riguardano la mole del documento, la scadenza del 31 gennaio spesso anteriore al bilancio e la sostanza spesso invariata (ivi, p. 30).
 - *Legge n. 119/2026 (Zangrillo)*: fissa tetti alle valutazioni massime (non oltre il 30% per categoria; eccellenze entro il 20%) e introduce la valutazione per obiettivi e per **caratteristiche trasversali**. La retribuzione di risultato diventa progressiva, gli obiettivi vanno assegnati entro il primo trimestre e devono essere correlati alle risorse. Il parere dell'OIV diventa non vincolante e si delega una riforma degli OIV (ivi, p. 31).
 
-**7. Riflessione personale.** La storia mostra un **pendolo**:
+**7. Riflessione personale.** Ripercorrendo questi trent'anni, credo che l'alternanza tra rigidità e flessibilità sia meno contraddittoria di quanto appaia. Ogni riforma ha corretto l'eccesso della precedente: il 2009 ha imposto regole uniformi perché la libertà degli anni precedenti aveva prodotto valutazioni tutte uguali; il 2017 ha allentato i vincoli perché quelle regole, come le fasce di merito, si erano rivelate inapplicabili; il 2026 torna a fissare tetti perché la flessibilità ha riportato i giudizi «tutti bravi».
 
-- il 2009 **obbliga**, con regole rigide, percentuali e sanzioni;
-- il 2017 **accompagna**, con principi, linee guida e integrazione;
-- il 2026 **riequilibra**, con tetti e oggettività (ivi, pp. 29, 33).
+A mio avviso, però, il pendolo non si fermerà finché il dibattito resterà concentrato sulla forma delle regole. Né una percentuale imposta per legge né un principio affidato ai contratti possono funzionare se mancano tre condizioni: obiettivi davvero significativi e accompagnati dalle risorse necessarie, valutatori competenti e indipendenti dal valutato, dati affidabili prodotti da un controllo di gestione che funzioni. Dove queste condizioni ci sono, anche un sistema flessibile differenzia; dove mancano, anche il sistema più rigido diventa un adempimento.
 
-Ogni riforma corregge l'eccesso della precedente. La rigidità da sola non funziona: le fasce erano perfette sulla carta ma impraticabili. Nemmeno la sola flessibilità basta: affidare la differenziazione ai contratti ha riportato i giudizi «tutti bravi» (ivi, p. 34).
-
-Ne traggo una conclusione: il problema non è scegliere tra prescrizione e flessibilità, ma garantire le **condizioni** che rendono credibile qualsiasi sistema. Tre in particolare:
-
-- obiettivi veri e **legati alle risorse**;
-- **valutatori indipendenti e competenti**, con accesso ai dati;
-- **dati affidabili** sul controllo di gestione.
-
-Il ridimensionamento degli OIV nel 2026 va osservato con attenzione proprio per questo. Uno spazio non ancora sfruttato è la voce dei cittadini, l'idea più nuova del 2017. La valutazione non serve a punire né a distribuire premi, ma a far funzionare meglio i servizi (ivi, pp. 34, 36).
+Per questo guardo con una certa preoccupazione al ridimensionamento degli OIV previsto nel 2026: rendere più stringenti le regole sui punteggi e meno forte chi ne garantisce la correttezza rischia di ripetere l'errore del 2009. Penso invece che la leva più promettente sia quella meno sfruttata: la valutazione da parte dei cittadini e degli utenti, che misura ciò che conta davvero e che nessuna amministrazione può «addomesticare». In definitiva, la valutazione dovrebbe essere percepita non come uno strumento per punire o premiare, ma come il modo in cui un'amministrazione impara a lavorare meglio.
 
 ---
 
