@@ -2,7 +2,7 @@
 
 *Master di II livello «Next Generation PA» – Università Roma Tre*
 
-Le risposte si basano sui materiali del master. I riferimenti tra parentesi indicano documento e pagina (p.) o slide (s.) del file pubblicato su Moodle. Le integrazioni da fonti esterne sono raccolte, per ciascuna traccia, nel riquadro finale «Integrazioni da fonti esterne», con il link alla fonte.
+Le risposte si basano sui materiali del master. I riferimenti tra parentesi indicano documento e pagina (p.) o slide (s.) del file pubblicato su Moodle.
 
 ---
 
@@ -34,10 +34,6 @@ Le risposte si basano sui materiali del master. I riferimenti tra parentesi indi
 - **European e Regional Innovation Scoreboard.** Raggruppano gli indicatori in quattro categorie: condizioni di contesto, investimenti, attività innovative e impatti. L'Italia è un *moderate innovator*. Le regioni del Sud migliorano, ma restano frenate dalla bassa spesa per innovazione non legata alla R&S e dalla scarsa formazione continua (ivi, pp. 269-274).
 
 **6. Conclusione.** I divari sono multidimensionali e gli indici compositi permettono di leggerli insieme, sapendo però che dipendono dalle scelte di costruzione (indicatori, normalizzazione, pesi). Le lezioni ne traggono un'indicazione di policy: per uscire dalle trappole bisogna agire su istituzioni, istruzione terziaria, trattenimento dei giovani, R&S e innovazione, e non solo sulle risorse finanziarie (*Ferrara 20-27 marzo*, p. 11; *Ferrara, lezioni 13-20 marzo*, p. 56).
-
-> **Integrazioni da fonti esterne**
-> - Il manuale OCSE-JRC di riferimento per la costruzione degli indici compositi descrive le fasi di selezione, normalizzazione, ponderazione, aggregazione e analisi di robustezza: OECD/JRC, *Handbook on Constructing Composite Indicators* (2008), <https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide_9789264043466-en.html>.
-> - Descrizione degli indicatori dell'RCI 2.0 (link riportato nelle slide del docente): <https://ec.europa.eu/regional_policy/sources/work/rci_2022/RCI_2_0_2022_indicators_description.pdf>.
 
 ---
 
@@ -90,20 +86,15 @@ L'UPB segnala rischi al ribasso e il pieno utilizzo dello spazio di bilancio (iv
 
 **7. Conclusione.** Il nuovo Patto è più semplice da monitorare e più adatto ai singoli Paesi, ma resta esigente per quelli ad alto debito. Per l'Italia la sfida è rispettare il percorso della spesa netta, uscire dalla PDE e sostenere la crescita potenziale.
 
-> **Integrazioni da fonti esterne**
-> - Testi normativi: Reg. (UE) 2024/1263 <https://eur-lex.europa.eu/eli/reg/2024/1263/oj>; Reg. (UE) 2024/1264 <https://eur-lex.europa.eu/eli/reg/2024/1264/oj>; Dir. (UE) 2024/1265 <https://eur-lex.europa.eu/eli/dir/2024/1265/oj>.
-
 ---
 
 ## Traccia 3 – Il rapporto Draghi
 
-*Nota: il rapporto Draghi non è tra i materiali del master. La sua sintesi proviene da fonti esterne, riportate in fondo; strumenti, dati e politiche europee e italiane collegate provengono invece dai materiali del corso.*
-
-**1. Il quadro.** Il rapporto *The future of European competitiveness*, presentato da Mario Draghi il 9 settembre 2024, diagnostica un rallentamento della produttività europea negli ultimi vent'anni. Individua tre aree d'azione: colmare il divario di innovazione con Stati Uniti e Cina, conciliare decarbonizzazione e competitività riducendo i prezzi dell'energia, ridurre le dipendenze per rafforzare la sicurezza. Stima un fabbisogno aggiuntivo di investimenti pubblici e privati di circa 750-800 miliardi di euro all'anno, fino a circa il 5% del PIL UE, da finanziare anche con debito comune *[fonti esterne 1-3]*. Qui si approfondiscono due punti: il costo dell'energia e la ricerca e innovazione, con un cenno alle dipendenze.
+**1. Il quadro.** Il rapporto *The future of European competitiveness*, presentato da Mario Draghi il 9 settembre 2024, diagnostica un rallentamento della produttività europea negli ultimi vent'anni. Individua tre aree d'azione: colmare il divario di innovazione con Stati Uniti e Cina, conciliare decarbonizzazione e competitività riducendo i prezzi dell'energia, ridurre le dipendenze per rafforzare la sicurezza. Stima un fabbisogno aggiuntivo di investimenti pubblici e privati di circa 750-800 miliardi di euro all'anno, fino a circa il 5% del PIL UE, da finanziare anche con debito comune. Qui si approfondiscono due punti: il costo dell'energia e la ricerca e innovazione, con un cenno alle dipendenze.
 
 **2. Diminuire i costi dell'energia.**
-- *Diagnosi.* Secondo il rapporto, le imprese europee pagano l'elettricità 2-3 volte più che negli Stati Uniti e il gas 4-5 volte di più *[fonte esterna 4]*. I materiali confermano il problema per l'Italia. Per la dipendenza strutturale dalla produzione elettrica a gas, i prezzi dell'elettricità sono tra i più alti dell'UE. L'alto rapporto tra prezzo dell'elettricità e del gas ostacola l'elettrificazione di famiglie e industria, mentre le rinnovabili crescono troppo lentamente rispetto agli obiettivi 2030, anche per le procedure autorizzative (*CSR 2026*, s. 25). Sul prezzo finale incidono anche gli oneri generali di sistema in bolletta (ivi, s. 26). Il docente collega costo dell'energia e mix di generazione alla produttività delle imprese (*Ferrara 20-27 marzo*, pp. 218-220).
-- *Strategie di attuazione.* Le direttrici proposte dal rapporto *[fonti esterne 1, 4]* sono:
+- *Diagnosi.* Secondo il rapporto, le imprese europee pagano l'elettricità 2-3 volte più che negli Stati Uniti e il gas 4-5 volte di più. I materiali confermano il problema per l'Italia. Per la dipendenza strutturale dalla produzione elettrica a gas, i prezzi dell'elettricità sono tra i più alti dell'UE. L'alto rapporto tra prezzo dell'elettricità e del gas ostacola l'elettrificazione di famiglie e industria, mentre le rinnovabili crescono troppo lentamente rispetto agli obiettivi 2030, anche per le procedure autorizzative (*CSR 2026*, s. 25). Sul prezzo finale incidono anche gli oneri generali di sistema in bolletta (ivi, s. 26). Il docente collega costo dell'energia e mix di generazione alla produttività delle imprese (*Ferrara 20-27 marzo*, pp. 218-220).
+- *Strategie di attuazione.* Le direttrici proposte dal rapporto sono:
   - sganciare il prezzo dell'elettricità prodotta da rinnovabili dal prezzo marginale del gas;
   - diffondere i contratti di lungo periodo;
   - potenziare reti e interconnessioni;
@@ -113,7 +104,7 @@ L'UPB segnala rischi al ribasso e il pieno utilizzo dello spazio di bilancio (iv
   Sul piano europeo la riprogrammazione della coesione va in questa direzione. Il riesame intermedio 2021-2027 (Reg. UE 2025/1914) consente di finanziare la decarbonizzazione industriale, contribuire al *Clean Industrial Deal*, sostenere le comunità energetiche e introduce un obiettivo specifico per gli interconnettori energetici e le reti di trasmissione (*Mid term review*, s. 14, 26). Già REPowerEU puntava ad accelerare l'indipendenza dal gas russo (*Le politiche dell'Unione europea e la coesione*, p. 13). Sul piano nazionale, le raccomandazioni UE chiedono all'Italia di semplificare le autorizzazioni per le rinnovabili e di ridurre e razionalizzare le imposte e gli oneri sull'energia (*CSR 2026*, s. 25-26).
 
 **3. Estendere la capacità di ricerca e innovazione.**
-- *Diagnosi.* Per Draghi colmare il divario di innovazione è la priorità. Tra il 2013 e il 2023 la quota europea dei ricavi tecnologici mondiali è scesa dal 22% al 18%, mentre quella statunitense è salita dal 30% al 38%. Tra le proposte: un'agenzia europea sul modello dell'ARPA statunitense, più finanziamenti alla ricerca di frontiera, incentivi al capitale di rischio, maggiore ruolo della BEI *[fonti esterne 3, 5]*. L'Italia parte da una posizione debole. Le raccomandazioni UE notano che produttività e crescita potenziale sono frenate dai limitati investimenti pubblici e privati in R&S, e che il sostegno pubblico all'innovazione è più circoscritto e meno generoso che nei Paesi comparabili (*CSR 2026*, s. 12). La spesa in R&S è inferiore alla media europea ed è concentrata nelle grandi imprese, che nel 2023 ne sostenevano il 73,1% (*Ferrara 20-27 marzo*, pp. 260-263). L'Italia è un *moderate innovator* nell'European Innovation Scoreboard (ivi, p. 271).
+- *Diagnosi.* Per Draghi colmare il divario di innovazione è la priorità. Tra il 2013 e il 2023 la quota europea dei ricavi tecnologici mondiali è scesa dal 22% al 18%, mentre quella statunitense è salita dal 30% al 38%. Tra le proposte: un'agenzia europea sul modello dell'ARPA statunitense, più finanziamenti alla ricerca di frontiera, incentivi al capitale di rischio, maggiore ruolo della BEI. L'Italia parte da una posizione debole. Le raccomandazioni UE notano che produttività e crescita potenziale sono frenate dai limitati investimenti pubblici e privati in R&S, e che il sostegno pubblico all'innovazione è più circoscritto e meno generoso che nei Paesi comparabili (*CSR 2026*, s. 12). La spesa in R&S è inferiore alla media europea ed è concentrata nelle grandi imprese, che nel 2023 ne sostenevano il 73,1% (*Ferrara 20-27 marzo*, pp. 260-263). L'Italia è un *moderate innovator* nell'European Innovation Scoreboard (ivi, p. 271).
 - *Strategie di attuazione e ruolo delle istituzioni.*
   - *UE – STEP.* La piattaforma per le tecnologie strategiche (Reg. UE 2024/795) non è un nuovo fondo: convoglia risorse da 11 programmi esistenti verso tecnologie digitali e *deep tech*, tecnologie pulite e biotecnologie. Il riesame intermedio permette di finanziarla con il FESR fino al 100%, con prefinanziamenti dedicati, e di sostenere anche le grandi imprese (*Mid term review*, s. 11-14, 30).
   - *UE – IPCEI.* Gli Importanti progetti di comune interesse europeo sono aiuti di Stato autorizzati dalla Commissione per progetti di R&S&I «dirompenti», con il sostegno di almeno quattro Stati membri. In Italia il MIMIT seleziona le proposte. I temi recenti comprendono l'intelligenza artificiale «sovrana» e i dati industriali (*Ferrara 20-27 marzo*, pp. 284-287).
@@ -126,14 +117,6 @@ L'UPB segnala rischi al ribasso e il pieno utilizzo dello spazio di bilancio (iv
 - *UE:* regole (aiuti di Stato, mercato unico dell'energia, concorrenza), coordinamento e strumenti comuni (STEP, IPCEI, coesione, eventuale debito comune);
 - *Stati:* cofinanziamento, incentivi, semplificazione amministrativa, investimenti pubblici in R&S e riforme. Le raccomandazioni specifiche per Paese e i Piani strutturali di bilancio collegano queste azioni alle regole di finanza pubblica;
 - *capacità amministrativa*, condizione trasversale: senza di essa le risorse non si traducono in investimenti (*Ferrara, lezioni 13-20 marzo*, pp. 23, 32).
-
-> **Integrazioni da fonti esterne**
-> 1. Commissione europea, *The future of European competitiveness* (rapporto Draghi, 9 settembre 2024): <https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en>
-> 2. Chatham House, *Mario Draghi's competitiveness report sets a political test for the EU* (2024): <https://www.chathamhouse.org/2024/09/mario-draghis-eu-competitiveness-report-sets-political-test-eu>
-> 3. Real Instituto Elcano, *Dissecting the Draghi report* (dossier, dicembre 2024): <https://media.realinstitutoelcano.org/wp-content/uploads/2024/12/2024-web-dossier-dissecting-the-draghi-report-1.pdf>
-> 4. DLA Piper, *Draghi report on the future of European competitiveness – implications for the energy sector* (25 settembre 2024): <https://www.dlapiper.com/insights/publications/2024/09/draghi-report-on-the-future-of-european-competitiveness---implications-for-the-energy-sector>
-> 5. BayFOR, *Mario Draghi presents his report on EU competitiveness*: <https://www.bayfor.org/en/news/latest-news/news-detail/4968-mario-draghi-presents-his-report-on-eu-competitiveness.html>
-> - Sull'attuazione: secondo un monitoraggio dello European Policy Innovation Council, a un anno dal rapporto solo l'11,2% delle raccomandazioni risultava attuato e nessuna delle 83 in materia di energia: <https://www.eera-set.eu/news-resources/7489-top-story-of-the-week-draghi-report-one-year-on-eu-still-struggling-to-implement-key-measures-especially-on-energy.html>
 
 ---
 
@@ -165,10 +148,6 @@ Nel modello IS-LM-PC uno shock sul prezzo del petrolio equivale a un aumento del
 - la banca centrale deve però muoversi in condizioni di incertezza, perché il livello di Yₙ non è osservabile e può cambiare proprio per effetto dello shock (ivi, pp. 20-22).
 
 Il messaggio di fondo del capitolo: una bassa disoccupazione fa aumentare l'inflazione, ma la relazione dipende in modo cruciale da come persone e imprese formano le aspettative (*Phillips curve*, p. 31).
-
-> **Integrazioni da fonti esterne**
-> - Bernanke e Blanchard, analizzando l'inflazione statunitense del periodo pandemico, concludono che all'inizio è stata spinta soprattutto da shock su prezzi di energia e alimentari e da carenze di offerta, mentre la componente legata al mercato del lavoro è cresciuta più tardi e in modo più persistente: B. Bernanke, O. Blanchard, *What Caused the U.S. Pandemic-Era Inflation?* (Brookings/NBER, 2023), <https://www.brookings.edu/articles/what-caused-the-u-s-pandemic-era-inflation/>.
-> - Nell'area euro l'inflazione armonizzata (HICP) ha toccato il 10,6% nell'ottobre 2022 (Eurostat): <https://ec.europa.eu/eurostat/web/hicp>. La BCE ha risposto rialzando i tassi da luglio 2022; dal 2021 il suo obiettivo è un'inflazione del 2% simmetrica nel medio termine: <https://www.ecb.europa.eu/mopo/strategy/strategy-review/html/index.en.html>.
 
 ---
 
@@ -209,6 +188,3 @@ L'evidenza per cinque Paesi ricchi dal 1985 mostra una crescita dovuta principal
 
 In sintesi, l'accumulazione di capitale aumenta il livello della produzione, ma da sola non può sostenere la crescita (*Crescita 2*, p. 35). Solo un progresso tecnologico continuo, alimentato da ricerca, capitale umano e buone istituzioni, può farlo.
 
-> **Integrazioni da fonti esterne**
-> - Intensità di R&S (spesa in R&S/PIL), Eurostat: nel 2023 poco sopra il 2,2% nella media UE contro circa 1,3-1,4% in Italia (verificare il dato puntuale sulla tabella). Tabella *rd_e_gerdtot*: <https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdtot/default/table>.
-> - Sul ristagno della produttività italiana dalla metà degli anni '90: ISTAT, *Misure di produttività* (comunicato annuale): <https://www.istat.it/comunicato-stampa/misure-di-produttivita/>.
