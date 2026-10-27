@@ -23,3 +23,4 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 
 - Un file Markdown per tema, in una cartella per materia: `civile/`, `penale/`, `amministrativo/`.
 - Nome file: `AAAA-MM-GG-titolo-breve.md`, con la traccia riportata in testa.
+- Per ogni tema va generato anche il PDF con `strumenti/crea-pdf.sh <file.md>` (salvato in `pdf/`), e il PDF va **sempre inviato in chat** all'utente.

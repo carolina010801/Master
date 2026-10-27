@@ -1,0 +1,9 @@
+@page { size: A4; margin: 2.5cm 2.3cm; }
+body { font-family: "Times New Roman", "Liberation Serif", "DejaVu Serif", serif; font-size: 12pt; line-height: 1.5; color: #111; text-align: justify; hyphens: auto; }
+h1 { font-size: 17pt; text-align: center; margin: 0 0 0.6em; }
+h2 { font-size: 13.5pt; margin: 1.3em 0 0.4em; page-break-after: avoid; }
+h3 { font-size: 12pt; font-style: italic; margin: 1em 0 0.3em; page-break-after: avoid; }
+p { margin: 0 0 0.6em; }
+hr { border: none; border-top: 1px solid #999; margin: 1em 0; }
+ul, ol { margin: 0 0 0.6em; padding-left: 1.4em; }
+li { margin-bottom: 0.2em; }
