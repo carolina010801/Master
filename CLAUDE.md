@@ -10,6 +10,13 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 - Preferire la descrizione dell'orientamento ("secondo l'orientamento consolidato della giurisprudenza di legittimità…") alla citazione puntuale, quando quest'ultima non è certa.
 - I testi normativi vanno citati in modo corretto e, se possibile, verificati su fonti ufficiali (es. Normattiva).
 
+## Stile dei temi
+
+- I temi sono destinati all'invio al corso e vanno scritti **come all'esame**: nessun riferimento esplicito a sentenze (estremi) o ad autori.
+- La giurisprudenza e la dottrina si richiamano in forma descrittiva (es. "le Sezioni Unite hanno chiarito…", "secondo una parte della dottrina…", "la giurisprudenza prevalente…"), sempre nel rispetto della regola sulle fonti.
+- Gli articoli di legge si citano normalmente.
+- I temi servono anche per lo studio: devono essere completi e accurati nel contenuto, pur senza citazioni puntuali.
+
 ## Organizzazione dei file
 
 - Un file Markdown per tema, in una cartella per materia: `civile/`, `penale/`, `amministrativo/`.
