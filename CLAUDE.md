@@ -16,6 +16,7 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 - **Giurisprudenza**: si richiama in forma descrittiva, indicando al più l'anno della pronuncia (es. "le Sezioni Unite del 2020 hanno chiarito…"), secondo la regola sulle fonti.
 - **Dottrina**: nel testo si cita solo come "dottrina" (es. "secondo una parte della dottrina…"), con il nome dell'autore tra parentesi quadre come promemoria per lo studio (es. "una parte della dottrina [Gazzoni]…"). Il nome si indica solo se è certo; in bella copia non va ricopiato.
 - Gli articoli di legge si citano normalmente.
+- **Lunghezza**: circa 6 pagine (indicativamente 2.000–2.500 parole), salvo diversa indicazione per la singola traccia.
 - I temi servono anche per lo studio: devono essere completi e accurati nel contenuto, pur senza citazioni puntuali.
 
 ## Organizzazione dei file
