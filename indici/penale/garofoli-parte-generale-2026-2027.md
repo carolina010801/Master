@@ -5,7 +5,7 @@
 - **Edizione**: XXIII edizione 2026-2027
 - **Fonte**: foto dell'indice sommario (pp. IX–XXXVII), inviate il 12/11/2026
 
-**Stato della trascrizione**: l'indice sommario è trascritto **per intero** (pp. IX–XXXVII). **Manca** l'indice analitico, che inizia a p. 1521 del volume.
+**Stato della trascrizione**: completo. Indice sommario (pp. IX–XXXVII) e indice analitico (pp. 1521–1528, in fondo al file). L'indice analitico rinvia a Parte, Capitolo e §, non a pagine, e diversi suoi rinvii non corrispondono a questa edizione: vedi l'avvertenza nella sezione dedicata.
 
 **Come leggere le pagine**: il numero indica la pagina in cui inizia il paragrafo. Il paragrafo finisce dove comincia quello successivo. I titoli sono riportati come nell'indice; per i paragrafi "*Segue*" la parola "Segue" è omessa.
 
@@ -1447,7 +1447,7 @@
 
 ---
 
-**Indice analitico**: p. 1521 *(non ancora trascritto)*.
+**Indice analitico**: p. 1521, trascritto più sotto.
 
 # INDICE ANALITICO (pp. 1521–1528)
 
