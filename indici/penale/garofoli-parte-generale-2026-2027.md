@@ -1448,3 +1448,485 @@
 ---
 
 **Indice analitico**: p. 1521 *(non ancora trascritto)*.
+
+# INDICE ANALITICO (pp. 1521–1528)
+
+**Attenzione: l'indice analitico non dà le pagine.** Per ogni voce indica Parte, Capitolo e § (es. "II, III, 40" = Parte II, Cap. III, § 40). Le pagine si ricavano dal sommario qui sopra.
+
+**Attenzione: molti rinvii non corrispondono al sommario di questa edizione.** Sembrano rimasti da un'edizione precedente. Per esempio, nel Cap. III della Parte II:
+- caso fortuito → l'indice dice § 29, ma nel sommario è il § 32;
+- colpa → l'indice dice § 27, ma è il § 25;
+- cause di esclusione della colpevolezza → l'indice dice § 33, ma sono il § 31;
+- preterintenzione → l'indice dice § 38, ma è il § 36.
+
+Altri esempi: offensività (II, II, 20 → nel sommario § 21); concorso di cause (II, II, 18.1 → nel sommario § 19).
+**Usare l'indice analitico solo come punto di partenza e controllare sempre il sommario.** La trascrizione riporta i rinvii così come sono stampati, compresi quelli sbagliati.
+
+## A
+- *Aberratio causae*: II, III, 39.1
+- — *delicti*: II, III, 41
+- — *ictus*: II, III, 40
+- Abitualità nel reato: II, IV, 15.2
+- *Abolitio criminis*: I, V, 4.6, 5
+- Accessorietà (teoria dell'): II, IV, 2.3
+- Accettazione del rischio (dolo eventuale): II, III, 19
+- *Actio libera in causa*: II, III, 14
+- Adempimento di un dovere: II, II, 40.4.1
+- Agente diplomatico o consolare (immunità dell'): I, V, 17
+- Agente provocatore: II, IV, 28.1
+- — (infiltrato): II, IV, 28.2
+- — (*falsus emptor*): II, IV, 28.2
+- Alcol (intossicazione da): II, III, 11
+- Ambiente del reo: III, I, 3.1
+- Ammenda: III, I, 8
+- Amnistia: — impropria: III, I, 6.2.2; — propria: III, I, 6.2.2
+- Analogia: I, IV, 2
+- Analogia (divieto di): I, IV, 4
+- Antefatto non punibile: II, V, 4.3
+- Antigiuridicità: II, II, 2; II, II, 32
+- — le cause di giustificazione (disciplina delle): II, II, 34
+- — le singole cause di giustificazione: II, II, 34
+- Arresto: III, I, 4
+- Assorbimento (principio di): II, V, 3
+- Attentato (delitti): II, II, 29
+- Attività medico-chirurgica: — (consenso alla): II, II, 43; — colpa professionale: II, III, 29
+- Attività sportiva: II, II, 42; — a violenza necessaria: II, II, 42
+- Autore mediato: II, IV, 27.1
+- Autoriciclaggio (concorso in): II, IV, 32.5
+- Autorità (ordine dell'): II, II, 37.2
+- Avviso orale del questore: III, III, 6.1
+- Azione (concetto di): II, II, 4
+- — (presupposti dell'): II, II, 10
+- — (oggetto materiale dell'): II, II, 8
+
+## B
+- Bancarotta impropria (successione di leggi): I, V, 5.6
+- Bene giuridico: II, II, 9; II, II, 21
+- — (offesa del): II, II, 21
+- Bilanciamento di beni o interessi: II, II, 34
+- Bipartizione (teoria della): II, II, 34.1.1
+
+## C
+- Capo dello Stato: I, V, 16.1
+- — estero (immunità del): I, V, 17
+- Caso Contrada: II, IV, 37.7
+- Caso fortuito: I, I, 12.11; II, III, 29
+- Causalità (rapporto di): II, II, 14
+- — causalità psichica e azioni collettive: II, II, 20.5
+- Cause (equivalenza delle): II, II, 14.1
+- — concorso di: II, II, 19
+- — di esclusione della colpevolezza: II, III, 33
+- — di estinzione della pena: III, I, 7
+- — di giustificazione o scriminanti: II, II, 34 e ss.
+- — di imputabilità: II, III, 7
+- Circostanze del reato: II, IV, 1 e ss.
+- Codice (riserva di): I, II, 6
+- Colpa: II, III, 27
+- — Legge Gelli-Bianco: I, V, 8.11
+- Colpevolezza: II, III, 1
+- — (cause di esclusione della): II, III, 33
+- — come principio costituzionalizzato: II, III, 4
+- — concezione normativa: II, III, 2
+- — concezione psicologica: II, III, 2
+- Commissione del reato: II, IV, 12.6
+- Commisurazione giudiziale della pena: III, I, 3.1
+- Concause: v. *Concorso di cause*
+- Concorso apparente di norme (criteri di soluzione del): II, V, 1
+- — (assorbimento e consunzione): I, V, 3 *(così nel testo; probabilmente II, V, 3)*
+- — (specialità): II, V, 3
+- — (sussidiarietà): II, V, 3
+- Concorso di cause: II, II, 18.1
+- Concorso di persone nel reato: II, IV, 23
+- — circostanze aggravanti e attenuanti: II, IV, 33 e ss.
+- — colposo nel reato doloso: II, IV, 30.4
+- — comunicabilità delle circostanze: II, IV, 34
+- — concorso esterno in mafia: II, IV, 37.7
+- — contributo (materiale e/o morale): II, IV, 27.3
+- — del singolo concorrente: II, IV, 27.3
+- — desistenza e pentimento operoso: II, IV, 35
+- — di minima importanza: II, IV, 33.2
+- — (dolo): II, IV, 28
+- — necessario: II, IV, 54 *(così nel testo; nel sommario è il § 36)*
+- — nel reato colposo: v. *cooperaz. nei delitti colposi*
+- Concorso di reati: II, V
+- — formale: II, V, 12
+- — materiale: II, V, 11
+- — unità e pluralità di azione: II, V, 12.2 e ss.
+- Condizioni obiettive di punibilità: II, II, 13; II, IV, 20.10
+- Condono edilizio: I, III, 5.5
+- Condotta: II, II, 3
+- Confisca: — misura di sicurezza: III, II, 10; — misura di prevenzione: III, III, 7.2
+- Conflitto di doveri: I, IV, 6.1
+- — di norme: v. *Concorso apparente di norme*
+- Conoscenza della legge penale: I, V, 22
+- Consenso dell'avente diritto: II, II, 35
+- Consoli (immunità dei): I, V, 17
+- Consuetudine: I, III, 7
+- Consumazione del reato: II, II, 26
+- Consunzione (principio di): v. Assorbimento
+- Continuazione di reati: II, V, 13 e ss.
+- Contravvenzioni: — concorso di persone: II, V, 29.5; — ed elemento soggettivo: II, III, 31
+- Contromisure (dolo eventuale): II, III, 17.1
+- Cooperazione nei delitti colposi: II, IV, 29
+- Coscienza dell'illiceità penale: II, III, 18
+- Costringimento fisico: II, III, 36
+- — psichico: v. Coazione morale
+- Criterio c.d. strutturale: I, V, 8.9
+- Cronaca giornalistica (diritto di): II, II, 36.3
+- — continenza: II, II, 36.3.1
+- — pertinenza: II, II, 36.3.1
+- — pubblicazione di intervista: II, II, 36.3.4
+- — verità: II, II, 36.3.1
+- Custodia cautelare (successione di leggi): I, V, 14.6
+
+## D
+- Danneggiato dal reato (soggetto): II, II, 8.1
+- Danno criminale: v. Offesa
+- Decreti-legge: I, III, 2
+- — legislativi: I, III, 3
+- — non convertiti: I, V, 10
+- Delega di funzioni: II, II, 5.4 e ss.
+- Delinquente abituale: III, II, 5; — per tendenza: III, II, 5; — professionale: III, II, 5
+- Delitto: v. *Reato*
+- — commesso all'estero: I, V, 26
+- — dello straniero all'estero: I, V, 22
+- — politico: I, V, 21
+- — preterintenzionale: II, III, 38
+- — tentato: II, IV, 17
+- Desistenza volontaria: II, IV, 21
+- Diritto comunitario (Fonti): I, III, 6
+- Discrezionalità: v. Potere discrezionale del giudice: I, IV, 1
+- Disegno criminoso: II, V, 14
+- Dolo (definizione): II, III, 16
+- — differenza con l'errore: II, III, 16.1
+- — accertamento del: II, III, 25
+- — compatibilità con tentativo: II, III, 18.1
+- — dolo alternativo: II, III, 20
+- — dolo diretto: II, III, 17.1
+- — dolo eventuale: II, III, 17.1; (differenza tra dolo eventuale e colpa cosciente): II, III, 17.3
+- — dolo indeterminato: II, III, 20.1
+- — dolo intenzionale: II, III, 17.1
+- — e coscienza dell'offesa: II, III, 17.2
+- — (forme del): II, III, 17.1
+- — (intensità del): II, III, 24
+- — oggetto del: II, III, 21
+- — omissivo: II, III, 21.3
+- — specifico: II, III, 26.3
+- *Dolus in re ipsa*: II, III, 25
+
+## E
+- Eccesso colposo: II, II, 34.7
+- Edilizia (Fonti): I, III, 5.5
+- Effetti intertemporali: I, V, 14.5
+- Efficacia della legge penale: v. Validità
+- Elementi negativi del fatto (teoria degli): II, II, 2
+- Elementi normativi: I, IV, 10
+- — dolo: II, III, 16
+- Elementi rigidi, elastici, vaghi o indeterminati: I, IV, 1.2
+- Emenda (teoria della): III, I, 2
+- Ergastolo: III, I, 4.1
+- Errore: II, III, 33.1
+- — determinato da colpa: II, III, 33.8
+- — di diritto: II, III, 33.1
+- — di fatto: II, III, 33.1
+- — *in persona*: II, IV, 7
+- — su legge extrapenale: II, III, 33.7
+- — sul precetto penale: II, III, 33.1
+- — sulle circostanze: II, IV, 6.1
+- Esercizio di un diritto: II, II, 36
+- Esimenti: v. Cause di giustificazione
+- Espulsione dello straniero dallo Stato: III, I, 7.4 *(così nel testo; nel sommario è III, II, 7.4)*
+- Estero (reati commessi all'): I, V, 20
+- Estinzione (cause di): — del reato: III, I, 6; — della pena: III, I, 7
+- Estradizione: I, V, 27
+- Evento: II, II, 6
+- — giuridico: II, II, 6.1
+- — naturalistico: II, II, 6.1
+
+## F
+- Falso in bilancio (Fonti e diritto comunitario): I, III, 6.2
+- — (successione di leggi): I, V, 5.5
+- Fattispecie plurisoggettiva (v. concorso di persone)
+- *Favor rei*: I, IV, 14.5
+- Fonti del diritto penale: I, III, 1
+- — bandi militari: I, III, 4
+- — consuetudine: I, III, 7
+- — decreti governativi in tempo di guerra: I, III, 4
+- — decreti-legge: I, III, 2
+- — decreti legislativi: I, III, 3
+- — leggi regionali e provinciali: I, III, 5
+- — norme comunitarie: I, III, 6
+- — ordinanze: I, III, 4
+- — pronunce della Corte costituzionale: I, III, 8
+- — regolamenti del potere esecutivo: I, II, 3
+- Formula di Frank: II, III, 17.5
+- Forza maggiore: II, III, 35
+
+## G
+- Giudicato: I, V, 3
+- — violazione della Convenzione europea dei diritti dell'uomo: I, V, 3.3
+- Giudice di pace: — reati di competenza: II, II, 27.8
+- Giustificazione (cause di): v. Antigiuridicità
+- Giustizia riparativa: III, I, 9
+- Gravità del reato: III, I, 3.1
+- Grazia: III, I, 7.5
+
+## I
+- Idoneità degli atti (tentativo): II, IV, 18.3
+- *Ignorantia legis*: II, III, 32
+- Illeciti: — penali e amministrativi: I, V, 4.3; — penali e civili: I, V, 4.4
+- Illiceità speciale: II, III, 33.6.1
+- Immaturità: II, III, 8
+- Immunità: I, V, 15.1
+- — assolute e relative: I, V, 15.1
+- — concorso dell'*extraneus*: I, V, 18
+- — di diritto internazionale: I, V, 17
+- — di diritto pubblico interno: I, V, 16
+- — immune e misure di sicurezza: I, V, 18
+- Improcedibilità per superamento dei termini di durata massima del giudizio di impugnazione: I, V, 14.4
+- Indebita destinazione di denaro (profili successori): I, V, 5.10
+
+## L
+- Legalità (principio di): I, I, 1
+- — riserva di legge: I, II, 1
+- Legge penale: — comunitarie: I, III, 6; — dichiarata incostituzionale: I, V, 11; — in bianco: I, II, 5; — nel tempo: I, V, 1; — processuale: I, V, 14; — più favorevole: I, V, 7; — regionale e provinciale: I, III, 5
+- Leggi eccezionali temporanee e finanziarie: v. Successione di leggi
+- Legittima difesa: II, II, 38
+- Luogo del commesso reato: I, V, 23
+- — delitti informatici: I, V, 23.1
+- — diffamazione *on line*: I, V, 23.2
+- — ingiuria e diffamazione: I, V, 23.2
+- — reati omissivi: I, V, 23
+- — reati permanenti: I, V, 23
+
+## M
+- Malattie mentali: v. *Infermità di mente*
+- Manicomio giudiziario (ospedale psichiatrico giudiziario): III, II, 6.3
+- Materialità (principio di): II, II, 1
+- Membri del parlamento (immunità): I, V, 16.2
+- Minore età: II, III, 8
+- Misure alternative alla detenzione: III, I, 8
+- Misure di prevenzione: III, III, 1; — (personali): III, III, 6; — (patrimoniali): III, III, 7
+- Misure di sicurezza: III, II, 1
+- — applicazione: III, II, 2
+- — delinquente abituale, professionale e per tendenza: III, II, 5
+- — pericolosità sociale: III, II, 3
+- — principio di legalità: III, II, 4
+- — (natura giuridica): III, II, 1
+- — (presupposti): III, II, 2
+- Morte del reo (dopo la condanna): III, I, 7.1
+- Motivi abietti o futili: II, IV, 12.1
+- — di particolare valore morale: II, IV, 13
+- Multa: III, I, 4
+
+## N
+- *Ne bis in idem*: I, I, 8; I, V, 27.4; II, V, 3
+- Nesso causale: v. *Causalità*
+- Norme penali in bianco: I, II, 5
+- *Nullum crimen nulla poena sine lege*: I, I, 1
+
+## O
+- Obbligo di impedire l'evento e posizione di garanzia: II, II, 5
+- Oblazione: III, I, 6.2.6
+- *Offendicula*: II, II, 45
+- Offensività (principio di): II, II, 20
+- Offesa (come contenuto del reato): II, II, 21
+- Oggettività giuridica del reato: II, II, 9
+- — oggetto materiale della condotta: II, II, 9
+- Oltraggio (successione di leggi): I, V, 5.9
+- Omissione: II, II, 5
+- — causalità: II, II, 19.4
+- — impropria: II, II, 5.3
+- — posizione di garanzia: II, II, 5.3.3
+- — propria: II, II, 5.2
+- — tentativo e concorso: II, IV, 20.1
+- Ordine dell'autorità: II, II, 37.2
+- Ospedale psichiatrico giudiziario: III, II, 6.3
+- Oziosi e vagabondi: III, III, 2
+
+## P
+- Parlamentari (immunità dei): I, V, 16.2
+- Partecipazione criminosa: v. *Concorso di persone*
+- Pena: — commisurazione giudiziale: III, I, 3.1; — dell'ergastolo: III, I, 4.1; — distinzioni: III, I, 4; III, I, 5; — e Costituzione: III, I, 1; — estinzione: III, I, 7; — funzioni (dibattito attuale sulle): III, I, 2
+- Penalizzazione: I, V, 4.4
+- Pene: — alternative: III, I, 8; — principali: III, I, 4; — sostitutive: III, I, 8
+- Pentimento operoso o recesso attivo: II, IV, 21
+- Pentimento *post delictum*: II, IV, 13
+- Perdono giudiziale: III, I, 6.2.8
+- Pericolo (reati di): II, II, 28
+- — astratto o presunto: II, II, 28.1.2
+- — concreto: II, II, 28.1.2
+- Pericolosità sociale: III, II, 3
+- — abolizione delle presunzioni legali: III, III, 3
+- — nel sistema delle misure di prevenzione: III, III, 5
+- Persona giuridica (responsabilità della): II, I, 2
+- — responsabilità delle persone fisiche e delega: II, I, 4
+- Personalità della responsabilità penale (principio di): II, III, 33
+- Pluralità di azioni: — di persone nel concorso criminoso: II, V, 12; — di reati: II, IV, 12
+- Pontefice: I, V, 17
+- Posizione di garanzia: II, II, 5.3.3
+- Postfatto non punibile: II, V, 4.3
+- Potere discrezionale del giudice e commisurazione della pena: III, I, 3
+- Potestà dei genitori (decadenza o sospensione della): III, I, 5
+- Prescrizione della pena: III, I, 7
+- — del reato: III, I, 6
+- Presidente della Repubblica: I, V, 16.1
+- Presupposti della condotta: II, II, 10
+- Preterintenzione: II, III, 38
+- Prevenzione generale: III, I, 2
+- Prevenzione speciale: III, I, 2
+- Previsione dell'evento: v. Colpa cosciente
+- Principi: — di assorbimento e consunzione: II, V, 3; — di colpevolezza: II, III, 1; — di irretroattività: I, V, 1.1; III, II, 4; — di legalità: I, I, 1; III, II, 4; — di materialità: II, II, 1; — di obbligatorietà della legge penale: I, V, 15; — di personalità (validità della legge penale): I, V, 15; — di rieducazione: III, I, 2; — di specialità: II, V, 27.3; — di sussidiarietà: II, V, 27.4; — di tassatività: I, IV, 1; — di territorialità: I, V, 19; — di universalità: I, V, 19; — *societas delinquere non potest*: II, I, 1.1
+- Principio della riserva di legge: I, II, 1
+- — del *ne bis in idem* sostanziale: II, V, 3
+- Professionalità nel reato: II, V, 17
+- Professione e arte (interdizione, sospensione): III, I, 5
+- Progressione criminosa: II, V, 4
+- Proporzione (principio di): II, II, 22.2; III, I, 3.1
+- Propulsiva o promozionale (funzione del diritto penale): II, II, 5
+- Provocazione: II, IV, 13.1
+- Pubblicazione della sentenza di condanna: III, I, 5
+- Pubblici uffici (interdizione): III, I, 5
+
+## Q
+- Qualifiche soggettive: II, II, 12
+- Quasi reato: III, II, 2
+- Querela: — remissione: III, I, 6.2.3
+
+## R
+- Rapporto di causalità: v. *Causalità*
+- Rappresentazione (elemento intellettivo del dolo): II, III, 15
+- Reati: — ostativi: II, II, 31; — qualificati dall'evento: II, III, 37.1; — vaghi o vaganti: I, IV, 1.2
+- Reato (classificazione dei tipi di):
+  - — a forma libera: II, II, 4.1; — a forma vincolata: II, II, 4.1
+  - — aberrante: II, III, 38
+  - — abituale: II, V, 13.3
+  - — aggravato o qualificato dall'evento: II, III, 35
+  - — circostanziato: II, IV, 1
+  - — colposo: II, III, 24
+  - — commissivo mediante omissione (omissivo improprio): II, II, 5
+  - — complesso: II, IV, 20.5
+  - — consumato: II, IV, 15
+  - — continuato: II, V, 15
+  - — di attentato: II, II, 29
+  - — di azione o mera condotta: II, II, 4
+  - — di danno: II, II, 27; — di evento: II, II, 27
+  - — di passaggio: II, IV, 28
+  - — di pericolo astratto o concreto: II, II, 27
+  - — doloso: II, III, 17
+  - — evento differito: I, V, 13.1
+  - — frazionabile: II, IV, 15.1.5
+  - — impossibile: II, II, 24.1
+  - — istantaneo: II, IV, 15.1
+  - — omissivo improprio: II, II, 5.3; — omissivo proprio: II, II, 5.2
+  - — ostativo: II, II, 30
+  - — permanente: II, IV, 15.1
+  - — preterintenzionale: II, III, 38
+  - — progressivo: II, V, 4
+  - — proprio (nel concorso di persone): II, II, 5.2
+  - — putativo: II, II, 33
+  - — reati contratto e in contratto: II, IV, 36.2
+  - — societari (successione di leggi): I, V, 5.7
+  - — tentato: II, IV, 15
+  - — transnazionale: II, IV, 12.21
+- Recesso attivo (o pentimento operoso): II, IV, 21
+- Reclusione: III, I, 4
+- Regolamenti (e altre fonti normative subordinate): I, II, 3
+- Responsabilità delle persone giuridiche: II, I, 3.14
+- — problemi di costituzionalità: II, III, 34.4
+- — pura e mista (casi di): II, III, 34.3
+- Retribuzione (teoria della pena): III, I, 2
+- — e principio di proporzione: III, I, 3
+- — recenti tendenze neoretribuzionistiche: III, I, 2
+- Retroattività della legge penale più favorevole: I, V, 1.1; I, V, 7
+- Riabilitazione: III, I, 7.7
+- Ricadute intertemporali: I, III, 8.3.3
+- Ricovero in ospedale psichiatrico giudiziario: III, II, 6.3
+- Rieducazione del condannato: III, I, 2
+- Riforma del processo penale (decreto legislativo approvato in via definitiva dal Consiglio dei Ministri il 28 settembre 2022):
+  - — circostanza attenuante dell'avvenuto risarcimento del danno: II, IV, 13.5
+  - — condizioni economiche e patrimoniali del reo (criteri commisurazione pena): III, I, 3.1
+  - — estinzione delle contravvenzioni per adempimento di prescrizioni impartite dall'organo accertatore: III, I, 6.2.9
+  - — non punibilità per particolare tenuità del fatto: II, II, 27
+  - — sanzioni sostitutive: III, I, 8
+- Riformatorio giudiziario: III, II, 6.4
+- Rimpatrio con foglio di via obbligatorio: III, III, 6.2
+- Rischio consentito (attività sportiva): II, II, 42.2
+- Riserva di legge (principio della): I, II
+- — natura: I, II, 3.1
+- — e potere esecutivo: I, II, 3
+
+## S
+- Scriminanti: v. *Cause di giustificazione*
+- Scusanti legalmente riconosciute: II, III, 33
+- Semidetenzione: III, I, 4.2.2
+- Semilibertà: III, I, 4.2.2
+- Seminfermità di mente: II, III, 4.2.2 *(così nel testo)*
+- Sequestro conservativo penale dei beni (misura di prevenzione): III, III, 7
+- Soccorso di necessità: II, II, 39.1
+- Soggetto attivo del reato: II, I, 1
+- — passivo del reato: II, II, 8
+- Sordomutismo: II, III, 12
+- Sorveglianza speciale (con divieto od obbligo di soggiorno): III, III, 6.3
+- Sospensione condizionale della pena: III, I, 6.2.4
+- — dagli uffici direttivi delle persone giuridiche o delle imprese: III, I, 5
+- — dall'esercizio di una professione o di un'arte: III, I, 5
+- Sospensione della prescrizione: III, II, 6.1.2 *(così nel testo; nel sommario è III, I, 6.1.2)*
+- Spazio (legge penale nello): I, V, 19
+- Specialità (principio di): II, IV, 26.1.4
+- Stati emotivi e passionali: II, III, 10
+- Stato di necessità: II, II, 39
+- Stranieri: I, V, 17
+- Struttura del reato: II, II
+- Stupefacenti (intossicazione da): II, III, 11
+- Successione di leggi penali: I, V, 1
+- — *abolitio criminis*: I, V, 5
+- — applicabilità della legge più favorevole: I, V, 7
+- — decreti-legge non convertiti: I, V, 10
+- — legge integratrice di elemento normativo: I, V, 8
+- — leggi dichiarate incostituzionali: I, V, 11
+- — leggi eccezionali, temporanee e finanziarie: I, V, 9
+- — leggi processuali: I, V, 14
+- — reati via internet: I, V, 23.1
+- *Suitas*: II, III, 5
+- Sussidiarietà (concorso di norme): II, IV, 27.4
+
+## T
+- Tassatività (principio di): I, IV, 1
+- Tempo del commesso reato: I, V, 13
+- Tendenza a delinquere: III, II, 5
+- Tentativo: II, IV, 16
+- — desistenza volontaria e recesso attivo: II, IV, 21
+- — e circostanze: II, IV, 22
+- — elemento soggettivo: II, IV, 15.2.1.1
+- — fondamento della punibilità: II, IV, 17
+- — idoneità degli atti: II, IV, 18.3
+- — inizio dell'attività punibile: II, IV, 18
+- — nei vari reati: II, IV, 20
+- — nel reato omissivo: II, IV, 20.6
+- — univocità degli atti: II, IV, 18.2
+- Tenuità del fatto: II, II, 27
+- Territorialità (principio di): I, V, 19
+- Territorio dello Stato: I, V, 19
+- — (reati commessi nel): I, V, 19
+- Tipologie di delinquenti pericolosi: III, II, 5
+- Trattamento penitenziario: III, I, 9
+- Tripartizione (teoria della): II, II, 2
+
+## U
+- Ubriachezza: II, III, 11
+- — abituale: II, III, 11; — accidentale: II, III, 11; — preordinata: II, III, 14; — volontaria o colposa: II, III, 11
+- Unità e pluralità di azione: II, IV, 24
+- Universalità (principio di): I, V, 19
+- Univocità degli atti (tentativo): II, IV, 18, 18.2
+- Uso legittimo delle armi: II, II, 40
+
+## V
+- Validità della legge penale nello spazio: I, V, 19
+- — rispetto alle persone: I, V, 15
+- Vizio parziale di mente: II, III, 9
+- — totale di mente: II, III, 9
+- Volontà (dolo): II, III, 16
+
+## W
+- *Whistleblowing* (tutela del): II, I, 3.9.4
