@@ -19,6 +19,11 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 - **Lunghezza**: circa 6 pagine (indicativamente 2.000–2.500 parole), salvo diversa indicazione per la singola traccia.
 - I temi servono anche per lo studio: devono essere completi e accurati nel contenuto, pur senza citazioni puntuali.
 
+## Indici dei manuali
+
+- Gli indici dei manuali (trascritti dalle foto) sono in `indici/<materia>/`, un file per manuale ed edizione.
+- Quando viene chiesto dove si trova un argomento, rispondere con libro, capitolo/paragrafo e pagine **solo sulla base degli indici trascritti**. Se l'argomento non compare, dirlo chiaramente; un eventuale paragrafo affine va segnalato come ipotesi.
+
 ## Organizzazione dei file
 
 - Un file Markdown per tema, in una cartella per materia: `civile/`, `penale/`, `amministrativo/`.
