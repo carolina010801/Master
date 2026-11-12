@@ -3,9 +3,9 @@
 - **Autore**: Roberto Garofoli
 - **Editore**: NelDiritto Editore
 - **Edizione**: XXIII edizione 2026-2027
-- **Fonte**: foto dell'indice sommario (pp. IX–XXIV), inviate il 12/11/2026
+- **Fonte**: foto dell'indice sommario (pp. IX–XXXVII), inviate il 12/11/2026
 
-**Stato della trascrizione**: l'indice sommario è trascritto **fino a p. XXIV**, cioè fino a Parte II, Cap. III, Sez. III, § 17.2 (p. 819). **Mancano** il resto del sommario (dal § 17.3 in poi) e l'indice analitico.
+**Stato della trascrizione**: l'indice sommario è trascritto **per intero** (pp. IX–XXXVII). **Manca** l'indice analitico, che inizia a p. 1521 del volume.
 
 **Come leggere le pagine**: il numero indica la pagina in cui inizia il paragrafo. Il paragrafo finisce dove comincia quello successivo. I titoli sono riportati come nell'indice; per i paragrafi "*Segue*" la parola "Segue" è omessa.
 
@@ -790,4 +790,661 @@
 | 17.1 | La tripartizione tra dolo intenzionale, diretto ed eventuale | 817 |
 | 17.2 | Dolo diretto e dolo eventuale: le differenze | 819 |
 
-*(Il sommario prosegue da p. XXV, § 17.3: foto non ancora ricevute.)*
+| 17.3 | Dolo eventuale e colpa con previsione: differenze. Le tesi sul tappeto | 820 |
+| 17.4 | Teorie intellettualistiche classiche | 820 |
+| 17.5 | Le teorie volontaristiche | 822 |
+| 17.6 | Criterio dell'accettazione del rischio. Critiche ed evoluzione | 823 |
+| 17.7 | Il superamento della teoria dell'accettazione del rischio e l'adesione alla teoria del bilanciamento | 824 |
+| 17.8 | Il criterio del bilanciamento e l'approccio processuale-probatorio nel caso *Thyssenkrupp*. Le ripercussioni nel settore stradale | 825 |
+| 17.9 | Teorie oggettivistiche. La teoria del rischio non schermato | 827 |
+| 18 | Compatibilità del dolo eventuale con il dolo specifico e con il dolo intenzionale previsto dalla fattispecie | 828 |
+| 18.1 | Compatibilità con il tentativo: rinvio | 831 |
+| 19 | Dolo eventuale nell'era digitale: condotte algoritmiche e accettazione del rischio | 831 |
+| 19.1 | L'amministratore di piattaforma che non interviene a fronte di segnalati contenuti illeciti | 831 |
+| 19.2 | Lo sviluppatore di algoritmi ad effetti discriminatori | 831 |
+| 19.3 | Il gestore di un *marketplace* operante nella rete anonima Tor | 832 |
+| 20 | Il dolo alternativo | 832 |
+| 20.1 | Elementi: a) incompatibilità tra gli obiettivi presi di mira; b) indifferenza per l'uno o per l'altro | 833 |
+| 20.2 | Dolo alternativo oggettivo e soggettivo. Differenze rispetto all'*aberratio ictus* | 833 |
+| 20.3 | Natura del dolo alternativo e rapporti con dolo diretto e dolo eventuale. I rapporti con il tentativo | 834 |
+| 21 | L'oggetto del dolo: ulteriori precisazioni | 834 |
+| 21.1 | L'oggetto del dolo nei reati a dolo generico e specifico | 835 |
+| 21.2 | Il fatto concreto come oggetto del dolo | 836 |
+| 21.3 | Il dolo nei reati omissivi | 838 |
+| 22 | L'intensità del dolo | 839 |
+| 22.1 | La premeditazione | 840 |
+| 23 | Accertamento del dolo. Problematica del *dolus in re ipsa* | 843 |
+| 24 | Le forme del dolo: ulteriori distinzioni | 845 |
+| 24.1 | Dolo di danno e dolo di pericolo | 845 |
+| 24.2 | Dolo iniziale, concomitante e successivo | 845 |
+| 24.3 | Il dolo specifico | 846 |
+| 24.3.1 | Dolo specifico e offensività: oggettivizzazione del dolo specifico. Le applicazioni in tema di associazione con finalità terroristiche e di aggravante dell'agevolazione mafiosa | 846 |
+| 24.3.2 | La nozione di profitto nel dolo specifico del delitto di furto: interviene Cass., Sez. un., 12 ottobre 2023, n. 41570 | 848 |
+
+### Sezione IV — La colpa (p. 850)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 25 | La colpa nell'art. 43 c.p. | 850 |
+| 25.1 | La struttura della colpa. Il superamento delle teorie della prevedibilità, della prevenibilità, della pericolosità, dell'errore e delle teorie oggettive. L'affermarsi della teoria mista | 850 |
+| 25.2 | La non volontà del fatto. La c.d. colpa impropria | 852 |
+| 25.3 | La violazione delle regole cautelari. Regole scritte e non scritte. Colpa specifica e generica | 852 |
+| 25.4 | La rimproverabilità dell'inosservanza: la c.d. misura soggettiva della colpa | 854 |
+| 25.5 | Colpa generica. I parametri dell'esigibilità. La dosimetria della colpa: *bonus pater familias*, *homo eiusdem professionis et condicionis*, uomo più esperto e la teoria della doppia misura | 855 |
+| 25.6 | La colpa specifica è colpa presunta? È ugualmente necessario il giudizio di prevedibilità ed evitabilità? Regole cautelari scritte rigide ed elastiche | 859 |
+| 26 | La c.d. causalità della colpa. Concretizzazione del rischio e comportamento alternativo lecito | 860 |
+| 26.1 | La struttura del nesso colpa-evento. I due momenti dell'indagine | 863 |
+| 26.2 | Causalità della colpa e causalità della condotta | 864 |
+| 26.2.1 | La normativa di contrasto all'epidemia da Covid-19 e i nuovi obblighi in capo al datore di lavoro | 866 |
+| 26.3 | Colpa della persona offesa dal reato e interruzione del nesso causale, in specie nei settori della circolazione stradale e dell'infortunistica sul lavoro: rinvio | 867 |
+| 26.4 | È configurabile la colpa in chi già versa *in re illicita*? Rinvio | 867 |
+| 26.5 | La colpa quale criterio di addebito delle circostanze aggravanti; differenze rispetto alla colpa intesa quale elemento costitutivo del reato: rinvio | 868 |
+| 27 | Colpa comune e colpa professionale; in particolare la colpa professionale nell'attività medica | 868 |
+| 27.1 | Richiami giurisprudenziali all'art. 2236 c.c. | 870 |
+| 27.2 | Osservanza delle linee-guida e colpa medica. Il c.d. decreto Balduzzi | 871 |
+| 27.3 | La legge 8 marzo 2017, n. 24 (c.d. "Gelli-Bianco") e l'introduzione dell'art. 590-*sexies* c.p. | 872 |
+| 27.3.1 | Quadro d'insieme della nuova disciplina. Ambito soggettivo e nuova disciplina delle linee guida | 873 |
+| 27.3.2 | Il reale ambito applicativo della causa di non punibilità e i profili successori. Il contrasto giurisprudenziale e l'intervento delle Sezioni Unite | 874 |
+| 27.4 | La responsabilità medica durante l'emergenza sanitaria da Coronavirus: le questioni sul campo prima della novella normativa del 2021 | 877 |
+| 27.4.1 | Responsabilità medica e pandemia: le rilevanti novità introdotte dagli articoli 3 e 3-*bis* del d.l. 44/2021, convertito dalla l. 28 maggio 2021, n. 76 | 878 |
+| 27.4.2 | Lo scudo penale introdotto dalla L. 23 febbraio 2024, n. 18. La proroga prevista dalla L. 27 febbraio 2026, n. 26, di conv. del D.l. 31 dicembre 2025, n. 200 c.d. Milleproroghe | 879 |
+| 27.5 | Lavoro pluridisciplinare, anche in *équipe*: gli obblighi divisi | 879 |
+| 27.6 | Principio di affidamento. Genesi, fondamento costituzionale e rapporti con il principio del rischio consentito | 880 |
+| 27.7 | Limiti al principio di affidamento. Obbligo di porre rimedio a errori altrui che siano evidenti e non settoriali. L'*équipe* medica | 884 |
+| 27.8 | Gli obblighi gravanti sul soggetto apicale | 885 |
+| 27.9 | La successione nella titolarità della posizione di garanzia del medico | 885 |
+| 27.10 | Comportamento esigibile dal medico specializzando | 886 |
+| 28 | Colpa e intelligenza artificiale: lo standard di diligenza dell'operatore di sistemi automatizzati | 887 |
+| 28.1 | L'AI nel settore medico | 888 |
+| 28.2 | L'AI e la guida autonoma nella circolazione stradale | 889 |
+| 28.3 | L'AI nell'esercizio della professione legale | 889 |
+
+### Sezione V — L'elemento soggettivo nelle contravvenzioni (p. 891)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 29 | L'elemento soggettivo nelle contravvenzioni | 891 |
+| 30 | Problemi relativi alla tecnica di accertamento dell'elemento soggettivo | 892 |
+
+### Sezione VI — Cause di esclusione della colpevolezza (p. 894)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 31 | Le cause di esclusione della colpevolezza in generale. La tassatività delle scusanti | 894 |
+| 31.1 | L'errore. La differenza tra errore sul precetto ed errore sul fatto | 895 |
+| 31.2 | L'ambito di applicazione dell'art. 47, co. 3, c.p. | 898 |
+| 31.3 | La tesi dottrinale prevalente degli "effetti psicologici ultimi" | 900 |
+| 31.4 | L'orientamento giurisprudenziale maggioritario. La tesi della c.d. "incorporazione" | 901 |
+| 31.5 | La configurazione dell'art. 47, co. 3, c.p. come "deroga espressa" all'art. 5 c.p. | 904 |
+| 31.6 | Le ipotesi applicative più problematiche | 905 |
+| 31.6.1 | L'errore sugli elementi di "illiceità speciale" | 905 |
+| 31.6.2 | L'errore sulle norme penali "in bianco" | 906 |
+| 31.6.3 | L'errore sulla qualifica del soggetto attivo | 907 |
+| 31.6.4 | L'errore sui presupposti dei reati omissivi e sulla fonte e sul contenuto della posizione di garanzia nei reati omissivi impropri | 908 |
+| 31.7 | Il concetto di "legge extrapenale" | 910 |
+| 31.8 | L'errore sulla legge extrapenale determinato da "colpa" e la responsabilità dolosa *ex* art. 47, co. 2, c.p. per il "diverso" reato realizzato | 911 |
+| 31.9 | L'errore determinato dall'altrui inganno | 912 |
+| 31.10 | L'errore nei reati tributari | 916 |
+| 32 | Nozione di caso fortuito | 918 |
+| 32.1 | La teoria oggettiva | 918 |
+| 32.2 | La teoria soggettiva | 919 |
+| 32.3 | La teoria mista | 920 |
+| 32.4 | Nozione giurisprudenziale di caso fortuito | 921 |
+| 32.5 | L'onere della prova del caso fortuito | 921 |
+| 33 | La forza maggiore | 922 |
+| 33.1 | Inesigibilità e forza maggiore nell'assolvimento degli obblighi tributari | 923 |
+| 34 | Il costringimento fisico | 925 |
+
+### Sezione VII — Responsabilità oggettiva (p. 927)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 35 | Responsabilità oggettiva. La previsione dell'art. 42 c.p. | 927 |
+| 35.1 | Responsabilità oggettiva espressa. Progressiva erosione e ipotesi residue | 927 |
+| 35.2 | Responsabilità oggettiva occulta | 928 |
+| 35.3 | Responsabilità oggettiva pura e responsabilità oggettiva mista | 929 |
+| 35.4 | Responsabilità oggettiva e Costituzione | 929 |
+| 35.4.1 | L'intervento della Corte costituzionale con le pronunce nn. 364/1988 e 1085/1988 | 930 |
+| 35.4.2 | La riconduzione sistematica delle ipotesi di responsabilità oggettiva alla logica del dolo misto a colpa. Il ruolo sistemico della sentenza *Ronci* | 932 |
+| 35.5 | Inescusabilità dell'ignoranza dell'età della persona offesa nei reati contro la libertà sessuale e carattere personale della responsabilità penale | 934 |
+| 35.6 | I reati commessi col mezzo della stampa periodica | 935 |
+| 35.6.1 | Il contenuto dell'obbligo di controllo gravante sul direttore del giornale | 939 |
+| 35.7 | I reati commessi col mezzo della stampa non periodica | 941 |
+| 36 | Preterintenzione: definizione | 941 |
+| 36.1 | È necessario che il reato base abbia raggiunto la soglia del tentativo punibile? Applicazioni in tema di omicidio preterintenzionale. Il tipo di dolo richiesto per integrare il reato base | 942 |
+| 36.2 | È configurabile l'omicidio preterintenzionale mediante omissione? | 944 |
+| 36.3 | Rapporto di causalità | 944 |
+| 36.4 | Imputazione dell'evento non voluto | 945 |
+| 36.4.1 | L'evento più grave non è disvoluto, ma lambito | 946 |
+| 36.4.2 | La tesi del dolo misto a responsabilità oggettiva | 946 |
+| 36.4.3 | La tesi del dolo misto a colpa presunta | 947 |
+| 36.4.4 | La tesi giurisprudenziale del dolo unitario di percosse e lesioni | 948 |
+| 36.4.5 | La tesi del dolo misto a colpa | 949 |
+| 36.5 | Problematiche applicative | 951 |
+| 36.6 | Omicidio preterintenzionale e *aberratio*: rinvio | 951 |
+| 36.7 | La compatibilità con il concorso anomalo *ex* art. 116 c.p. | 952 |
+| 36.8 | L'aborto preterintenzionale | 952 |
+| 37 | Reati aggravati dall'evento. La tripartizione | 953 |
+| 37.1 | Natura dell'evento aggravante | 953 |
+| 37.1.1 | La tesi che conduce taluni delitti aggravati dall'evento nella categoria dei delitti preterintenzionali | 955 |
+| 38 | Art. 586 c.p. I rapporti tra artt. 586 e 83 c.p. | 956 |
+| 38.1 | Il nesso eziologico tra la condotta che costituisce, già di per sé, reato doloso e l'evento non voluto | 957 |
+| 38.2 | Imputazione soggettiva. Le tesi sul tappeto e l'intervento delle Sezioni Unite | 958 |
+| 38.3 | I rapporti con l'omicidio preterintenzionale | 962 |
+| 38.4 | Continuazione, concorso formale e art. 586 c.p. | 963 |
+| 38.5 | Il reato di morte o lesioni come conseguenza di delitti di immigrazione clandestina (art. 12-*bis* T.U. Immigrazione) al vaglio di Corte cost., 20 maggio 2026, n. 120 | 963 |
+
+### Sezione VIII — *Aberratio ictus* e *aberratio delicti* (p. 966)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 39 | Premessa | 966 |
+| 39.1 | L'*aberratio causae* | 966 |
+| 40 | L'*aberratio ictus* | 966 |
+| 40.1 | L'ambito applicativo dell'art. 82 c.p. | 968 |
+| 40.2 | Il criterio di attribuzione della responsabilità | 969 |
+| 40.2.1 | La funzione dichiarativa dell'art. 82 c.p. | 969 |
+| 40.2.2 | La funzione costitutiva | 970 |
+| 40.3 | Sulla necessità che vengano integrati gli estremi del tentativo in relazione alla vittima designata | 971 |
+| 40.4 | L'*aberratio ictus* plurilesiva | 971 |
+| 40.4.1 | Il caso in cui, oltre alla vittima, vengono lese due o più persone oppure più persone e non la vittima designata | 974 |
+| 40.5 | L'*aberratio ictus* e le scriminanti | 975 |
+| 40.6 | *Aberratio ictus* e omicidio preterintenzionale. L'omicidio preterintenzionale aberrante | 975 |
+| 40.7 | *Aberratio ictus* ed *error in persona* | 976 |
+| 40.8 | Incidenza dell'*aberratio ictus* nel riconoscimento della continuazione | 976 |
+| 41 | L'*aberratio delicti*. I rapporti con l'*aberratio ictus* | 977 |
+| 41.1 | Il criterio di addebito. La responsabilità "a titolo di colpa" | 978 |
+| 41.2 | *Aberratio delicti* plurioffensiva | 978 |
+| 41.3 | La natura giuridica | 979 |
+| 41.4 | *Aberratio delicti* plurilesiva. I casi in cui si verificano due o più eventi non voluti | 979 |
+| 41.5 | L'*aberratio delicti* e l'articolo 116 c.p. | 979 |
+| 41.6 | L'*aberratio delicti* e l'articolo 586 c.p.: rinvio | 981 |
+
+## Capitolo IV — Le forme di manifestazione del reato (p. 983)
+
+### Sezione I — Le circostanze del reato (p. 987)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Nozione e funzione delle circostanze del reato | 987 |
+| 2 | La distinzione tra circostanze ed elementi costitutivi del reato | 987 |
+| 2.1 | La rilevanza pratica della distinzione | 988 |
+| 2.2 | I criteri di distinzione. Le tesi | 988 |
+| 2.3 | La tesi dell'accessorietà | 988 |
+| 2.4 | La tesi dell'inidoneità a ledere il bene protetto | 989 |
+| 2.5 | La tesi della diversa struttura della norma | 989 |
+| 2.6 | Le tesi che optano, nel dubbio, rispettivamente per la natura di elemento costitutivo o di circostanza | 989 |
+| 2.7 | La tesi che valorizza la relazione di specialità | 989 |
+| 2.8 | Il criterio strutturale delle "modalità di descrizione della fattispecie" | 990 |
+| 2.9 | Orientamenti giurisprudenziali orientati a valorizzare criteri diversi da quello strutturale | 991 |
+| 2.10 | La conferma del criterio strutturale da parte delle Sezioni Unite e la giurisprudenza successiva | 993 |
+| 3 | La classificazione delle circostanze: i criteri di origine legale. In particolare: le circostanze ad effetto speciale | 995 |
+| 3.1 | L'incerto regime delle circostanze indipendenti. Cass., Sez. un., 9 giugno 2017, n. 28953, interviene sui rapporti tra prescrizione e circostanze indipendenti | 996 |
+| 4 | I criteri di classificazione di origine dottrinale. In particolare: le circostanze definite e indefinite | 998 |
+| 5 | Il regime di imputazione delle circostanze: aspetti generali | 999 |
+| 6 | Il regime di imputazione delle circostanze aggravanti | 1000 |
+| 6.1 | La tesi dell'imputazione soggettiva differenziata | 1001 |
+| 6.2 | La tesi dell'unicità del criterio di imputazione | 1001 |
+| 6.3 | Conoscenza *ex* art. 59, co. 2, c.p. e dolo | 1002 |
+| 6.4 | Conoscenza della circostanza e reati qualificati da un evento non voluto | 1002 |
+| 6.5 | La "colpa" richiesta per l'imputazione delle aggravanti. Differenze con la "colpa" che costituisce l'elemento soggettivo del reato | 1003 |
+| 6.6 | L'imputazione delle circostanze c.d. susseguenti e le deroghe al regime di addebito delle aggravanti | 1004 |
+| 7 | L'*error in persona*. I difficili rapporti tra art. 60 e art. 59, co. 2, c.p. | 1006 |
+| 7.1 | Ambito di applicazione dell'art. 60 c.p. Errore sull'identità del soggetto passivo e rapporti con l'*aberratio ictus* | 1008 |
+| 8 | Il regime di imputazione delle circostanze attenuanti: il principio della rilevanza oggettiva | 1009 |
+| 9 | L'irrilevanza delle aggravanti e delle attenuanti putative | 1010 |
+| 10 | Le variazioni di pena per le circostanze del reato: la determinazione della pena-base | 1011 |
+| 10.1 | Circostanze e tentativo: rinvio | 1013 |
+| 11 | Il concorso di circostanze | 1013 |
+| 11.1 | Concorso omogeneo di circostanze | 1013 |
+| 11.2 | Il concorso eterogeneo di circostanze e il giudizio di comparazione | 1014 |
+| 11.2.1 | Le deroghe alla regola del bilanciamento: le circostanze c.d. privilegiate. L'intervento delle Sezioni Unite del 29 aprile 2021 | 1016 |
+| 11.2.2 | Le deroghe alla regola del bilanciamento: l'illegittimità del divieto di prevalenza delle attenuanti sulla recidiva reiterata per i reati puniti con la pena dell'ergastolo dopo l'intervento di Corte cost., 12 maggio 2023, n. 94 | 1019 |
+| 11.3 | Il nuovo art. 69, co. 4, c.p. I rapporti tra attenuanti e recidiva reiterata: rinvio | 1019 |
+| 11.4 | Il concorso apparente di circostanze | 1019 |
+| 12 | Le aggravanti comuni | 1020 |
+| 12.1 | Motivi abietti o futili | 1020 |
+| 12.2 | Connessione di reati | 1022 |
+| 12.3 | Colpa cosciente | 1023 |
+| 12.4 | Sevizie e crudeltà | 1023 |
+| 12.5 | Minorata difesa. L'intervento delle Sezioni Unite del 15 luglio 2021 | 1024 |
+| 12.6 | Commissione del reato in stato di latitanza | 1026 |
+| 12.7 | Danno di rilevante gravità | 1027 |
+| 12.8 | Aver aggravato o tentato di aggravare le conseguenze del delitto | 1028 |
+| 12.9 | Abuso di poteri o violazioni di doveri | 1028 |
+| 12.10 | Art. 61, n. 10, c.p. | 1029 |
+| 12.11 | Art. 61, n. 11, c.p. | 1029 |
+| 12.12 | Gli artt. 61, co. 11-*bis*, c.p. e 10-*bis*, d.lgs. n. 286 (aggravante e reato di clandestinità) al vaglio della Corte costituzionale | 1031 |
+| 12.13 | Art. 61, n. 11-*ter*, c.p. | 1032 |
+| 12.14 | Art. 61, n. 11-*quater*, c.p. | 1033 |
+| 12.15 | Art. 61, n. 11-*quinquies*, c.p. | 1033 |
+| 12.16 | Art. 61, n. 11-*sexies*, c.p. | 1034 |
+| 12.17 | Art. 61, n. 11-*septies*, c.p. | 1035 |
+| 12.18 | Art. 61, n. 11-*octies* e n. 11-*novies*, c.p. | 1035 |
+| 12.19 | Art. 61, n. 11-*decies* c.p. | 1035 |
+| 12.20 | Art. 61, n. 11-*undecies* c.p. | 1035 |
+| 12.21 | Art. 61-*bis* c.p.: reato transnazionale | 1036 |
+| 12.22 | La recidiva | 1037 |
+| 12.23 | Origini storiche e tratti essenziali dell'istituto | 1037 |
+| 12.24 | Il dibattito sulla natura giuridica | 1038 |
+| 12.25 | Forme e caratteri della recidiva. Le tre tappe dell'evoluzione normativa | 1039 |
+| 12.26 | Regime del 1930. Recidiva automatica | 1040 |
+| 12.27 | Regime del 1974. Diventa facoltativo l'aumento di pena, non anche la dichiarazione di recidiva | 1040 |
+| 12.28 | Regime del 2005. Il doppio binario | 1041 |
+| 12.29 | Facoltatività e obbligatorietà. L'interpretazione del nuovo art. 99, co. 4, c.p. e la declaratoria di incostituzionalità del comma 5 | 1041 |
+| 12.29.1 | I criteri per ritenere sussistente la recidiva facoltativa. La recidiva "contestata", "dichiarata" (o "ritenuta"), "applicata". Gli effetti della recidiva subvalente | 1043 |
+| 12.29.2 | Gli effetti dell'art. 99, co. 6, c.p. sul calcolo della prescrizione | 1047 |
+| 12.29.3 | Facoltatività e recidiva semplice. L'incostituzionalità dell'art. 63, co. 3, c.p. ad opera di Corte cost., 27 maggio 2025, n. 74 | 1048 |
+| 12.30 | Il divieto di prevalenza delle circostanze attenuanti sulla recidiva reiterata. I recenti interventi della Corte costituzionale, fino a Corte cost., 12 maggio 2026, n. 72 | 1049 |
+| 12.31 | Gli ulteriori effetti penali della recidiva reiterata. Recidiva e continuazione | 1055 |
+| 12.32 | Recidiva e circostanze | 1055 |
+| 12.33 | Recidiva e prescrizione | 1055 |
+| 13 | Le attenuanti comuni. I motivi di particolare valore morale o sociale | 1056 |
+| 13.1 | Provocazione. Gli elementi costitutivi | 1057 |
+| 13.1.1 | La provocazione e i terzi | 1058 |
+| 13.1.2 | Proporzione | 1059 |
+| 13.1.3 | Il tempo della reazione | 1060 |
+| 13.1.4 | Provocazione reciproca | 1061 |
+| 13.1.5 | Provocazione e premeditazione | 1061 |
+| 13.2 | Suggestione della folla in tumulto | 1061 |
+| 13.3 | Danno patrimoniale di speciale tenuità | 1062 |
+| 13.3.1 | La compatibilità con i reati in materia di stupefacenti. Interviene Cass., Sez. un., 2 settembre 2020, n. 24990 | 1062 |
+| 13.3.2 | I rapporti con la ricettazione *ex* art. 648, co. 2, c.p. in caso di assegni in bianco | 1064 |
+| 13.3.3 | I rapporti con la rapina di "lieve entità". Corte cost., 13 maggio 2024, n. 86 e prime applicazioni giurisprudenziali | 1065 |
+| 13.3.4 | Danno patrimoniale di speciale tenuità e fattispecie tentata: rinvio | 1066 |
+| 13.4 | Fatto doloso della persona offesa | 1066 |
+| 13.5 | Art. 62, n. 6, c.p. Le novità introdotte dal decreto legislativo 10 ottobre 2022, n. 150 (c.d. Riforma Cartabia) | 1066 |
+| 13.5.1 | Natura oggettiva o soggettiva della circostanza attenuante dell'avvenuto risarcimento del danno, di cui all'art. 62, n. 6, c.p. e sua comunicabilità al coimputato | 1069 |
+| 14 | Le attenuanti generiche | 1070 |
+| 14.1 | Attenuanti generiche, principio di tassatività e dovere motivazionale | 1070 |
+| 14.2 | Il rapporto con le circostanze tipiche | 1071 |
+| 14.3 | Natura e funzione delle circostanze generiche | 1071 |
+| 14.4 | I criteri di individuazione | 1072 |
+| 14.5 | L'art. 62-*bis*, co. 2, c.p. introdotto dalla l. n. 251/2005: i limiti al riconoscimento delle attenuanti generiche per i recidivi | 1073 |
+| 14.6 | La novità introdotta dalla l. 24 luglio 2008, n. 125 ("Decreto Sicurezza") | 1074 |
+
+### Sezione II — Consumazione e tentativo (p. 1075)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 15 | Consumazione nell'*iter criminis*. La tesi che distingue tra perfezione e consumazione | 1075 |
+| 15.1 | Reati istantanei e reati permanenti | 1075 |
+| 15.1.1 | Natura del reato permanente. Rapporti con l'art. 131-*bis* c.p.: rinvio | 1076 |
+| 15.1.1.1 | Il furto di monopattino munito di GPS è consumato e non tentato: interviene Cass. pen., Sez. V, 13 maggio 2024, n. 18818 | 1078 |
+| 15.1.2 | *Tempus commissi delicti*: rinvio | 1079 |
+| 15.1.3 | Elemento psicologico | 1079 |
+| 15.1.4 | Reati istantanei ad effetti permanenti e reati eventualmente permanenti | 1080 |
+| 15.1.5 | Reati ad azione frazionata. Usura e corruzione: rinvio | 1080 |
+| 15.2 | Il reato abituale | 1080 |
+| 15.2.1 | Elementi strutturali | 1082 |
+| 15.2.1.1 | Elemento soggettivo | 1082 |
+| 15.2.2 | *Tempus commissi delicti*: rinvio | 1083 |
+| 15.2.3 | Differenza tra reato abituale e reato permanente | 1083 |
+| 16 | Autonomia della fattispecie tentata. Interviene Cass., Sez. un., 24 settembre 2018, n. 40985 | 1083 |
+| 17 | Fondamento della punibilità a titolo di tentativo | 1086 |
+| 18 | Elemento oggettivo del tentativo | 1086 |
+| 18.1 | Il mancato compimento dell'azione o il mancato verificarsi dell'evento | 1087 |
+| 18.2 | Gli atti univoci | 1087 |
+| 18.3 | Gli atti idonei | 1090 |
+| 19 | Tentativo e dolo eventuale | 1093 |
+| 19.1 | La tesi dell'incompatibilità e la concezione c.d. soggettiva dell'univocità degli atti | 1093 |
+| 19.2 | La tesi della compatibilità e la concezione c.d. oggettiva dell'univocità degli atti | 1094 |
+| 19.3 | I più recenti sviluppi giurisprudenziali: Cass., Sez. I, 29 ottobre 2025, n. 37764, e la rivalutazione alla luce della sentenza *Thyssenkrupp* | 1095 |
+| 20 | Configurabilità del tentativo nelle diverse categorie di reati | 1096 |
+| 20.1 | Tentativo e contravvenzioni | 1096 |
+| 20.2 | Preterintenzione e delitti di attentato | 1096 |
+| 20.3 | Delitti permanenti | 1097 |
+| 20.4 | Delitto continuato | 1097 |
+| 20.5 | Delitto complesso e delitti aggravati dall'evento. Corte cost. n. 45 del 2026 interviene sul tentativo di rapina impropria | 1097 |
+| 20.6 | Delitti omissivi | 1098 |
+| 20.7 | Delitti unisussistenti | 1099 |
+| 20.8 | Reati abituali | 1099 |
+| 20.9 | Delitto aberrante | 1100 |
+| 20.10 | Delitti sottoposti a condizioni obiettive di punibilità | 1100 |
+| 20.11 | Delitti di pericolo | 1100 |
+| 21 | Desistenza volontaria e recesso attivo | 1101 |
+| 21.1 | Desistenza e concorso di persone | 1104 |
+| 22 | Tentativo e circostanze | 1106 |
+| 22.1 | Delitto tentato circostanziato | 1106 |
+| 22.2 | Delitto circostanziato tentato | 1107 |
+| 22.3 | Compatibilità con le singole circostanze | 1108 |
+| 22.4 | Calcolo della pena | 1110 |
+
+### Sezione III — Il concorso di persone nel reato (p. 1112)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 23 | Nozione e fondamento dell'istituto | 1112 |
+| 23.1 | La duplice funzione della disciplina concorsuale | 1113 |
+| 24 | I modelli di disciplina | 1114 |
+| 24.1 | Modello di responsabilità differenziata | 1114 |
+| 24.2 | Modello della pari responsabilità | 1114 |
+| 25 | Le teorie sul concorso | 1116 |
+| 25.1 | Teoria dell'accessorietà | 1116 |
+| 25.2 | Teoria della fattispecie plurisoggettiva eventuale | 1116 |
+| 25.3 | Teoria della fattispecie plurisoggettiva c.d. differenziata | 1117 |
+| 25.4 | L'unicità o differenziazione dei titoli nel reato concorsuale: interviene Cass., Sez. un., 11 luglio 2024, n. 27727, in materia di concorso nel reato di cessione e detenzione di sostanze stupefacenti | 1117 |
+| 26 | Gli elementi costitutivi della fattispecie del concorso | 1118 |
+| 27 | Elemento oggettivo | 1119 |
+| 27.1 | La pluralità di agenti. La discussa figura dell'autore mediato | 1119 |
+| 27.2 | Realizzazione di un fatto costituente reato | 1121 |
+| 27.3 | Il contributo di ciascun concorrente: materiale o morale | 1122 |
+| 27.4 | Concorso materiale. Le figure dell'autore e del partecipe | 1122 |
+| 27.5 | Criteri per l'accertamento della responsabilità del partecipe | 1122 |
+| 27.6 | La teoria causale-condizionalistica | 1122 |
+| 27.7 | La teoria della causalità agevolatrice o di rinforzo | 1123 |
+| 27.8 | La teoria della prognosi postuma | 1124 |
+| 27.9 | Concorso morale | 1125 |
+| 27.10 | Criteri per l'accertamento della rilevanza penale dell'istigazione | 1126 |
+| 27.11 | L'omissione nel concorso di persone | 1127 |
+| 27.12 | Concorso nel reato omissivo | 1127 |
+| 27.13 | Concorso per omissione nel reato commissivo | 1127 |
+| 27.14 | Responsabilità a titolo di concorso per omissione in capo agli appartenenti alle forze dell'ordine | 1128 |
+| 27.15 | La tesi dell'azione socialmente adeguata | 1129 |
+| 27.16 | Responsabilità dei sindaci per i reati commessi dagli amministratori di società | 1130 |
+| 27.17 | È ammissibile una responsabilità concorsuale omissiva dei sindaci per i reati commessi dagli amministratori? | 1130 |
+| 27.18 | I reati di cui i sindaci possono rispondere | 1131 |
+| 27.19 | Gli elementi costitutivi della fattispecie di responsabilità | 1132 |
+| 27.20 | Responsabilità penale degli amministratori societari senza deleghe per reati commessi da altri amministratori (delegati) | 1133 |
+| 27.21 | Il quadro normativo anteriore alla riforma del 2003 e la posizione assunta in giurisprudenza | 1133 |
+| 27.22 | Il rinnovato quadro normativo e le prese di posizione giurisprudenziale | 1134 |
+| 27.23 | Le posizioni assunte in giurisprudenza e in dottrina dopo la riforma del 2003 | 1135 |
+| 27.24 | La responsabilità del proprietario dell'area per l'opera abusiva da altri realizzata. Prevale la tesi che esclude una responsabilità concorsuale omissiva | 1138 |
+| 27.25 | Responsabilità del proprietario del fondo per gestione di discarica non autorizzata e stoccaggio di rifiuti tossici e nocivi | 1140 |
+| 27.26 | Responsabilità del c.d. *service provider* per i reati commessi dal c.d. *content provider* | 1140 |
+| 27.27 | Responsabilità penale omissiva degli organi di direzione politica per i reati commessi nell'attività di gestione amministrativa | 1141 |
+| 27.28 | La casistica giurisprudenziale | 1143 |
+| 27.29 | È ipotizzabile una responsabilità concorsuale omissiva dei componenti dell'organo di controllo? | 1145 |
+| 28 | L'elemento soggettivo: il dolo di concorso | 1146 |
+| 28.1 | Dolo di concorso e agente provocatore | 1146 |
+| 28.2 | Agente provocatore e infiltrato sotto copertura. I problemi | 1147 |
+| 28.3 | Il regime di responsabilità di chi provoca ovvero fornisce l'occasione | 1147 |
+| 28.4 | La tesi del difetto di dolo | 1147 |
+| 28.5 | La tesi della scriminante dell'adempimento del dovere | 1148 |
+| 28.6 | L'introduzione di una causa di giustificazione speciale per gli autori di operazioni sotto copertura: l'art. 9, l. 16 marzo 2006, n. 146 e i rapporti con la scriminante *ex* artt. 51 c.p. e 55 c.p.p. | 1149 |
+| 28.7 | Le novità introdotte dalla legge 9 gennaio 2019, n. 3 | 1150 |
+| 28.8 | La responsabilità del provocato. Il silenzio del legislatore nazionale | 1151 |
+| 28.9 | La dimensione processuale del problema relativo alla responsabilità del provocato. L'utilizzabilità delle prove raccolte dal provocatore o dall'infiltrato sotto copertura. La giurisprudenza Cedu | 1152 |
+| 28.10 | Il concorso di persone nei reati a dolo specifico | 1154 |
+| 29 | La cooperazione colposa | 1154 |
+| 29.1 | La funzione della norma. Incriminatrice o di disciplina? La sua applicabilità ai reati colposi causalmente orientati | 1155 |
+| 29.2 | Cooperazione colposa e concorso di cause colpose indipendenti | 1156 |
+| 29.3 | Il legame psicologico del concorso colposo. Consapevolezza dell'altrui colpa o della sola cooperazione con altri? | 1157 |
+| 29.4 | Il rischio di estensione incontrollata della punibilità e la tipizzazione dei casi in cui è sufficiente la mera consapevolezza di agire con altro. La pretesa di interazione prudente | 1158 |
+| 29.5 | I rapporti con l'art. 117 c.p. e il concorso colposo nelle contravvenzioni | 1160 |
+| 30 | È possibile una diversità degli atteggiamenti psicologici dei singoli concorrenti? | 1161 |
+| 30.1 | La tesi dell'unicità del titolo di responsabilità dei concorrenti | 1161 |
+| 30.2 | Le tesi contrarie al principio dell'unicità del titolo di responsabilità dei concorrenti | 1162 |
+| 30.3 | Il concorso doloso in delitto colposo | 1164 |
+| 30.4 | Il concorso colposo in delitto doloso. La prevalente tesi dottrinale contraria | 1166 |
+| 30.5 | Le tesi che richiamano le regole della causalità e il principio dell'affidamento | 1168 |
+| 30.6 | La giurisprudenza favorevole | 1169 |
+| 30.7 | La giurisprudenza contraria | 1171 |
+| 31 | L'art. 116: il c.d. concorso anomalo. La struttura della fattispecie e le soluzioni al problema del titolo di imputazione | 1171 |
+| 31.1 | L'elaborazione della giurisprudenza costituzionale: dalla sentenza n. 42 del 1965 alle pronunce più recenti | 1172 |
+| 31.2 | L'evoluzione della giurisprudenza di legittimità: dal criterio della prevedibilità in astratto a quello della prevedibilità in concreto | 1174 |
+| 31.3 | Ambito applicativo e limiti dell'art. 116 c.p.: la nozione di reato diverso, i requisiti positivi e il limite negativo del dolo eventuale | 1178 |
+| 32 | Concorso nel reato proprio e mutamento del titolo di reato per taluno dei concorrenti | 1179 |
+| 32.1 | La posizione dell'*extraneus*: la conoscenza della qualità dell'*intraneus* al di fuori dell'ipotesi disciplinata dall'art. 117 c.p. | 1180 |
+| 32.2 | L'ipotesi disciplinata dall'art. 117 c.p. | 1180 |
+| 32.3 | Tesi della natura oggettiva della responsabilità dell'*extraneus*. Irrilevanza della conoscenza della qualifica dell'*intraneus* | 1181 |
+| 32.4 | Tesi della lettura costituzionalmente orientata dell'art. 117 c.p.: necessaria rilevanza della consapevolezza della qualifica dell'*intraneus* | 1181 |
+| 32.5 | Il contributo dell'*intraneus*. Il concorso in autoriciclaggio *ex* art. 648-*ter*.1 c.p. | 1182 |
+| 32.6 | Imputabilità e colpevolezza dell'*intraneus* | 1185 |
+| 32.7 | Concorso morale dell'*extraneus* nel reato proprio e autonomia della responsabilità in caso di assoluzione dell'intraneo. Interviene Cass., Sez. VI, 4 dicembre 2024, n. 3755 | 1186 |
+| 32.8 | La circostanza attenuante prevista dal secondo periodo dell'art. 117 c.p. | 1187 |
+| 32.9 | Rapporti con altri istituti. Costringimento fisico, errore determinato da altrui inganno, concorso anomalo | 1188 |
+| 32.10 | Natura "propria" o "comune" delle contravvenzioni edilizie e concorso dell'*extraneus* | 1189 |
+| 32.11 | La realizzazione in forma plurisoggettiva del reato di esercizio arbitrario delle proprie ragioni | 1191 |
+| 33 | Le circostanze nel concorso di persone | 1192 |
+| 33.1 | Le circostanze aggravanti | 1192 |
+| 33.2 | Le circostanze attenuanti | 1195 |
+| 34 | La comunicabilità delle circostanze e delle cause di esclusione della pena | 1197 |
+| 34.1 | Regime delle circostanze aggravanti soggettive diverse da quelle indicate dall'art. 118 c.p. | 1198 |
+| 34.2 | La natura dell'aggravante dell'agevolazione mafiosa e la sua estensibilità ai concorrenti: Cass., Sez. un., 3 marzo 2020, n. 8545 | 1200 |
+| 35 | Desistenza volontaria e concorso di persone: rinvio | 1201 |
+| 36 | Il concorso necessariamente plurisoggettivo | 1201 |
+| 36.1 | I reati necessariamente plurisoggettivi impropri | 1202 |
+| 36.2 | Reati-contratto e reati in contratto | 1203 |
+| 36.3 | I reati-contratto. Inquadramento, nozione e estensione | 1203 |
+| 36.4 | I reati in contratto | 1204 |
+| 36.5 | L'incidenza delle vicende civilistiche del contratto sull'integrazione del reato | 1205 |
+| 36.6 | Reati-contratto | 1205 |
+| 36.7 | Reati in contratto | 1206 |
+| 36.8 | L'incidenza del reato sulla sorte del contratto. I chiarimenti di Cass., Sez. un., 2 luglio 2008, n. 26654 | 1207 |
+| 36.9 | Il problema della sorte del contratto stipulato in attuazione della condotta truffaldina. La truffa finalizzata alla assunzione ad un pubblico impiego | 1207 |
+| 36.10 | La sorte del contratto usurario | 1209 |
+| 37 | Concorso esterno in associazione a delinquere di tipo mafioso. La genesi e gli elementi strutturali | 1211 |
+| 37.1 | L'ammissibilità del concorso esterno in associazione a delinquere di stampo mafioso | 1212 |
+| 37.1.1 | La tesi contraria all'ammissibilità | 1212 |
+| 37.1.2 | La (ormai pacifica) tesi favorevole | 1213 |
+| 37.2 | Il dolo del concorrente esterno | 1214 |
+| 37.3 | Le peculiarità del concorso esterno. Il criterio dell'efficacia causale del contributo | 1215 |
+| 37.4 | Il patto elettorale. I rapporti tra concorso esterno e la fattispecie *ex* art. 416-*ter* c.p. | 1219 |
+| 37.4.1 | I rapporti tra concorso esterno e la fattispecie *ex* art. 416-*ter* c.p., prima della l. 17 aprile 2014, n. 62 | 1219 |
+| 37.4.2 | I rapporti tra concorso esterno e la fattispecie *ex* art. 416-*ter* c.p., dopo la L. 17 aprile 2014, n. 62 | 1221 |
+| 37.4.3 | Il riferimento dell'art. 416-*ter* al "metodo mafioso" dopo la L. 17 aprile 2014, n. 62 | 1222 |
+| 37.4.4 | Le modifiche introdotte dalla l. 21 maggio 2019, n. 43 | 1223 |
+| 37.5 | Concorso esterno nel delitto associativo di cui all'art. 270-*bis* c.p. | 1225 |
+| 37.6 | Concorso esterno e favoreggiamento personale | 1225 |
+| 37.7 | Concorso esterno e art. 7 CEDU. Il caso *Contrada c. Italia*. I seguiti di Corte EDU 14 aprile 2015 | 1226 |
+
+## Capitolo V — Unità e pluralità di reati (p. 1227)
+
+### Sezione I — Concorso apparente di norme (p. 1229)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Unità apparente e pluralità effettiva di reati: il problema di fondo | 1229 |
+| 2 | L'art. 15 c.p. e la definizione del suo ambito di operatività | 1230 |
+| 2.1 | Teorie monistiche: i problemi interpretativi | 1230 |
+| 2.2 | Pluralità di leggi penali: diritto penale comune e speciale | 1230 |
+| 2.3 | Stessa materia: dall'identità dei beni giuridici all'identità della fattispecie | 1231 |
+| 2.4 | La nozione di specialità | 1233 |
+| 2.5 | Teoria monistica e le frizioni con le esigenze di equità e giustizia sostanziale | 1237 |
+| 3 | Le teorie pluralistiche della sussidiarietà (espressa e tacita) e consunzione (o assorbimento): il *ne bis in idem* sostanziale | 1238 |
+| 3.1 | Le Sezioni Unite ripudiano le teorie pluralistiche | 1240 |
+| 3.1.1 | I rapporti tra la ricettazione *ex* art. 648 c.p. ed il reato di immissione in commercio *ex* art. 171-*ter*, l. 633/1941 | 1242 |
+| 3.1.2 | Delitto di emissione di fatture per operazioni soggettivamente inesistenti ai fini dell'evasione propria o impropria (artt. 2 e 8, d.lgs. 10 marzo 2000, n. 74) e delitto di truffa aggravata ai danni dello Stato: interviene Cass., Sez. un., 19 gennaio 2011, n. 1235 | 1242 |
+| 3.1.3 | I rapporti tra i reati di cui agli artt. 316-*bis* c.p. e 640-*bis* c.p.: interviene Cass., Sez. un., 28 aprile 2017, n. 20664 | 1244 |
+| 3.1.4 | I rapporti tra detenzione e porto di armi comuni da sparo e detenzione e porto di armi clandestine: Cass., Sez. un., 22 giugno 2017, n. 41588 | 1245 |
+| 3.1.5 | I rapporti tra i delitti di estorsione (art. 629 c.p.) e turbata libertà degli incanti (art. 353 c.p.): Cass., Sez. un., 22 luglio 2024, n. 30016 | 1246 |
+| 4 | Il reato progressivo, la progressione criminosa e *ante factum* e *post factum* non punibili | 1248 |
+| 4.1 | Il reato progressivo | 1248 |
+| 4.2 | La progressione criminosa | 1249 |
+| 4.3 | L'antefatto e il postfatto non punibili | 1251 |
+| 4.4 | Considerazioni conclusive | 1252 |
+
+### Sezione II — Il reato complesso (p. 1254)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 5 | Il reato complesso: presupposti, struttura e forme | 1254 |
+| 6 | *Ratio* dell'istituto | 1256 |
+| 7 | Le diverse forme di complessità | 1257 |
+| 7.1 | I criteri di identificazione del reato complesso. Le Sezioni Unite 15 luglio 2021, n. 38402 intervengono sull'omicidio aggravato commesso dall'autore del delitto di *stalking* | 1259 |
+| 8 | Problemi applicativi. Il limite della "continenza" | 1262 |
+| 9 | Il tentativo | 1265 |
+
+### Sezione III — Il concorso di reati (p. 1267)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 10 | Il concorso di reati | 1267 |
+| 10.1 | Le risposte punitive astrattamente possibili per il concorso di reati | 1267 |
+| 11 | Il concorso materiale di reati. Le ipotesi di "unificazione" legislativa di più reati: fattispecie continuata, reato complesso, reato abituale improprio: rinvio | 1268 |
+| 11.1 | Il regime del concorso materiale di reati | 1268 |
+| 11.1.1 | Limiti agli aumenti delle pene principali. Interviene Cass., Sez. un., 14 luglio 2023, n. 30753 | 1269 |
+| 12 | Concorso formale di reati | 1271 |
+| 12.1 | Il trattamento sanzionatorio del concorso formale | 1271 |
+| 12.2 | Unità o pluralità di *azione* o *omissione* e unità o pluralità di *reati* | 1272 |
+| 12.2.1 | Unità o pluralità di *azione* o *omissione*: i criteri discretivi | 1272 |
+| 12.2.2 | Unità o pluralità di *reati*: i criteri discretivi | 1274 |
+| 12.2.2.1 | Le applicazioni in tema di resistenza a pubblici ufficiali (Cass., Sez. un., 24 settembre 2018, n. 40981) e violazione degli obblighi di assistenza familiare (Cass., Sez. un., 20 dicembre 2007, n. 8413) | 1275 |
+| 12.2.2.2 | Le applicazioni in tema di stupefacenti (Cass., Sez. un., 9 novembre 2018, n. 51063) | 1276 |
+| 12.2.2.3 | Omicidio stradale ai danni di più soggetti: interviene Cass. pen., Sez. IV, 8 aprile 2024, n. 14069 | 1277 |
+| 12.2.2.4 | Reiterate percezioni indebite di erogazioni pubbliche: interviene Cass., Sez. Un., 26 marzo 2025, n. 11969 | 1278 |
+| 12.2.3 | Norme a più fattispecie o norme miste alternative | 1279 |
+
+### Sezione IV — Il reato continuato (p. 1281)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 13 | La continuazione fra fatti plurimi: la originaria versione codicistica | 1281 |
+| 14 | La struttura del nuovo reato continuato: il medesimo disegno criminoso come unico pilastro positivo | 1281 |
+| 14.1 | Pluralità di azioni od omissioni. Applicabilità al caso di azione unica | 1282 |
+| 14.2 | Possibile distanza cronologica fra le violazioni di legge. Continuazione e attività processuale | 1282 |
+| 14.3 | Plurima violazione della stessa o di diverse disposizioni di legge | 1285 |
+| 14.4 | Medesimo disegno criminoso | 1285 |
+| 15 | *Ratio* del nuovo reato continuato e consistenza del "medesimo disegno criminoso" | 1285 |
+| 15.1 | Incertezze applicative. È richiesta una programmazione dettagliata? | 1288 |
+| 15.2 | Continuazione e abitualità delittuosa. Lo stato di tossicodipendenza e la modifica dell'art. 671 c.p.p. | 1289 |
+| 15.3 | *Aberratio ictus* e continuazione: rinvio | 1289 |
+| 16 | L'ambito applicativo della continuazione | 1289 |
+| 16.1 | Continuazione e reati colposi | 1290 |
+| 16.1.1 | La tesi contraria | 1290 |
+| 16.1.2 | La posizione della giurisprudenza | 1290 |
+| 16.1.3 | La tesi favorevole | 1291 |
+| 16.2 | Continuazione e contravvenzioni | 1291 |
+| 16.3 | Continuazione e responsabilità oggettiva | 1292 |
+| 16.4 | Le fattispecie associative: fatto base e singole manifestazioni delittuose | 1292 |
+| 16.4.1 | Continuazione tra reati scopo | 1292 |
+| 16.4.2 | Continuazione tra delitto associativo e reati scopo | 1292 |
+| 16.4.2.1 | La tesi dell'incompatibilità strutturale | 1292 |
+| 16.4.2.2 | La tesi della compatibilità del disegno *ex* art. 81 c.p. con un programma criminoso specifico | 1293 |
+| 16.4.2.3 | La dottrina | 1294 |
+| 17 | Natura giuridica e risvolti applicativi. Sospensione condizionale della pena, dichiarazione di abitualità o di professionalità nel reato, amnistia, indulto, prescrizione, circostanze | 1294 |
+| 17.1 | Disciplina della continuazione. La violazione più grave. Modalità di calcolo dell'aumento | 1298 |
+| 17.1.1 | Il calcolo dell'aumento: Cass., Sez. un., 24 giugno 2021, n. 47127 | 1301 |
+| 17.1.2 | Riconoscimento della continuazione in fase esecutiva e individuazione del reato più grave in caso di continuazione tra reati giudicati separatamente con rito abbreviato: Cass., Sez. un., 16 febbraio 2024, n. 7029 | 1303 |
+| 17.1.3 | Riconoscimento della continuazione in fase esecutiva e possibilità di quantificare gli aumenti per i reati satellite in misura superiore a quelli applicati dal giudice della cognizione: Cass., Sez. un., 10 febbraio 2017, n. 6296 | 1304 |
+| 17.1.4 | Riconoscimento della continuazione in fase esecutiva; opera il solo limite di cui all'art. 671, co. 2, c.p.p. o anche quello generale di cui all'art. 81, co. 2, c.p.? Interviene Cass., Sez. un., 8 giugno 2017, n. 28659 | 1305 |
+| 17.1.5 | Pene congiunte e pene eterogenee: Cass., Sez. un., 24 ottobre 2018, n. 40983 | 1307 |
+| 18 | L'ordine sistematico. Recidiva e continuazione criminosa. Il nuovo art. 81, co. 4, c.p. Interviene Cass., Sez. un., 21 luglio 2016, n. 31699 | 1308 |
+| 18.1 | Aggravante teleologica e continuazione | 1310 |
+| 19 | Reato continuato e non punibilità *ex* art. 131-*bis* c.p.: rinvio | 1311 |
+
+---
+
+# PARTE III — PENE, MISURE DI SICUREZZA E MISURE DI PREVENZIONE
+
+## Capitolo I — Le pene (p. 1315)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | La pena: nozione e principi costituzionali | 1317 |
+| 2 | Funzioni della pena | 1322 |
+| 3 | L'applicazione della pena: potere discrezionale del giudice | 1325 |
+| 3.1 | L'applicazione della pena: criteri per la commisurazione | 1328 |
+| 4 | Le pene principali | 1331 |
+| 4.1 | L'ergastolo. In particolare, l'ergastolo ostativo e le pronunce di Corte cost., 4 dicembre 2019, n. 253 e Corte cost., 11 maggio 2021, n. 97. La l. 30 dicembre 2022, n. 199, di conversione, con modificazioni, del d.l. 31 ottobre 2022, n. 162 | 1331 |
+| 4.2 | Le altre pene principali | 1338 |
+| 4.2.1 | L'esecuzione e la conversione delle pene pecuniarie. La riforma operata dal decreto legislativo 10 ottobre 2022, n. 150 (c.d. Riforma Cartabia) | 1339 |
+| 4.2.2 | Le sanzioni sostitutive, la l. 12 giugno 2003, n. 134 e il decreto legislativo Cartabia, 10 ottobre 2022, n. 150. Le modifiche del D.lgs. 19 marzo 2024, n. 31 | 1340 |
+| 4.3 | Le pene principali non detentive per i reati di competenza del giudice di pace | 1344 |
+| 5 | Le pene accessorie | 1345 |
+| 5.1 | Gli effetti penali della condanna | 1353 |
+| 6 | Le cause di estinzione del reato: generalità | 1354 |
+| 6.1 | La prescrizione: nozione e fondamento | 1355 |
+| 6.1.1 | Il tempo necessario a prescrivere. Il *dies a quo* della prescrizione | 1359 |
+| 6.1.2 | La sospensione della prescrizione: le novità della l. 23 giugno 2017, n. 103, della l. 3 gennaio 2019, n. 3 e del d.lgs. 10 ottobre 2022, n. 150 (c.d. riforma Cartabia). I rapporti con la improcedibilità *ex* art. 344-*bis* c.p.p. | 1365 |
+| 6.1.2.1 | Sospensione dei termini processuali e della prescrizione durante l'emergenza Covid: rinvio | 1367 |
+| 6.1.3 | L'interruzione della prescrizione | 1367 |
+| 6.1.4 | Gli effetti della sospensione e della interruzione: l'art. 161 c.p. | 1369 |
+| 6.1.5 | Disapplicazione dell'art. 160 c.p. e caso *Taricco*: rinvio | 1369 |
+| 6.2 | Le altre cause di estinzione del reato | 1369 |
+| 6.2.1 | La morte del reo | 1369 |
+| 6.2.2 | L'amnistia | 1370 |
+| 6.2.3 | La remissione della querela | 1372 |
+| 6.2.4 | La sospensione condizionale della pena | 1374 |
+| 6.2.5 | La sospensione del procedimento con messa alla prova | 1384 |
+| 6.2.6 | L'oblazione | 1388 |
+| 6.2.7 | La riparazione dell'offesa: il nuovo art. 162-*ter* c.p., introdotto con l. 23 giugno 2017, n. 103 | 1389 |
+| 6.2.8 | Il perdono giudiziale | 1392 |
+| 6.2.9 | Estinzione delle contravvenzioni per adempimento di prescrizioni impartite dall'organo accertatore | 1393 |
+| 7 | Le cause di estinzione della pena | 1393 |
+| 7.1 | La morte del reo dopo la condanna | 1394 |
+| 7.2 | L'amnistia impropria | 1394 |
+| 7.3 | La prescrizione dopo la condanna irrevocabile | 1394 |
+| 7.4 | L'indulto | 1395 |
+| 7.5 | La grazia | 1396 |
+| 7.6 | La liberazione condizionale | 1398 |
+| 7.7 | La riabilitazione (178 c.p.) e la non menzione della condanna nel certificato del casellario giudiziale (art. 175 c.p.) | 1400 |
+| 7.7.1 | Il controverso rapporto tra l'indulto e la sospensione condizionale della pena: la parola alle Sezioni Unite | 1402 |
+| 8 | Le misure alternative alla detenzione | 1403 |
+| 8.1 | Le ipotesi di rinvio dell'esecuzione della pena | 1411 |
+| 8.2 | Le modifiche introdotte dal d.l. 11 aprile 2025, n. 48 (c.d. Decreto Sicurezza) in tema di esecuzione della pena nei confronti di donne incinte e madri di prole di età inferiore a un anno o a tre anni | 1412 |
+| 8.3 | L'esecuzione detentiva differenziata: il c.d. regime *ex* art. 41-*bis* ord. pen. o di "carcere duro" | 1413 |
+| 9 | La giustizia riparativa | 1414 |
+
+## Capitolo II — Le misure di sicurezza (p. 1419)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Premessa | 1421 |
+| 2 | I presupposti di applicazione delle misure di sicurezza: il fatto previsto dalla legge come reato | 1422 |
+| 3 | La pericolosità sociale | 1423 |
+| 4 | I principi costituzionali rilevanti: a) principio di legalità; b) principio di irretroattività | 1426 |
+| 5 | Il delinquente abituale, professionale e per tendenza | 1429 |
+| 6 | Le misure di sicurezza personali detentive | 1431 |
+| 6.1 | L'assegnazione ad una colonia agricola o ad una casa di lavoro (art. 216 c.p.) | 1431 |
+| 6.2 | Assegnazione in una casa di cura e custodia (art. 219 c.p.) | 1431 |
+| 6.3 | Il ricovero in un ospedale psichiatrico giudiziario (art. 222 c.p.). Corte cost., 27 gennaio 2022, n. 22, interviene sul sistema delle REMS | 1432 |
+| 6.4 | Il ricovero in un riformatorio giudiziario (art. 223 c.p.) | 1436 |
+| 7 | Le misure di sicurezza personali non detentive | 1436 |
+| 7.1 | La libertà vigilata (art. 228 c.p.) | 1436 |
+| 7.2 | Divieto di soggiorno (art. 233 c.p.) | 1437 |
+| 7.3 | Divieto di frequentare osterie e pubblici spacci di bevande alcoliche (art. 234 c.p.) | 1437 |
+| 7.4 | L'espulsione dello straniero dallo Stato (art. 235 c.p.) | 1438 |
+| 8 | L'applicazione e l'esecuzione delle misure di sicurezza | 1438 |
+| 9 | Le misure di sicurezza patrimoniali: la cauzione di buona condotta | 1440 |
+| 10 | La confisca. Nozione, natura e disciplina della confisca c.d. reale *ex* art. 240 c.p. | 1440 |
+| 10.1 | Confisca facoltativa e obbligatoria: il rilievo delle nozioni di profitto, prodotto e prezzo del reato | 1441 |
+| 10.1.1 | Profitto del reato | 1442 |
+| 10.1.2 | Prodotto | 1445 |
+| 10.1.3 | Prezzo | 1445 |
+| 10.1.4 | Ipotesi speciali di confisca | 1446 |
+| 10.1.5 | La c.d. confisca per equivalente o di valore | 1448 |
+| 10.1.5.1 | La natura diretta o per equivalente della confisca di somme di denaro presso un conto corrente bancario. Il cambio di rotta operato da Cass., Sez. un., 8 aprile 2025, n. 13783 | 1449 |
+| 10.1.5.2 | Confisca per equivalente e concorso di persone. Interviene Cass., Sez. un., 8 aprile 2025, n. 13783 e Corte EDU, *Petrignani e altri c. Italia*, 28 maggio 2026 | 1452 |
+| 10.1.5.3 | Confisca per equivalente e giudice dell'esecuzione | 1454 |
+| 10.1.5.4 | Confisca per equivalente e sospensione condizionale della pena | 1455 |
+| 11 | Confisca e disciplina successoria | 1455 |
+| 11.1 | L'estensione della confisca per equivalente ai reati tributari opera retroattivamente? | 1457 |
+| 11.2 | Confisca c.d. allargata *ex* art. 240-*bis* c.p. e disciplina successoria | 1457 |
+| 11.2.1 | *Tempus regit actum*, prevedibilità e diritto vivente. La confisca allargata: applicabilità retroattiva del divieto di addurre l'evasione fiscale. Interviene Cass. Sez. un., 23 febbraio 2024, n. 8052: rinvio | 1460 |
+| 11.2.2 | La confisca allargata in materia tributaria (art. 12-*ter* d.lgs. 74/2000) | 1460 |
+| 11.3 | Confisca allargata e delitto tentato aggravato *ex* art. 416-*bis*.1 c.p.: rinvio | 1460 |
+| 11.4 | Confisca allargata e proventi derivanti da evasione fiscale: Cass., Sez. un., 23 febbraio 2024, n. 8052 | 1460 |
+| 12 | Confisca diretta, confisca per equivalente e sopravvenuta irrilevanza penale del fatto | 1463 |
+| 13 | "Confisca senza condanna": l'evoluzione giurisprudenziale | 1465 |
+| 13.1 | Confisca obbligatoria diretta: l'ablazione del prezzo del reato | 1465 |
+| 13.1.1 | Confisca obbligatoria diretta: l'art. 6, l. n. 152 del 1975 (legge armi) e Corte cost., 20 dicembre 2022, n. 5 | 1467 |
+| 13.2 | Confisca indiretta: il caso dei reati tributari | 1468 |
+| 13.3 | Confisca facoltativa | 1469 |
+| 13.4 | Confisca amministrativa e prescrizione: Cass., Sez. un., 30 aprile 2020, n. 13539, aggiunge un tassello in materia di lottizzazione abusiva | 1473 |
+| 14 | La confisca e la tutela dei terzi | 1474 |
+
+## Capitolo III — Le misure di prevenzione (p. 1479)
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Nozione | 1481 |
+| 2 | Ambito di operatività ed evoluzione legislativa | 1482 |
+| 3 | Profili di costituzionalità | 1487 |
+| 4 | Profili di incompatibilità con il diritto CEDU. La sentenza *de Tommaso c. Italia* e le sue ricadute nell'ordinamento interno: rinvio | 1489 |
+| 5 | Il giudizio di pericolosità. Pericolosità e indiziati di mafia: Cass., Sez. un., 4 gennaio 2018, n. 111 | 1489 |
+| 6 | Le misure di prevenzione personali | 1494 |
+| 6.1 | L'avviso orale | 1496 |
+| 6.2 | Il rimpatrio con foglio di via obbligatorio | 1497 |
+| 6.3 | La sorveglianza speciale | 1497 |
+| 7 | Le misure di prevenzione patrimoniali | 1501 |
+| 7.1 | Il sequestro preventivo | 1507 |
+| 7.2 | La confisca | 1509 |
+| 7.2.1 | I terzi possono contestare i presupposti per l'applicazione della misura? Interviene Cass., Sez. un., 5 settembre 2025, n. 30355 | 1514 |
+| 7.2.2 | Le modifiche apportate alla disciplina della confisca di prevenzione antimafia operano retroattivamente? Cass., Sez. un., 2 febbraio 2015, n. 4880 | 1516 |
+| 7.2.3 | Le differenze tra confisca allargata e confisca di prevenzione, anche ai fini della rilevanza dei redditi non dichiarati al fisco. Profili intertemporali e Cass., Sez. un., 23 febbraio 2024, n. 8052 | 1517 |
+
+---
+
+**Indice analitico**: p. 1521 *(non ancora trascritto)*.
