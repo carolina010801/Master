@@ -4,9 +4,9 @@
 - **Collana**: Manuali Maior per Magistrature e Concorsi superiori
 - **Editore**: Dike Giuridica
 - **Edizione**: XVII edizione, 2025
-- **Fonte**: foto dell'indice sommario (pp. VII–XXXIII) inviate il 16/11/2026
+- **Fonte**: foto dell'indice sommario (pp. VII–XXXIX) inviate il 16/11/2026
 
-**Stato della trascrizione**: indice sommario trascritto fino a p. XXXIII, cioè fino a Parte IV, Cap. 4 (tutela cautelare), § 5.1 (p. 1580). **Mancano** le pagine successive del sommario (dal resto della tutela cautelare in poi: impugnazioni, ottemperanza, riti speciali, ecc.) e l'eventuale indice analitico.
+**Stato della trascrizione**: indice sommario trascritto fino a p. XXXIX (Parte V, Cap. 7, diritto dell'immigrazione, p. 2025). Se il sommario prosegue oltre, mancano le pagine successive; manca anche l'eventuale indice analitico.
 
 **Affidabilità**: le foto erano ruotate e con le pagine curve. Ogni pagina è stata ingrandita e i numeri sono stati abbinati ai paragrafi contandoli. Dove la foto era più difficile c'è una nota in testa al capitolo: lì può esserci uno scarto di una riga (1–2 pagine).
 
@@ -1214,5 +1214,282 @@
 | 4.3 | Misure ordinatorie a contenuto patrimoniale | 1579 |
 | 5 | Il procedimento cautelare secondo il Codice del processo | 1580 |
 | 5.1 | La domanda cautelare | 1580 |
+| 5.2 | Questione pregiudiziale di costituzionalità e giudizio cautelare | 1581 |
+| 5.3 | Questione pregiudiziale ai sensi dell'art. 267 TFUE e giudizio cautelare | 1582 |
+| 5.4 | Questione di giurisdizione e giudizio cautelare | 1583 |
+| 5.5 | Competenza e misure cautelari | 1584 |
+| 5.6 | L'efficacia delle misure cautelari disposte in sede di ricorso straordinario al Presidente della Repubblica trasposto, in seguito ad opposizione, avanti al TAR | 1585 |
+| 5.7 | La trattazione della domanda cautelare | 1585 |
+| 5.8 | La decisione cautelare | 1587 |
+| 5.8.1 | Il contenuto dell'ordinanza cautelare | 1588 |
+| 5.8.2 | L'efficacia dell'ordinanza cautelare | 1588 |
+| 5.9 | L'esecuzione delle misure cautelari | 1590 |
+| 5.10 | Revoca, modificazione e riproposizione delle misure cautelari collegiali | 1591 |
+| 5.10.1 | Revoca, modificazione e riproposizione delle misure cautelari presidenziali | 1593 |
+| 5.11 | Le impugnazioni | 1594 |
+| 5.11.1 | Ricorso per Cassazione e altre impugnazioni | 1596 |
+| 5.11.2 | La tutela cautelare in pendenza del giudizio di impugnazione | 1597 |
+| 6 | La tutela presidenziale monocratica | 1599 |
+| 7 | La tutela cautelare *ante causam* | 1602 |
+| 7.1 | Il dibattito sulla legittimità costituzionale della mancata previsione della tutela cautelare *ante causam* | 1602 |
+| 7.2 | Le misure anteriori alla causa nel Codice del processo amministrativo | 1602 |
+| 8 | La tutela cautelare nel rito abbreviato | 1604 |
+| 9 | La tutela cautelare nel rito speciale per i contratti pubblici | 1606 |
+| 10 | La tutela cautelare nelle controversie relative alle infrastrutture strategiche | 1609 |
 
-*(Il sommario prosegue oltre p. XXXIII: foto non ancora ricevute.)*
+## Capitolo 5 — Le impugnazioni
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Caratteri generali | 1610 |
+| 1.1 | Le impugnazioni in generale alla luce del Titolo I del Libro III del Codice del processo amministrativo | 1612 |
+| 2 | Il ricorso in appello al Consiglio di Stato | 1618 |
+| 2.1 | Genesi, natura giuridica ed oggetto | 1618 |
+| 2.2 | Effetto devolutivo. Divieto di *ius novorum* e suoi temperamenti | 1620 |
+| 2.3 | La riserva di appello | 1627 |
+| 2.4 | La sospensione cautelare dell'esecuzione della sentenza di primo grado impugnata | 1627 |
+| 2.5 | L'interesse e la legittimazione ad appellare | 1628 |
+| 2.6 | L'intervento nel giudizio d'appello | 1629 |
+| 2.7 | L'instaurazione e lo svolgimento del giudizio di appello | 1629 |
+| 2.8 | L'appello incidentale | 1632 |
+| 2.9 | La conclusione del giudizio di appello | 1634 |
+| 2.10 | Le altre impugnazioni delle sentenze del Giudice amministrativo contro le sentenze d'appello | 1638 |
+| 3 | Il ricorso per revocazione | 1638 |
+| 4 | L'opposizione di terzo | 1645 |
+| 5 | Il ricorso per Cassazione per motivi attinenti alla giurisdizione | 1647 |
+
+## Capitolo 6 — Il giudizio di ottemperanza
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Caratteri generali dell'ottemperanza | 1650 |
+| 2 | Il giudicato in generale | 1653 |
+| 3 | Il giudicato amministrativo | 1655 |
+| 4 | Presupposti dell'azione di ottemperanza | 1663 |
+| 4.1 | I confini mobili tra inottemperanza e illegittimità successiva al giudicato | 1666 |
+| 4.1.1 | Il problema della sorte degli atti illegittimi successivi al giudicato | 1668 |
+| 5 | Ambito di applicazione del giudizio di ottemperanza | 1671 |
+| 5.1 | Esecuzione del giudicato del giudice ordinario | 1673 |
+| 5.2 | Esecuzione del giudicato del giudice amministrativo | 1676 |
+| 5.3 | Esecuzione delle sentenze degli altri giudici speciali | 1677 |
+| 5.4 | Esecuzione delle sentenze di primo grado del giudice amministrativo esecutive e non sospese | 1678 |
+| 5.5 | Esecuzione dei lodi arbitrali | 1681 |
+| 5.6 | Esecuzione delle misure cautelari | 1682 |
+| 5.7 | Ottemperanza e silenzio della P.A. | 1683 |
+| 5.8 | Ottemperanza a decisione resa su ricorso straordinario. Rinvio | 1685 |
+| 6 | Il procedimento di ottemperanza | 1685 |
+| 6.1 | Introduzione del giudizio | 1686 |
+| 6.1.1 | La competenza | 1689 |
+| 6.2 | La trattazione | 1691 |
+| 6.3 | La decisione | 1691 |
+| 6.3.1 | La nomina del commissario *ad acta* | 1693 |
+| 6.3.2 | Il ridimensionamento dell'azione di ottemperanza in materia di conferimento o conferma di incarichi direttivi e semidirettivi ai magistrati da parte del CSM | 1696 |
+| 6.4 | Le impugnazioni | 1697 |
+| 6.5 | Rimedi per la mancata esecuzione anche dopo il giudizio di ottemperanza: le *astreintes* fanno il loro ingresso nel processo amministrativo | 1700 |
+| 6.5.1 | La posizione della Plenaria sulle penalità di mora: le sentenze di condanna pecuniaria e l'*astreinte* iniqua | 1702 |
+| 6.5.2 | Considerazioni conclusive | 1706 |
+| 7 | Le azioni connesse al giudizio di ottemperanza | 1709 |
+
+## Capitolo 7 — Il ricorso straordinario al Presidente della Repubblica
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Cenni storici | 1712 |
+| 2 | Caratteri generali e cenni sulla disciplina del ricorso straordinario | 1713 |
+| 2.1 | Il ricorso straordinario viene giurisdizionalizzato dall'art. 69, L. 18 giugno 2009, n. 69 | 1713 |
+| 3 | I dubbi di legittimità costituzionale e i corollari dell'avvenuta "giurisdizionalizzazione" del ricorso straordinario | 1716 |
+| 3.1 | La Corte di Giustizia consente la proposizione di questione pregiudiziale | 1716 |
+| 3.2 | Il Legislatore del 2009 ammette la possibilità di sollevare incidentalmente questione di legittimità costituzionale | 1716 |
+| 3.3 | L'ammissibilità del giudizio di ottemperanza ai fini dell'esecuzione della decisione sul ricorso straordinario | 1717 |
+| 3.4 | La compatibilità costituzionale della giurisdizionalizzazione del ricorso straordinario | 1718 |
+| 3.5 | La Plenaria nel 2024 definisce i termini della assimilazione del ricorso straordinario ai rimedi giurisdizionali | 1721 |
+| 4 | L'ambito di operatività del ricorso straordinario al Presidente della Repubblica | 1723 |
+| 4.1 | Le tutele azionabili in sede di ricorso straordinario | 1724 |
+| 4.2 | Ricorso straordinario e riti speciali c.d. «assoluti» | 1726 |
+| 5 | Le garanzie procedurali nel ricorso straordinario | 1727 |
+| 6 | L'alternatività del ricorso straordinario | 1729 |
+| 6.1 | Aspetti procedurali | 1733 |
+| 7 | La trasposizione del ricorso straordinario in sede giurisdizionale | 1734 |
+| 8 | I rimedi avverso la decisione del ricorso straordinario | 1737 |
+| 9 | Inammissibilità della domanda di violazione del giudicato contenuta in un ricorso straordinario | 1738 |
+
+---
+
+# PARTE V — I SINGOLI SETTORI
+
+## Capitolo 1 — Il diritto amministrativo dell'ambiente
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Nozione di ambiente, ambiti di tutela e principi costituzionali | 1743 |
+| 2 | Quadro generale: i principi europei | 1749 |
+| 2.1 | Il principio di integrazione | 1749 |
+| 2.2 | Il principio di proporzionalità | 1750 |
+| 2.3 | Il principio di precauzione | 1750 |
+| 2.4 | Il principio di cooperazione | 1752 |
+| 2.5 | Il principio "chi inquina paga": rinvio | 1752 |
+| 2.6 | I principi di sussidiarietà e di adeguatezza | 1752 |
+| 2.7 | Il principio dell'elevato livello di tutela | 1754 |
+| 3 | Le procedure ambientali | 1754 |
+| 3.1 | La valutazione ambientale strategica (VAS) | 1755 |
+| 3.2 | La valutazione di impatto ambientale (VIA) | 1756 |
+| 3.3 | L'autorizzazione integrata ambientale (AIA) | 1764 |
+| 3.4 | Autorizzazione unica ambientale (AUA) | 1765 |
+| 3.5 | Migliori tecniche disponibili (*Best available techniques* - BAT) | 1767 |
+| 4 | Diritto di accesso alle informazioni ambientali | 1768 |
+| 5 | L'istituto del silenzio assenso in materia ambientale | 1771 |
+| 6 | La nozione di *End of Waste* | 1774 |
+| 7 | Questioni giurisprudenziali | 1776 |
+| 7.1 | La *legitimatio ad causam* di associazioni e comitati a difesa del diritto dell'ambiente | 1776 |
+| 7.2 | Il danno ambientale, tra diritto nazionale e normativa europea | 1778 |
+| 7.2.1 | La disciplina del T.U. ambiente: le azioni di prevenzione e ripristino | 1780 |
+| 7.2.2 | Segue: Alcune criticità della disciplina | 1782 |
+| 7.2.3 | Il risarcimento da danno ambientale all'esame dell'Adunanza Plenaria: divieto di responsabilità da posizione e obblighi per il proprietario incolpevole | 1784 |
+| 7.2.4 | Il risarcimento da danno ambientale all'esame della Corte di Giustizia dell'Unione Europea | 1787 |
+| 7.2.5 | … e le Sezioni Unite della Corte di Cassazione | 1789 |
+| 7.2.6 | Conclusioni | 1790 |
+| 7.3 | Ordine di bonifica dei siti inquinati e responsabilità degli aventi causa: la parola alla Plenaria | 1791 |
+| 7.4 | Strumenti di tutela a fronte della mancata attuazione delle direttive in materia ambientale | 1794 |
+
+## Capitolo 2 — Beni culturali e paesaggio
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Nozione e quadro generale | 1796 |
+| 2 | Competenze legislative e funzioni amministrative nella materia dei beni culturali | 1798 |
+| 3 | Il patrimonio culturale e i beni culturali | 1801 |
+| 4 | La nozione di bene culturale | 1804 |
+| 5 | La verifica e la dichiarazione dell'interesse culturale | 1808 |
+| 6 | La tutela e la valorizzazione dei beni culturali | 1811 |
+| 7 | La circolazione dei beni culturali | 1814 |
+| 8 | I beni paesaggistici | 1814 |
+| 9 | La tutela e la valorizzazione dei beni paesaggistici | 1817 |
+| 10 | La pianificazione paesaggistica | 1819 |
+| 11 | L'autorizzazione paesaggistica | 1821 |
+| 12 | L'autorizzazione paesaggistica postuma | 1823 |
+| 13 | Il parere della Soprintendenza | 1824 |
+
+## Capitolo 3 — Diritto urbanistico e pianificazione urbanistica
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | La disciplina urbanistica | 1829 |
+| 2 | I principi del diritto urbanistico | 1835 |
+| 3 | Le fonti del diritto urbanistico | 1837 |
+| 4 | La pianificazione urbanistica | 1840 |
+| 5 | I piani territoriali | 1842 |
+| 5.1 | I piani territoriali di coordinamento | 1842 |
+| 5.2 | I piani territoriali regionali | 1843 |
+| 5.3 | I piani paesistici | 1844 |
+| 5.4 | I piani territoriali provinciali | 1844 |
+| 6 | Il piano regolatore generale | 1845 |
+| 6.1 | La natura giuridica del piano regolatore generale | 1847 |
+| 6.2 | Il procedimento di formazione del piano regolatore generale | 1850 |
+| 6.3 | L'adozione del piano regolatore generale | 1850 |
+| 6.4 | L'approvazione del piano regolatore generale | 1851 |
+| 6.5 | Il contenuto del piano regolatore generale | 1853 |
+| 7 | Le Norme Tecniche di Attuazione | 1855 |
+| 8 | La zonizzazione | 1855 |
+| 9 | Gli strumenti attuativi dello strumento urbanistico generale | 1858 |
+| 9.1 | Il piano particolareggiato | 1858 |
+| 9.2 | Segue: La partecipazione dei soggetti interessati | 1860 |
+| 9.3 | I piani di lottizzazione | 1861 |
+| 9.4 | Il contenuto del piano di lottizzazione | 1862 |
+| 9.5 | Altri piani esecutivi | 1865 |
+| 10 | Il nuovo modello di pianificazione urbanistica | 1866 |
+| 11 | L'urbanistica negoziata e la perequazione urbanistica | 1868 |
+
+## Capitolo 4 — Interventi edilizi e titoli abilitativi
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Nozione e quadro generale: il Testo unico per l'edilizia | 1872 |
+| 2 | Il regolamento edilizio | 1873 |
+| 3 | Gli interventi di manutenzione ordinaria e straordinaria | 1874 |
+| 4 | Lo Sportello Unico per l'edilizia | 1875 |
+| 5 | L'attività edilizia libera | 1877 |
+| 6 | Il permesso di costruire | 1879 |
+| 7 | Il procedimento per il rilascio del permesso di costruire | 1885 |
+| 8 | Il contributo di costruzione | 1886 |
+| 9 | La semplificazione degli interventi edilizi | 1890 |
+| 10 | In particolare: la SCIA edilizia | 1891 |
+| 11 | La natura giuridica della SCIA *ex* art. 22 del T.U. Ed. | 1892 |
+| 12 | La tutela del terzo (rinvio) | 1894 |
+| 13 | Il procedimento di segnalazione certificata di inizio attività | 1894 |
+| 14 | Le novità del D.Lgs. 126/2016 (SCIA 1) e del D.Lgs. 222/2016 (SCIA 2) | 1897 |
+| 15 | La lottizzazione abusiva | 1898 |
+| 16 | Il regime delle sanzioni | 1901 |
+| 16.1 | L'ordine di demolizione | 1901 |
+| 16.2 | L'inottemperanza all'ordine di demolizione (art. 31 T.U. Ed.) | 1905 |
+| 17 | L'accertamento di conformità *ex* art. 36 del T.U. Ed. | 1908 |
+| 18 | Il regime delle tutele | 1915 |
+| 18.1 | La doppia tutela in materia di regolamento edilizio | 1915 |
+| 18.2 | Il contenzioso sul permesso di costruire | 1916 |
+| 18.3 | La tutela del terzo in caso di SCIA (rinvio) | 1917 |
+| 19 | Il riparto di giurisdizione in materia edilizia | 1917 |
+| 20 | Il *Decreto Semplificazioni* del 2020 | 1918 |
+
+## Capitolo 5 — La tutela della concorrenza
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Nozione | 1921 |
+| 2 | Quadro generale | 1923 |
+| 3 | La tutela amministrativa della concorrenza: il cd. *public enforcement* | 1924 |
+| 3.1 | Il sindacato sostitutivo sulla discrezionalità tecnica | 1924 |
+| 3.2 | Contraddittorio, materia penale e funzione punitiva | 1926 |
+| 3.3 | Gli spazi di ulteriore potenziamento della tutela giurisdizionale | 1927 |
+| 3.4 | Il principio della parità delle armi | 1929 |
+| 3.5 | La matrice punitiva delle sanzioni rafforza la natura piena della giustizia procedimentale | 1931 |
+| 3.5.1 | Necessità di una connotazione quasi *judicial* del procedimento sanzionatorio | 1934 |
+| 3.6 | Violazione dei diritti di difesa e invalidità del provvedimento nella stagione del giudizio sul rapporto | 1936 |
+| 4 | Il *private enforcement* | 1938 |
+| 4.1 | Il rapporto di complementarità con il *public enforcement* | 1939 |
+| 4.2 | La necessità di fare acquisire ai soggetti lesi una maggiore consapevolezza delle potenzialità del *private enforcement* | 1940 |
+| 4.3 | La difficile cooperazione tra le autorità nazionali di concorrenza e le Corti | 1941 |
+| 4.4 | La possibilità per il giudice di chiedere assistenza all'Autorità nella quantificazione del danno | 1941 |
+| 4.5 | Efficacia vincolante delle decisioni dell'Autorità divenute definitive (art. 7, comma 1) | 1943 |
+| 5 | Conclusioni | 1947 |
+
+## Capitolo 6 — La sicurezza urbana
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | L'emersione della nozione di sicurezza urbana | 1948 |
+| 2 | Quadro generale: sicurezza urbana e sicurezza integrata | 1952 |
+| 2.1 | Il "bene pubblico" sicurezza urbana | 1952 |
+| 2.2 | Il rapporto tra sicurezza urbana e sicurezza integrata | 1954 |
+| 3 | Accordi tra p.a., ordinanze sindacali e misure di "daspo urbano" | 1956 |
+| 3.1 | Gli strumenti consensuali *ex* D.L. 14/2017: natura giuridica e disciplina applicabile | 1956 |
+| 3.2 | Le ordinanze sindacali contingibili ed urgenti *ex* art. 54 T.U.E.L.: la Corte costituzionale ribadisce i limiti di legittimità del potere di ordinanza sindacale | 1960 |
+| 3.2.1 | Segue: Il D.L. 14/2017 rafforza i poteri di ordinanza sindacali: le ordinanze di cui agli artt. 50 e 54 T.U.E.L. | 1962 |
+| 3.3 | Le nuove figure di "daspo urbano" | 1968 |
+| 3.3.1 | Segue: Le nuove classi dei possibili protagonisti del pericolo: compatibilità con i principi Cedu | 1973 |
+| 4 | Dubbi di legittimità costituzionale e convenzionale delle misure di "daspo urbano" | 1977 |
+| 4.1 | Art. 6 Cedu e giudizio di convalida | 1977 |
+| 4.2 | Dubbi di costituzionalità dell'ordine di allontanamento e del divieto di accesso | 1979 |
+| 4.3 | Art. 6 e 13 Cedu e sindacato del giudice amministrativo | 1982 |
+
+## Capitolo 7 — Il diritto dell'immigrazione
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Premessa: il fenomeno dell'immigrazione | 1986 |
+| 2 | La nozione di straniero e la sua condizione giuridica (cenni) | 1987 |
+| 3 | Il diritto dell'immigrazione: caratteri generali | 1991 |
+| 3.1 | Le fonti nella Costituzione | 1992 |
+| 3.1.1 | La riserva di legge | 1992 |
+| 3.1.2 | Il riparto di competenze tra Stato e regioni | 1992 |
+| 3.2 | Le fonti sovranazionali: il diritto internazionale, la Cedu e il diritto europeo (cenni) | 1993 |
+| 3.3 | Le circolari amministrative in materia di immigrazione | 1997 |
+| 3.4 | La legislazione statale: evoluzione del quadro normativo | 1998 |
+| 3.4.1 | Il Testo unico sull'immigrazione: *ratio*, struttura e principali modifiche legislative (dalla Legge Bossi-Fini, 189/2002, al Decreto sicurezza 2018) | 2000 |
+| 3.4.2 | Le innovazioni apportate dal decreto legge "Cutro": D.L. 20/2023, convertito dalla L. 50/2023 | 2005 |
+| 4 | Gli istituti del diritto dell'immigrazione | 2006 |
+| 4.1 | Le fasi di ingresso e soggiorno: il visto e il permesso di soggiorno | 2006 |
+| 4.2 | La fase di allontanamento: i respingimenti, le espulsioni e le misure di esecuzione | 2011 |
+| 4.3 | La tutela procedimentale degli stranieri | 2016 |
+| 4.4 | La tutela giurisdizionale dello straniero | 2017 |
+| 5 | Questioni giurisprudenziali | 2025 |
+
+*(Le foto ricevute arrivano fino a p. XXXIX. Se il sommario prosegue, mancano le pagine successive.)*
