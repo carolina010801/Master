@@ -4,7 +4,11 @@
 - **Collana**: Manuali Maior per Magistrature e Concorsi superiori
 - **Editore**: Dike Giuridica
 - **Edizione**: XVII edizione, 2025
-- **Fonte**: foto dell'indice sommario inviate il 16/11/2026
+- **Fonte**: foto dell'indice sommario (pp. VII–XXXIII) inviate il 16/11/2026
+
+**Stato della trascrizione**: indice sommario trascritto fino a p. XXXIII, cioè fino a Parte IV, Cap. 4 (tutela cautelare), § 5.1 (p. 1580). **Mancano** le pagine successive del sommario (dal resto della tutela cautelare in poi: impugnazioni, ottemperanza, riti speciali, ecc.) e l'eventuale indice analitico.
+
+**Affidabilità**: le foto erano ruotate e con le pagine curve. Ogni pagina è stata ingrandita e i numeri sono stati abbinati ai paragrafi contandoli. Dove la foto era più difficile c'è una nota in testa al capitolo: lì può esserci uno scarto di una riga (1–2 pagine).
 
 **Come leggere le pagine**: il numero indica la pagina in cui inizia il paragrafo. Il paragrafo finisce dove comincia quello successivo. I titoli sono riportati in forma talvolta abbreviata.
 
@@ -827,3 +831,388 @@
 | 9.7.2 | L'opposta scelta del Legislatore: il nuovo comma 6-*ter* dell'art. 19, L. 241/1990 | 1054 |
 | 9.7.3 | Resta aperto il problema della tutela del terzo: le più recenti ricostruzioni dottrinali | 1058 |
 | 9.8 | La giurisdizione esclusiva in materia di s.c.i.a. | 1060 |
+
+## Capitolo 5 — Il procedimento amministrativo
+
+### Sezione I — Profili generali
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Il procedimento amministrativo nella L. 241/1990 e successive modificazioni: nozione e struttura | 1063 |
+| 2 | Il procedimento amministrativo nella L. 241/1990 e successive modificazioni: i principi | 1067 |
+| 3 | Il procedimento amministrativo dopo la riforma del Titolo V della Parte II della Costituzione | 1069 |
+| 3.1 | La soluzione di cui all'art. 29 della L. 241/1990 | 1070 |
+| 3.2 | Il decreto Semplificazioni-bis e le modifiche sul procedimento amministrativo | 1071 |
+| 4 | Successione di leggi e procedimento | 1072 |
+
+### Sezione II — Il responsabile del procedimento
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | La figura del responsabile del procedimento | 1074 |
+| 2 | L'individuazione del responsabile del procedimento | 1076 |
+| 3 | I compiti del responsabile del procedimento. Il rapporto con il dirigente dell'unità organizzativa | 1078 |
+| 4 | Profili di responsabilità | 1082 |
+
+### Sezione III — La partecipazione al procedimento amministrativo
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Introduzione | 1085 |
+| 2 | La partecipazione nella L. 241/1990 | 1085 |
+| 3 | La comunicazione di avvio del procedimento | 1087 |
+| 4 | Contenuti della comunicazione di avvio del procedimento | 1087 |
+| 5 | Le eccezioni all'obbligo di comunicazione | 1089 |
+| 5.1 | Le cause di esclusione individuate dalla legge | 1089 |
+| 5.2 | Eccezioni all'obbligo di comunicazione individuate dalla giurisprudenza | 1092 |
+| 6 | Gli interventori eventuali. Partecipazione al procedimento dei portatori di interessi diffusi e legittimazione processuale | 1093 |
+| 7 | Le forme della partecipazione | 1094 |
+| 8 | Il preavviso di provvedimento negativo (art. 10-*bis*, L. 241/1990) | 1095 |
+| 8.1 | Presupposti | 1096 |
+| 8.2 | I termini del preavviso e la sua collocazione all'interno del procedimento | 1098 |
+| 8.3 | Effetti del preavviso: la sospensione del termine procedimentale | 1099 |
+| 8.4 | Effetti ulteriori del preavviso e contenuto dell'intervento | 1100 |
+| 8.5 | I rapporti con l'art. 21-*octies*, comma 2, L. 241/1990 | 1101 |
+
+### Sezione IV — La conferenza di servizi
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | La semplificazione del procedimento amministrativo | 1102 |
+| 2 | Natura giuridica | 1102 |
+| 3 | La riforma di cui alla L. 124/2015: *ratio* e criteri direttivi | 1104 |
+| 4 | Le figure di conferenza di servizi previste dall'art. 14 della L. 241/1990 | 1106 |
+| 4.1 | La partecipazione del privato | 1110 |
+| 5 | Le modalità di svolgimento della conferenza di servizi: la conferenza in forma semplificata e la conferenza in forma simultanea | 1111 |
+| 5.1 | La conferenza in forma semplificata e in modalità asincrona | 1111 |
+| 5.2 | La conferenza in forma simultanea e in modalità sincrona | 1115 |
+| 6 | La decisione della conferenza di servizi: il nuovo art. 14-*quater* | 1120 |
+| 6.1 | La determinazione motivata di conclusione della conferenza: natura giuridica ed effetti | 1120 |
+| 6.2 | L'intervento in autotutela dell'amministrazione procedente | 1122 |
+| 7 | Il superamento del dissenso: i rimedi di cui all'art. 14-*quinquies* | 1123 |
+| 8 | Il coordinamento tra la disciplina generale della conferenza di servizi e le normative settoriali | 1125 |
+| 8.1 | Lo Sportello unico per le attività produttive | 1126 |
+| 9 | Questioni aperte: in particolare, sui rapporti tra il nuovo art. 17-*bis* della L. 241/1990 (silenzio-assenso tra amministrazioni pubbliche) e la conferenza di servizi | 1128 |
+| 10 | La disciplina emergenziale in materia di conferenza di servizi recata dal Decreto Semplificazioni | 1129 |
+
+## Capitolo 6 — Il provvedimento amministrativo
+
+### Sezione I — Il provvedimento amministrativo. Caratteri generali
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | L'atto amministrativo. Differenza tra atto e provvedimento amministrativo | 1131 |
+| 1.1 | Tipi di atto amministrativo non provvedimentale | 1134 |
+| 1.1.1 | Atti consistenti in manifestazioni di volontà | 1135 |
+| 1.1.2 | Atti di conoscenza | 1136 |
+| 1.1.3 | Atti di giudizio | 1137 |
+| 1.1.4 | Atti endoprocedimentali | 1138 |
+| 2 | Tipi di provvedimento amministrativo | 1139 |
+| 2.1 | I provvedimenti autorizzatori | 1141 |
+| 2.2 | I provvedimenti concessori | 1143 |
+| 2.3 | I provvedimenti ablatori | 1145 |
+| 2.4 | I provvedimenti di secondo grado | 1150 |
+| 3 | I caratteri del provvedimento amministrativo | 1150 |
+| 3.1 | L'autoritarietà e l'imperatività | 1150 |
+| 3.2 | L'esecutività | 1153 |
+| 3.3 | L'inoppugnabilità | 1155 |
+| 3.4 | Caratteri ulteriori: tipicità e nominatività | 1156 |
+| 4 | Gli elementi essenziali del provvedimento amministrativo | 1157 |
+| 5 | Gli elementi accidentali | 1162 |
+| 6 | I requisiti del provvedimento amministrativo | 1163 |
+| 6.1 | I requisiti di legittimità | 1163 |
+| 6.2 | I requisiti di efficacia | 1163 |
+| 6.2.1 | L'efficacia del provvedimento amministrativo | 1164 |
+| 6.2.2 | La sospensione dell'efficacia del provvedimento amministrativo e i suoi presupposti | 1165 |
+| 7 | L'interpretazione del provvedimento amministrativo | 1167 |
+| 8 | Le leggi-provvedimento | 1169 |
+
+### Sezione II — La motivazione del provvedimento amministrativo
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Il ruolo della motivazione nel legame tra provvedimento e procedimento amministrativo | 1174 |
+| 2 | La motivazione nella L. 7 agosto 1990, n. 241: casistica applicativa; deroghe espresse ed implicite | 1175 |
+| 3 | Struttura della motivazione. Motivazione *per relationem*. Riflessi sulla tipologia dei vizi | 1183 |
+| 4 | Ulteriori disposizioni della L. 241/1990 che definiscono i connotati della motivazione | 1188 |
+| 5 | Il provvedimento succintamente motivato | 1190 |
+| 6 | Motivazione e processo amministrativo. Questioni controverse | 1191 |
+| 6.1 | Giudicato di annullamento e riedizione del potere: il ruolo della motivazione | 1196 |
+
+## Capitolo 7 — L'invalidità del provvedimento amministrativo
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Osservazioni generali sull'invalidità | 1198 |
+| 2 | L'inesistenza dell'atto amministrativo | 1200 |
+| 2.1 | Nozione di inesistenza e distinzione dalla nullità | 1200 |
+| 2.2 | I casi di inesistenza | 1202 |
+| 2.3 | Regime dell'atto inesistente | 1204 |
+| 3 | La nullità del provvedimento amministrativo | 1205 |
+| 3.1 | La carenza di potere | 1208 |
+| 3.2 | La nullità per mancanza di elementi essenziali | 1211 |
+| 3.3 | Nullità per difetto assoluto di attribuzione | 1213 |
+| 3.4 | La violazione e l'elusione del giudicato | 1215 |
+| 3.5 | Le nullità testuali | 1217 |
+| 3.6 | Profili di disciplina della nullità | 1219 |
+| 4 | L'annullabilità del provvedimento amministrativo | 1222 |
+| 4.1 | Illegittimità ed annullamento | 1222 |
+| 4.2 | La tripartizione dei vizi di legittimità | 1224 |
+| 4.2.1 | L'incompetenza | 1227 |
+| 4.2.2 | L'eccesso di potere | 1230 |
+| 4.2.2.1 | Figure sintomatiche e prova del vizio | 1233 |
+| 4.2.3 | La violazione di legge | 1239 |
+| 4.3 | I vizi "non invalidanti" | 1241 |
+| 5 | L'invalidità derivata del provvedimento amministrativo | 1246 |
+| 6 | L'invalidità sopravvenuta: osservazioni generali | 1247 |
+| 6.1 | La legge retroattiva | 1248 |
+| 6.2 | La legge di interpretazione autentica | 1249 |
+| 6.3 | Il decreto legge non convertito | 1250 |
+| 6.4 | La dichiarazione di incostituzionalità della norma regolativa o attributiva del potere amministrativo | 1251 |
+| 7 | I vizi di merito del provvedimento amministrativo: l'inopportunità | 1252 |
+
+## Capitolo 8 — L'autotutela amministrativa
+
+*(Capp. 8 e 9: foto curva, pagine abbinate per conteggio; possibile scarto di una riga)*
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | L'autotutela in generale | 1254 |
+| 2 | L'autotutela amministrativa | 1255 |
+| 2.1 | Potere di fare eseguire anche coattivamente i propri provvedimenti | 1258 |
+| 2.2 | Potere di riesaminare i propri atti | 1258 |
+| 2.3 | Potere di risolvere da sé i conflitti | 1259 |
+| 3 | Fondamento e inquadramento dogmatico dei poteri di autotutela in sede di riesame e di esecuzione degli atti | 1261 |
+| 4 | Il riesame con esito demolitorio: la revoca e l'annullamento d'ufficio | 1264 |
+| 4.1 | L'annullamento d'ufficio | 1264 |
+| 4.1.1 | L'interesse pubblico che giustifica l'annullamento | 1269 |
+| 4.1.2 | Il termine ragionevole: limiti e problemi applicativi del potere di annullamento d'ufficio | 1272 |
+| 4.2 | La revoca | 1277 |
+| 4.2.1 | La disciplina dell'indennizzo da revoca nel comma 1-*bis* dell'art. 21-*quinquies*, L. 241/1990 | 1281 |
+| 5 | Procedimento e forma | 1285 |
+| 6 | Autotutela e giurisdizione | 1286 |
+| 7 | Autotutela e silenzio (rinvio) | 1286 |
+| 8 | Autotutela e provvedimenti pluristrutturati: il caso della conferenza di servizi | 1287 |
+| 9 | L'autotutela successiva alla stipulazione del contratto pubblico (rinvio) | 1287 |
+| 10 | Il riesame con esito conservativo: autotutela e conservazione del provvedimento | 1288 |
+| 11 | Il riesame con esito confermativo | 1291 |
+
+## Capitolo 9 — Gli accordi amministrativi
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | L'esercizio consensuale del potere amministrativo | 1293 |
+| 2 | Dall'accordo puramente preparatorio all'accordo giuridicamente vincolante | 1294 |
+| 3 | Ambito applicativo degli accordi *ex* art. 11: accordi procedimentali e sostitutivi | 1295 |
+| 3.1 | Altre questioni inerenti all'ambito applicativo | 1297 |
+| 4 | La disciplina degli accordi ai sensi dell'art. 11 della L. 241/1990 | 1298 |
+| 5 | La natura giuridica degli accordi | 1300 |
+| 5.1 | Corollari della tesi privatistica sul piano della disciplina | 1302 |
+| 5.2 | Corollari della tesi pubblicistica sul piano della disciplina | 1303 |
+| 5.3 | Le distanze tra le due tesi si accorciano con il Codice del processo amministrativo | 1306 |
+| 6 | Il procedimento di formazione: la necessità della previa determinazione amministrativa ai fini dell'intervento dell'accordo | 1307 |
+| 7 | Il recesso | 1310 |
+| 8 | La giurisdizione esclusiva del G.A. | 1312 |
+| 9 | Gli accordi tra Pubbliche Amministrazioni: l'accordo di programma *ex* art. 34, D.Lgs. 267/2000 e gli accordi atipici *ex* art. 15, L. 241/1990, rapporto di *species a genus* | 1313 |
+| 9.1 | La giurisdizione esclusiva del giudice amministrativo (rinvio) | 1316 |
+
+## Capitolo 10 — I contratti della P.A.
+
+### Sezione I — Il contratto pubblico
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Il contratto pubblico: un ossimoro solo apparente | 1318 |
+| 2 | I principi generali dell'attività contrattuale della pubblica amministrazione | 1321 |
+| 3 | La tormentata evoluzione della normativa in materia di contratti pubblici | 1324 |
+| 4 | Vede la luce il nuovo codice dei contratti pubblici di cui al D.Lgs. 31 marzo 2023, n. 36: uno sguardo d'insieme | 1325 |
+| 4.1 | Un cambio di paradigma: dal diritto comunitario della concorrenza al diritto amministrativo nazionale | 1325 |
+| 4.2 | Dalla concorrenza assoluta alla concorrenza regolata | 1328 |
+| 4.3 | Discrezionalità nella decisione sul ricorso al mercato | 1329 |
+| 4.4 | Discrezionalità nella scelta del contratto | 1330 |
+| 4.5 | Discrezionalità nella scelta e nella gestione del modello di affidamento | 1331 |
+| 4.6 | I temperamenti alla discrezionalità | 1332 |
+| 4.6.1 | Il ruolo dei principi: criterio di orientamento e parametro di legittimità | 1332 |
+| 4.6.2 | La certezza dei tempi | 1332 |
+| 4.6.3 | Il sindacato giurisdizionale sulla discrezionalità | 1333 |
+| 4.6.4 | Responsabilità e tutela dell'affidamento | 1334 |
+| 4.6.5 | La trasparenza rende il potere amministrativo democratico | 1334 |
+| 4.6.6 | Il traguardo ambizioso della digitalizzazione integrale di tutte le procedure e di tutte le stazioni appaltanti | 1335 |
+| 5 | La nuova attenzione al "diritto civile dei contratti pubblici": il trionfo dell'autonomia negoziale… | 1335 |
+| 6 | … e l'innovativo principio di conservazione del contratto | 1336 |
+| 6.1 | I profili generali della nuova disciplina: *contract test* e *competition test* | 1336 |
+| 6.2 | La natura della posizione soggettiva in capo alla parte svantaggiata dalla sopravvenienza: interesse legittimo o diritto soggettivo? Conseguenze sul piano della giurisdizione | 1337 |
+| 6.3 | Vincolo *de contraciando* o vincolo *de contrahendo*? Tutela risarcitoria o tutela costitutiva? | 1339 |
+| 6.4 | Conclusioni | 1340 |
+| 7 | Cos'è il contratto pubblico? | 1341 |
+| 8 | Il profilo soggettivo del contratto pubblico: la necessaria "soggettività" pubblica | 1341 |
+| 8.1 | La necessaria intersoggettività sostanziale del contratto pubblico | 1342 |
+| 9 | I criteri oggettivi di classificazione dei contratti pubblici | 1343 |
+| 9.1 | Contratti attivi e passivi | 1344 |
+| 9.2 | Concessioni e appalti pubblici | 1345 |
+| 9.3 | La nozione di contratto di appalto pubblico | 1345 |
+| 9.4 | Il contratto di concessione | 1346 |
+| 9.5 | Le forme contrattuali di confine tra appalto e concessione | 1349 |
+| 10 | La forma del contratto pubblico | 1350 |
+| 11 | Il regime giuridico del contratto pubblico | 1350 |
+
+### Sezione II — La procedura di gara
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Profili generali | 1353 |
+| 2 | Le fasi della procedura di gara nel nuovo codice dei contratti pubblici | 1356 |
+| 2.1 | La decisione di contrarre | 1357 |
+| 2.2 | Il bando di gara come atto fondamentale della procedura ad evidenza pubblica | 1359 |
+| 2.3 | La proposta di aggiudicazione | 1360 |
+| 2.4 | L'aggiudicazione quale provvedimento conclusivo | 1361 |
+| 3 | Il confine tra la fase pubblicistica e quella privatistica | 1364 |
+| 4 | Il termine 'massimo' per la stipula del contratto e le situazioni giuridiche soggettive dell'aggiudicatario prima di divenire contraente | 1366 |
+| 5 | La procedura di affidamento ad evidenza pubblica: esposizione delle singole procedure | 1368 |
+| 6 | La disciplina dei contratti sotto-soglia | 1372 |
+| 7 | Il *favor partecipationis* e il soccorso istruttorio: verso il superamento delle esclusioni per motivi puramente formali | 1376 |
+
+### Sezione III — Contenzioso e autotutela
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Il riparto di giurisdizione | 1380 |
+| 1.1 | Le controversie sull'inefficacia del contratto a seguito dell'annullamento giurisdizionale dell'aggiudicazione | 1385 |
+| 1.2 | Autotutela post-contrattuale e giurisdizione | 1386 |
+| 2 | Il processo dei contratti pubblici dopo il D.Lgs. 36/2023 | 1389 |
+| 3 | La tutela costitutiva: l'azione di annullamento | 1390 |
+| 4 | La tutela specifica (o di esatto adempimento): l'azione di condanna all'aggiudicazione della gara e alla stipulazione del contratto | 1393 |
+| 4.1 | Natura e regime dell'inefficacia contrattuale a valle dell'annullamento dell'aggiudicazione | 1394 |
+| 4.2 | Inefficacia del contratto nei casi di gravi violazioni | 1396 |
+| 4.3 | Ipotesi residuali e discrezionali di inefficacia del contratto | 1397 |
+| 4.4 | La graduazione temporale dell'inefficacia e il subentro del ricorrente vittorioso | 1398 |
+| 4.5 | Inefficacia del contratto e tutela cautelare | 1399 |
+| 4.6 | È necessaria la domanda di parte ai fini della declaratoria di inefficacia del contratto? | 1399 |
+| 4.7 | Autotutela in caso di mancata dichiarazione giurisdizionale dell'inefficacia | 1400 |
+| 4.8 | Le sanzioni alternative | 1401 |
+| 5 | La tutela risarcitoria | 1401 |
+| 5.1 | Il risarcimento in materia di contratti pubblici non richiede l'elemento soggettivo | 1406 |
+| 6 | L'autotutela successiva al contratto: un mistero affascinante | 1407 |
+| 7 | Il nuovo precontenzioso ANAC | 1413 |
+
+## Capitolo 11 — La responsabilità verso la Pubblica Amministrazione
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | La responsabilità amministrativo-contabile | 1417 |
+| 2 | Il soggetto responsabile | 1419 |
+| 2.1 | La casistica | 1422 |
+| 3 | Natura e caratteristiche della responsabilità amministrativa | 1428 |
+| 4 | Gli elementi costitutivi della responsabilità | 1431 |
+| 4.1 | Il danno ingiusto | 1431 |
+| 4.1.1 | Il danno all'immagine della P.A. | 1432 |
+| 4.2 | L'elemento soggettivo della responsabilità | 1436 |
+| 4.3 | La causalità | 1439 |
+
+---
+
+# PARTE IV — LA GIUSTIZIA AMMINISTRATIVA
+
+## Capitolo 1 — Cenni storici
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Concetto e funzione della giustizia amministrativa | 1443 |
+| 2 | Dal periodo del c.d. *ancien régime* agli Stati preunitari italiani, passando per la rivoluzione francese | 1444 |
+| 3 | L'unità d'Italia e la Legge abolitrice del contenzioso | 1445 |
+| 3.1 | La tutela impartibile dal Giudice ordinario: la disapplicazione degli atti amministrativi | 1446 |
+| 3.1.1 | Gli interessi diversi dai diritti non ricevevano tutela giurisdizionale | 1448 |
+| 4 | L'istituzione della IV Sezione del Consiglio di Stato | 1449 |
+| 4.1 | I dubbi circa il carattere giurisdizionale della IV sezione del Consiglio di Stato | 1450 |
+| 5 | L'istituzione delle sezioni V e VI del Consiglio di Stato. La razionalizzazione del sistema di giustizia amministrativa | 1450 |
+| 6 | L'individuazione dei criteri di riparto tra le due giurisdizioni e la prevalenza del criterio della *causa petendi* | 1450 |
+| 7 | La giurisdizione esclusiva del Consiglio di Stato | 1451 |
+| 8 | La disciplina della giustizia amministrativa nella Carta costituzionale | 1451 |
+| 9 | L'evoluzione successiva all'entrata in vigore della Costituzione | 1453 |
+| 10 | Il Codice del processo amministrativo e i successivi decreti correttivi | 1455 |
+| 10.1 | Il futuro della giustizia amministrativa: verso il processo amministrativo telematico | 1456 |
+| 10.2 | Il diritto processuale amministrativo "emergenziale" | 1456 |
+
+## Capitolo 2 — Caratteri generali
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Le tre giurisdizioni del giudice amministrativo | 1458 |
+| 2 | La giurisdizione di merito | 1459 |
+| 3 | Le azioni esperibili | 1461 |
+| 3.1 | Azioni costitutive | 1462 |
+| 3.2 | Azioni di mero accertamento | 1462 |
+| 3.3 | Azione di esatto adempimento (o condanna pubblicistica) | 1463 |
+| 3.4 | Azioni di condanna privatistica | 1463 |
+| 3.5 | Pluralità delle domande e conversione delle azioni | 1464 |
+| 4 | I principi generali del processo amministrativo | 1465 |
+| 4.1 | Il «giusto processo» amministrativo | 1465 |
+| 4.2 | Il principio del divieto di abuso del processo | 1468 |
+| 4.3 | I principi peculiari del processo amministrativo | 1471 |
+
+## Capitolo 3 — Il processo di primo grado
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Profili generali | 1475 |
+| 2 | Questioni di giurisdizione e regolamento di giurisdizione | 1476 |
+| 3 | La competenza territoriale dei Tribunali amministrativi regionali | 1479 |
+| 3.1 | Considerazioni generali | 1479 |
+| 3.1.1 | L'opzione zero del primo correttivo in relazione all'inderogabilità della competenza territoriale | 1484 |
+| 3.2 | La competenza territoriale nell'ipotesi d'impugnazione di atti connessi, di litispendenza e di continenza | 1485 |
+| 3.3 | Rilievo e regolamento di competenza alla luce del secondo correttivo | 1487 |
+| 4 | Soggetti e parti del processo amministrativo | 1490 |
+| 4.1 | Il giudice | 1490 |
+| 4.2 | Le parti | 1492 |
+| 4.3 | La *class action* nel processo amministrativo: rinvio | 1495 |
+| 5 | Presupposti processuali e condizioni dell'azione | 1495 |
+| 6 | Il ricorso | 1499 |
+| 6.1 | Nozione | 1499 |
+| 6.2 | Nullità del ricorso | 1504 |
+| 6.3 | Ricorso collettivo e ricorso cumulativo | 1506 |
+| 6.4 | Il termine per ricorrere e la sua decorrenza | 1507 |
+| 6.5 | La notificazione del ricorso | 1510 |
+| 6.6 | Il deposito del ricorso | 1512 |
+| 7 | La costituzione delle parti in giudizio | 1513 |
+| 7.1 | La costituzione dei resistenti e dei controinteressati | 1513 |
+| 7.2 | Il ricorso incidentale | 1514 |
+| 7.3 | L'intervento in giudizio | 1526 |
+| 8 | L'istruzione probatoria | 1529 |
+| 9 | La trattazione del ricorso | 1533 |
+| 9.1 | L'udienza di discussione | 1533 |
+| 9.2 | Casi di trattazione del ricorso in Camera di consiglio | 1535 |
+| 10 | Le vicende anomale del processo | 1535 |
+| 10.1 | L'interruzione del processo | 1536 |
+| 10.2 | La sospensione del processo | 1538 |
+| 10.3 | L'estinzione del processo | 1543 |
+| 11 | Decisione del ricorso | 1546 |
+| 11.1 | La sentenza | 1546 |
+| 11.2 | Il contenuto della sentenza | 1548 |
+| 11.3 | I limiti del giudicato | 1552 |
+| 11.4 | Le decisioni c.d. semplificate | 1553 |
+| 12 | L'esecutività delle sentenze dei TAR | 1554 |
+| 13 | I riti speciali | 1555 |
+| 14 | La L. 113/2021: accelerazione dei tempi della giustizia e prevenzione della formazione dell'arretrato | 1558 |
+
+## Capitolo 4 — La tutela cautelare
+
+| § | Argomento | Pag. |
+|---|---|---|
+| 1 | Premessa | 1561 |
+| 2 | I caratteri della tutela cautelare | 1562 |
+| 2.1 | Il nesso di strumentalità nel Codice del processo amministrativo e nel Codice di procedura civile. Due modelli a confronto | 1564 |
+| 3 | I presupposti per l'azione cautelare | 1565 |
+| 3.1 | Il Codice fissa i connotati della tutela cautelare | 1567 |
+| 3.2 | È ancora possibile la domanda cautelare avverso il silenzio dell'amministrazione? | 1567 |
+| 4 | Le tipologie di misure cautelari | 1569 |
+| 4.1 | Misure a contenuto negativo | 1570 |
+| 4.2 | Misure propulsive e misure sostitutive | 1571 |
+| 4.2.1 | Le originarie resistenze alla tutela cautelare propulsiva degli interessi legittimi pretensivi | 1574 |
+| 4.2.2 | La giurisprudenza ammette la tutela cautelare degli interessi pretensivi "propri" con la tecnica della c.d. sospensiva propulsiva | 1575 |
+| 4.2.3 | La tutela cautelare atipica è confermata dal Codice del processo amministrativo | 1576 |
+| 4.2.4 | Il regime degli atti adottati "in esecuzione" e "in occasione" delle ordinanze cautelari propulsive e sostitutive | 1578 |
+| 4.3 | Misure ordinatorie a contenuto patrimoniale | 1579 |
+| 5 | Il procedimento cautelare secondo il Codice del processo | 1580 |
+| 5.1 | La domanda cautelare | 1580 |
+
+*(Il sommario prosegue oltre p. XXXIII: foto non ancora ricevute.)*
