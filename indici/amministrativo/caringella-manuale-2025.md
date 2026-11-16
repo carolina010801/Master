@@ -6,7 +6,7 @@
 - **Edizione**: XVII edizione, 2025
 - **Fonte**: foto dell'indice sommario (pp. VII–XXXIX) inviate il 16/11/2026
 
-**Stato della trascrizione**: indice sommario trascritto fino a p. XXXIX (Parte V, Cap. 7, diritto dell'immigrazione, p. 2025). Se il sommario prosegue oltre, mancano le pagine successive; manca anche l'eventuale indice analitico.
+**Stato della trascrizione**: indice sommario (pp. VII–XXXIX, fino a p. 2025) e indice analitico (pp. 2031–2039, lettere A–T) trascritti. A differenza del Garofoli, **l'indice analitico rinvia direttamente alle pagine**. Pochi rinvii non tornano con il sommario e sono segnati "(così nel testo)".
 
 **Affidabilità**: le foto erano ruotate e con le pagine curve. Ogni pagina è stata ingrandita e i numeri sono stati abbinati ai paragrafi contandoli. Dove la foto era più difficile c'è una nota in testa al capitolo: lì può esserci uno scarto di una riga (1–2 pagine).
 
@@ -1493,3 +1493,676 @@
 | 5 | Questioni giurisprudenziali | 2025 |
 
 *(Le foto ricevute arrivano fino a p. XXXIX. Se il sommario prosegue, mancano le pagine successive.)*
+
+---
+
+# INDICE ANALITICO (pp. 2031–2039)
+
+**Qui i numeri sono pagine** (nota del libro: "I numeri si riferiscono alle pagine"). "(–)" ripete la voce principale.
+
+## A
+- **Accesso ai documenti amministrativi**, 900 e ss.
+  - accesso civico, 932 e ss.
+  - ai dati sensibili, 940 e ss.
+  - all'attività di diritto privato della P.A., 864
+  - alle informazioni, 917 e ss.
+  - alle informazioni ambientali, 1768 e ss.
+  - differimento dell'(–), 932
+  - documento accessibile, 914 e ss.
+  - limiti al diritto di (–), 928 e ss.
+  - modalità di (–), 930 e ss.
+  - natura giuridica del diritto di (–), 906
+  - nei contratti pubblici, 923 e ss.
+  - rapporti tra riservatezza e (–), 940 e ss.
+  - rito speciale in materia di (–), 952 e ss.
+  - titolarità del diritto di (–), 908 e ss.
+  - tutela dell'(–), 952 e ss.
+  - tutela procedimentale e processuale della riservatezza, 949 e ss.
+- **Accordi amministrativi**, 1293 e ss.
+  - ambito applicativo degli (–), 1295 e ss.
+  - cessione volontaria in materia espropriativa, 785
+  - convenzione di lottizzazione, 1864 e ss.
+  - disciplina degli (–), 1298 e ss.
+  - giurisdizione esclusiva del G.A., 1312
+  - natura giuridica degli (–), 1300 e ss.
+  - procedimento di formazione degli (–), 1307
+  - recesso, 1310
+  - tra pubbliche amministrazioni, 1313 e ss.
+- **Affidamento**
+  - dei servizi pubblici locali, 835 e ss.
+  - forme di (–), 836
+  - gestione dei servizi pubblici locali tramite società miste, v. *Società miste*
+  - *in house*, 487, 844 e ss.
+  - *in house providing*, 837
+  - *in house* spurio, 851
+  - tramite gara, 836
+- **Ambiente**, 1743 e ss.
+  - nozione, 1743 e ss.
+  - principi europei dell'(–), 1749 e ss.
+  - principio di integrazione, 1749
+  - principio di proporzionalità, 1750
+  - principio di precauzione, 1750
+  - principio di cooperazione, 1752
+  - principio "chi inquina paga", 1752
+  - principio di sussidiarietà e adeguatezza, 1752
+  - principio dell'elevato livello di tutela, 1754
+  - procedure ambientali, 1754 e ss.
+  - silenzio-assenso in materia di (–), 1771 e ss.
+  - questioni giurisprudenziali in materia di (–), 1776 e ss.
+  - nozione di *End of Waste*, 1774
+- **Attività amministrativa**, 860 e ss.
+  - attività discrezionale e attività vincolata, 867
+  - classificazioni dell'(–), 866
+  - e atti di diritto privato della P.A., 864
+  - e rapporti con il potere politico, 860
+  - principi costituzionali dell'(–), 867 e ss.
+  - principi dell'ordinamento comunitario, 888 e ss.
+  - principi di collaborazione e di buona fede, 888
+  - principi di pubblicità e di trasparenza, 881
+  - principio della capacità negoziale della pubblica amministrazione, 888
+  - principio di buona amministrazione, 879
+  - principio di imparzialità, 875
+  - principio di legalità, 869
+  - principio di ragionevolezza, 881
+  - principio di proporzionalità, 890
+  - principio di tutela del legittimo affidamento, 893 e ss.
+- **Atto amministrativo**, v. *Provvedimento amministrativo*
+- **Autorità amministrative indipendenti**, 597 e ss.
+  - natura giuridica delle (–), 597 e ss.
+  - peculiarità delle (–), 608 e ss.
+  - poteri dell'ANAC nel precontenzioso, 1413 e ss.
+  - procedimento e accesso, 622
+  - responsabilità civile delle (–) per omessa vigilanza, 639
+  - tutela giurisdizionale, 635 e ss.
+  - tutela giustiziale, 634
+- **Autotutela**, 1254 e ss.
+  - amministrativa, 1254 e ss.
+  - annullamento d'ufficio, 1264 e ss.
+  - e autodichia, 367
+  - e giurisdizione, 1286
+  - e provvedimenti pluristrutturati, 1287
+  - e silenzio, 1286
+  - in generale, 1254
+  - poteri di autotutela in sede di riesame, 1258
+  - procedimento e forma, 1285
+  - revoca, 1277
+  - riesame con esito confermativo, 1291
+  - riesame con esito conservativo, 1288
+  - riesame con esito demolitorio, 1264 e ss.
+- **Azione**
+  - collettiva di classe, v. *Class action*
+  - con effetti *ex nunc*, 152
+  - costitutiva, 1462
+  - di annullamento, 126 e ss.
+  - di condanna, 181 e ss.
+  - di condanna all'aggiudicazione della gara e alla stipulazione del contratto, 190
+  - di condanna in materia di accesso, 189
+  - di condanna pubblicistica, 190
+  - di mero accertamento, 167 e ss., 178
+  - risarcitoria, 236
+  - di prevenzione e di ripristino nel T.U. ambiente, 1780
+
+## B
+- **Bandi militari**, 449
+- **Beni pubblici**, 714 e ss.
+  - autotutela possessoria ed azione di accertamento della proprietà, 729
+  - beni demaniali, 717 e ss.
+  - beni culturali e paesaggistici, 1796 e ss.
+  - beni patrimoniali indisponibili, 721 e ss.
+  - controversie in materia di concessione di (–), 307 e ss.
+  - diritti d'uso pubblico: strade vicinali e usi civici, 739
+  - diritti reali pubblici su beni altrui, 738 e ss.
+  - espropriabilità dei beni pubblici demaniali e patrimoniali indisponibili per pubblica utilità, 725
+  - federalismo demaniale, 745
+  - nozione, classificazione e regime giuridico dei (–), 714
+  - processo di valorizzazione e cessione dei (–), 744
+  - servitù prediali pubbliche, 738
+  - tutela dei (–) ed autotutela esecutiva, 726 e ss.
+
+## C
+- **Capitolati generali**, 451
+- **Carte dei servizi pubblici**, 454
+- **Circolari**, 456 e ss.
+- ***Class action***, 37 e ss.
+  - pubblica, 190, 314
+- **Competenza**, 511 e ss.
+  - acompetenza, 531 e ss.
+  - concetto di (–), 511
+  - conflitti di (–), 534
+  - delega di poteri, 515 e ss.
+  - difetto di, 518 e ss.
+  - difetto di legittimazione, 516
+  - funzionario di fatto, 520 e ss.
+  - incompetenza assoluta, 518
+  - incompetenza relativa, 519
+  - per grado, 1228
+  - per materia, 1227
+  - per territorio, 1228
+  - per valore, 1227
+  - trasferimento dell'esercizio della (–), 514
+  - tipi di (–), 512 e ss.
+- **Comune**, v. *Enti locali*
+- **Comunicazione di avvio del procedimento**, 1087
+  - contenuti della (–), 1087
+  - eccezioni all'obbligo di (–), 1089 e ss.
+- **Concessione di beni e servizi**, 1346 e ss.
+- **Concorrenza**
+  - nozione, 1921
+  - tutela amministrativa della (–), 1924 e ss.
+  - *private enforcement*, 1938
+- **Conferenza di servizi**, 1102 e ss.
+  - decisione della (–), 1120
+  - figure di (–), 1106 e ss.
+  - modalità di svolgimento della (–), 1111
+  - natura giuridica della (–), 1102
+  - partecipazione del privato, 1110
+  - rimedi per le amministrazioni dissenzienti, 1123
+  - semplificata, 1111
+  - simultanea, 1115
+  - sportello unico per le attività produttive, 1126
+- **Consuetudini**, 460
+- **Contratti della P.A.**, 1318 e ss.
+  - aggiudicazione, 1361
+  - attività di diritto privato della P.A., 864
+  - autonomia contrattuale della P.A., 1321
+  - autotutela post-contrattuale, 1407
+  - avvalimento, 1379
+  - azione di annullamento, 1390
+  - azione di condanna all'aggiudicazione della gara, 1393
+  - bando di gara, 1359
+  - certezza dei tempi, 1332 e ss.
+  - classificazione dei (–), 1343 e ss.
+  - commissione giudicatrice, 423 e ss.
+  - concorrenza regolata, 1328
+  - contratti attivi e passivi, 1344
+  - contratti gratuiti, 1330
+  - contratti sotto-soglia, 1372
+  - criteri di selezione della migliore offerta, 1357
+  - decisione di contrarre (già determina a contrarre), 1357
+  - digitalizzazione integrale delle procedure, 1335 e ss.
+  - diritto civile dei (–), 1335
+  - disciplina della gara, 1353 e ss.
+  - divieto di *gold plating*, 1331, 1372
+  - e appalti, 1345
+  - e subappalto, 1379
+  - effetti dell'aggiudicazione, 1366
+  - evidenza pubblica, 1368 e ss.
+  - fasi della procedura di gara nel nuovo Codice dei contratti pubblici, 1356
+  - forma del contratto pubblico, 1350
+  - inefficacia del contratto, 1396 e ss.
+  - motivi di esclusione, 1410 e ss., 1376 *(così nel testo)*
+  - nozione di contratto di appalto pubblico, 1350
+  - nuove figure di confine tra appalti e concessioni, 1349
+  - nuovo Codice dei contratti pubblici di cui al D.Lgs. 31 marzo 2023, n. 36, 1325 e ss.
+  - nuovo precontenzioso ANAC, 1413
+  - obblighi di *stand still*, 1364
+  - partecipazione alla gara, 428 e ss.
+  - poteri dell'ANAC, 433 e ss., 605 e ss.
+  - primato della decisione amministrativa, 1328
+  - principio della fiducia, 1328
+  - principio di autonomia contrattuale, 1335
+  - principio di auto-organizzazione, 466
+  - principio di conservazione del contratto, 1336
+  - principio di risultato, 1325
+  - principio di rotazione, 1374 e ss.
+  - procedimento di formazione del contratto, 1376
+  - processo dei (–) dopo il D.Lgs. 36/2023, 1389 e ss.
+  - *project financing*, 1371
+  - proposta di aggiudicazione, 1360
+  - raggruppamenti, 1343, 1379
+  - requisiti di partecipazione alla procedura, 1376
+  - responsabile di progetto e responsabili di fase, 1329
+  - responsabile unico del progetto, 1327 e ss.
+  - responsabilità della stazione appaltante, 1334
+  - ricorso al mercato, 1329
+  - riparto di giurisdizione, 1380 e ss.
+  - sindacato giurisdizionale sulla discrezionalità, 1333
+  - soccorso istruttorio, 1376
+  - soggezione alle norme di diritto comune, 1350 e ss.
+  - sorte del contratto in caso di annullamento dell'aggiudicazione, 1362 e ss.
+  - temperamenti alla discrezionalità, 1332
+  - teoria del doppio grado, 1362
+  - tipologia delle procedure ad evidenza pubblica, 1368
+  - tutela derivante dalla violazione dell'obbligo di rinegoziazione, 1339 e ss.
+  - tutela risarcitoria, 1401 e ss.
+- **Controlli amministrativi**, 696 e ss.
+  - caratteri generali e classificazione dei principali tipi di (–), 695
+  - controlli gestionali, 703 e ss.
+  - controlli sugli atti, 699 e ss.
+  - esterni, 704 e ss.
+  - interni, 710
+  - sindacato sugli atti di controllo esterni sulla gestione, 708
+  - tutela giurisdizionale, 699
+
+## D
+- **Danno**
+  - all'immagine, 1432
+  - da provvedimento non annullabile, 221
+  - da ritardo, 216
+  - da silenzio, 216
+  - erariale del pubblico dipendente, 1084 e ss.
+  - non patrimoniale, 231 e ss.
+  - ambientale, 1778 e ss.
+- **D.i.a.** (Dichiarazione di inizio attività), 176
+  - v. *S.c.i.a.* (Segnalazione Certificata di Inizio Attività)
+- **Dirigenza pubblica**, 564 e ss.
+- **Discrezionalità**, 961 e ss.
+  - amministrativa, 962 e ss.
+  - e giudicato, 971
+  - e riparto di giurisdizione, 967
+  - risarcimento, 973
+  - sindacato giurisdizionale sulla (–), 967 e ss.
+
+## E
+- **Edilizia**
+  - Testo unico, 1872
+  - regolamento edilizio (–), 1873
+  - doppia tutela in materia (–), 1915
+  - edilizia libera (attività), 1877
+  - permesso di costruire, 1879 e ss.
+  - S.c.i.a. edilizia, 1891 e ss. (v. *S.c.i.a.*)
+  - lottizzazione abusiva, 1898
+  - accertamento di conformità *ex* art. 36, T.U.Ed., 1908
+  - riparto giurisdizionale in materia, 1917
+- **Emergenza sanitaria da COVID-19**, 444 e ss.
+- **Enti locali**, 671 e ss.
+  - autonomia degli (–), 673
+  - autonomie locali nella Costituzione, 671
+  - controlli sugli (–), 690
+  - finanza provinciale e comunale, 687
+  - funzioni del Comune, 675
+  - funzioni della Provincia, 680
+  - funzioni della città metropolitana, 682
+  - fusioni, istituzioni e modificazioni territoriali dei Comuni, 683
+  - istituti della partecipazione popolare, 685
+  - organizzazione dei comuni, 677
+  - organizzazione delle province, 681
+  - organizzazione delle città metropolitane, 682
+- **Enti pubblici**, 488 e ss.
+  - costituzione degli (–), 493
+  - criteri per distinguere gli enti pubblici da quelli privati, 468
+  - distinzioni tra (–), 488
+  - economici, 491
+  - esercizio privato di pubbliche funzioni, 494 e ss.
+  - estinzione degli (–), 493
+  - in forma societaria, 472 e ss.
+  - meccanismo di soppressione degli (–), 493
+  - modificazione degli (–), 493
+  - Stato, 490
+  - territoriali, 491, 651
+- **Espropriazione per pubblica utilità**, 749
+  - acquisizione sanante, 799 e ss.
+  - giurisdizione amministrativa, 814
+  - giurisdizione ordinaria, 816
+  - indennizzo, 773 e ss.
+  - la nuova acquisizione sanante *ex* art. 42-*bis*, T.U., 799 e ss.
+  - occupazione legittima e occupazione appropriativa, 789 e ss.
+  - occupazione preliminare all'esproprio e requisizione, 766
+  - occupazione usurpativa, 797
+  - piano particolareggiato, 1858
+  - piani urbanistici, 753
+  - procedimento di esproprio, 768 e ss.
+  - tutela giurisdizionale, 814 e ss.
+  - zonizzazione e localizzazione delle opere: vincoli conformativi ed espropriativi, 754
+
+## F
+- **Fonti**, 393 e ss.
+  - secondarie, 393 e ss.
+  - linee-guida ANAC, 433
+- **Funzionario di fatto**, 520 e ss.
+
+## G
+- **GDPR**, 946 e ss.
+- **Giudicato amministrativo**, 1651
+- **Giudizio di ottemperanza**, 1650 e ss.
+  - ambito di applicazione del (–), 1671 e ss.
+  - azioni connesse al giudicato, 1709
+  - caratteri generali, 1650
+  - commissario *ad acta*, 1693
+  - competenza, 1689
+  - decisione, 1691
+  - e silenzio della P.A., 1683
+  - esecuzione dei lodi arbitrali, 1681
+  - esecuzione del giudicato del giudice amministrativo, 1676
+  - esecuzione del giudicato del giudice ordinario, 1673
+  - esecuzione delle misure cautelari, 1682
+  - esecuzione delle sentenze degli altri giudici speciali, 1677
+  - esecuzione delle sentenze di primo grado del g.a. esecutive e non sospese, 1678
+  - impugnazioni, 1697
+  - introduzione al giudizio, 1686
+  - presupposti dell'azione di (–), 1663 e ss.
+  - procedimento di (–), 1685 e ss.
+  - rimedi in caso di mancata esecuzione dopo il giudizio di (–), 1700
+  - trattazione, 1691
+- **Giurisdizione**
+  - criterio del *petitum* sostanziale, 55
+  - criterio della *causa petendi*, 54 e ss., 57 e ss.
+  - danno da comportamenti amm.vi, 89 e ss.
+  - danno da provvedimenti inoppugnati, 82
+  - e questioni processuali, 97 e ss.
+  - e risarcimento del danno, 75 e ss.
+  - nel codice del processo amministrativo, 91
+  - riparto di (–), 48 e ss.
+  - sindacato della Cassazione sulle decisioni del Consiglio di Stato, 101
+- **Giurisdizione del giudice ordinario**
+  - *actio negotiorum gestio* e di arricchimento senza causa, 359
+  - azioni costitutive, 355
+  - azioni di condanna, 355
+  - azioni dichiarative, 354
+  - azioni esecutive, 359
+  - azioni possessorie, 358
+  - azioni proponibili, 354 e ss.
+  - convalida di sfratto, 358
+  - disapplicazione del provvedimento amministrativo da parte del giudice ordinario, 338 e ss.
+  - in tema di tutela della *privacy* e di sanzioni amministrative, 332
+  - limiti esterni della (–), 326
+  - limiti interni della (–) e poteri del giudice ordinario, 334
+  - poteri di cognizione e di decisione, 335
+  - sequestro e provvedimenti *ex* art. 700 c.p.c., 358
+- **Giurisdizione esclusiva del Giudice amministrativo**, 265 e ss.
+  - accordi tra privati e P.A. *ex* art. 133, lett. *a*.2), cod. proc. amm., 307
+  - in materia di affidamento di lavori, servizi e forniture, 296
+  - in materia di concessione di beni pubblici, 307
+  - in tema di danno da ritardo, 310
+  - in materia di silenzio e segnalazione certificata di inizio attività, 307
+  - in materia di diritto sportivo, 310
+  - in materia edilizia, urbanistica e espropriativa, 399 e ss. *(così nel testo; nel sommario è p. 299)*
+  - in materia di energia elettrica, 313
+  - in tema di gestione dei rifiuti, 314
+  - in tema di indennizzo conseguente a revoca di provvedimento, 309
+  - in materia di pubblico impiego non privatizzato, 306
+  - in materia di servizi pubblici, 292 e ss.
+  - in materia di silenzio-rifiuto, 182
+  - limiti alla (–), 265 e ss.
+  - materie devolute alla (–), 284 e ss.
+  - nel codice del processo amministrativo, 275
+  - oggetto e genesi storica della (–), 265
+  - sulle occupazioni appropriative e usurpative, 301
+- **Giustizia amministrativa**, 1443 e ss.
+  - caratteri generali, 1443 e ss.
+  - cenni storici, 1444 e ss.
+
+## I
+- **Immigrazione**, 1986 e ss.
+  - diritto dell'(–), 1991 e ss.
+  - permesso di soggiorno, 2006 e ss.
+  - visto, 2006 e ss.
+  - espulsione e misure di esecuzione, 2011 e ss.
+  - straniero (nozione di), 1987
+  - tutela procedimentale degli stranieri, 2016
+  - tutela giurisdizionale dello straniero, 2017
+- **Interesse legittimo**, 7 e ss.
+  - classificazioni, 18
+  - definizioni, 9
+  - teoria dell'interesse occasionalmente protetto, 9
+  - teoria normativa, 12
+  - teoria processualistica, 10
+  - e azione di classe, 36
+  - e bene della vita, 14 e ss.
+  - e criteri discretivi con il diritto soggettivo, 17
+  - e tutela degli interessi collettivi dei consumatori, 36
+  - interesse di fatto e interesse amministrativamente protetto, 43
+  - interesse diffuso e collettivo, 25
+  - differenze, 29
+  - in materia ambientale, 31, 33
+  - interesse strumentale, 11
+  - interesse partecipativo e procedimentale, 21
+  - oppositivo e pretensivo, 20
+  - risolutivamente e sospensivamente condizionato, 18
+  - storia e contrapposizione al diritto soggettivo, 7
+  - superindividuale, 24 e ss.
+
+## L
+- **Lavoro alle dipendenze della P.A.**, 539 e ss.
+  - atti di macro-organizzazione, 560
+  - atti di micro-organizzazione e di gestione, 560 e ss.
+  - controversie assoggettate alla giurisdizione amministrativa, 577 e ss.
+  - controversie concernenti l'assunzione al lavoro e in materia di concorsi esterni ed interni, 580
+  - controversie relative ai rapporti privatizzati *ex* art. 63, comma 4, T.U. 165/2001, 575
+  - controversie relative al conferimento e alla revoca degli incarichi dirigenziali, 585
+  - controversie relative al rapporto di pubblico impiego, 577 e ss.
+  - dirigenza pubblica, 564 e ss.
+  - giurisdizione in tema di incarichi dirigenziali, 586 e ss.
+  - interpretazione dei contratti collettivi, 594
+  - meritocrazia nella P.A., 550 e ss.
+  - richiesta di disapplicazione al G.O. ed impugnazione innanzi al G.A. degli (–), 589
+  - *smart working* (v. *Smart working nel pubblico impiego*)
+  - strumenti premiali, 551
+  - strumenti sanzionatori, 552
+
+## N
+- **Norme interne**, 455 e ss.
+
+## O
+- **Ordinanze di necessità e urgenza**, 438
+- **Organismo di diritto pubblico**, 481 e ss.
+  - i tre requisiti dell'(–), 482 e ss.
+
+## P
+- **Pianificazione urbanistica**, 752 e ss.
+- **Piano regolatore generale**, 1845 e ss.
+  - natura giuridica del (–), 1847 e ss.
+  - procedimento di formazione del (–), 1850 e ss.
+  - l'adozione del (–), 1850
+  - contenuto del (–), 1853
+  - attuazione del (–), 1855
+- **Poteri**
+  - delega dei (–), 515 e ss.
+- **Principio di sussidiarietà**, 649 e ss.
+  - orizzontale, 655
+  - verticale, 654
+- **Procedimento amministrativo**, 1063 e ss.
+  - comunicazione di avvio del (–), 1087
+  - forme di (–), 1094
+  - partecipazione al (–), 1085 e ss.
+  - profili generali, 1063 e ss.
+  - responsabile del (–), 1074 e ss.
+  - semplificazione del (–), 1102
+- **Processo amministrativo**, 1458 e ss.
+  - azioni esperibili, 1461 e ss.
+  - costitutive, 1462
+  - di accertamento della spettanza del bene della vita e conseguente condanna della P.A. ad un *facere* pubblicistico, 112
+  - di condanna privatistica, 1463
+  - di condanna pubblicistica, 190 e ss.
+  - di mero accertamento, 1462
+  - caratteri generali del (–), 1458 e ss.
+  - competenza territoriale dei T.A.R., 1479 e ss.
+  - conversione delle azioni, 1464
+  - costituzione delle parti in giudizio, 1513 e ss.
+  - decisione del (–), 1546 e ss.
+  - decisione c.d. semplificata, 1556
+  - di istruzione (v. *Istruttoria*)
+  - di primo grado, 1475 e ss.
+  - esecutività delle sentenze dei T.A.R., 1554
+  - estinzione del (–), 1543
+  - in appello al Consiglio di Stato, 1618 e ss.
+  - il giusto (–), 1465
+  - impugnazioni, 1610 e ss.
+  - interruzione del (–), 1536
+  - istruttoria, 1529
+  - misure cautelari, 1561 e ss.
+  - opposizione di terzo, 1645
+  - per Cassazione per motivi attinenti alla giurisdizione, 1647
+  - per revocazione, 1638
+  - poteri del giudice amministrativo in sede di giurisdizione esclusiva, 277 e ss.
+  - presupposti processuali e condizioni dell'azione, 1495
+  - previsioni emergenziali durante la pandemia da COVID-19, 444
+  - principi del (–), 1471 e ss.
+  - profili generali, 1475
+  - propulsive e sostitutive, 1571
+  - questioni di giurisdizione e regolamento di giurisdizione, 1476
+  - ricorso, 1499 e ss.
+  - riti speciali, 1555
+  - sentenza, 1546
+  - soggetti e parti del (–), 1490 e ss.
+  - sospensione del (–), 1538
+  - trattazione del (–), 1533 e ss.
+  - tutela cautelare, 1561 e ss.
+  - tutela cautelare *ante causam*, 1602 e ss.
+  - tutela cautelare atipica, 1576
+- **Provincia**, v. *Enti locali*
+- **Provvedimenti**
+  - prezzo e tariffari, 450
+- **Provvedimento amministrativo**, 1131 e ss.
+  - annullabilità del (–), 1222 e ss.
+  - atti consistenti in manifestazioni di volontà, 1135
+  - atti di conoscenza, 1136
+  - atti di giudizio, 1137
+  - atti endoprocedimentali, 1138
+  - caratteri del (–), 1150 e ss.
+  - differenza tra atto e (–), 1131 e ss.
+  - elementi accidentali del (–), 1162
+  - elementi essenziali del (–), 1157
+  - inesistenza del (–), 1200 e ss.
+  - inopportunità, 1252
+  - interpretazione del (–), 1167
+  - invalidità del (–), 1190 e ss. *(lettura incerta)*
+  - invalidità sopravvenuta, 1247 e ss.
+  - motivazione del (–), 1174 e ss.
+  - nullità del (–), 1205 e ss.
+  - provvedimenti ablatori, 1145
+  - provvedimenti autorizzatori, 1141
+  - provvedimenti concessori, 1143
+  - provvedimenti di secondo grado, 1150
+  - requisiti del (–), 1163 e ss.
+  - requisiti di efficacia del (–), 1163 e ss.
+  - requisiti di legittimità del (–), 1163
+  - tipi di atto amministrativo non provvedimentale, 1134 e ss.
+  - tipi di (–), 1139 e ss.
+  - vizi non invalidanti, 1241 e ss.
+  - vizi di legittimità, 1224 e ss.
+- **Pubblica Amministrazione**
+  - classificazioni degli organi e degli uffici (–), 502
+  - nozione comunitaria di (–), 477
+  - organi e uffici della (–), 496 e ss.
+  - pluralismo della (–), 464
+  - principi costituzionali in tema di organizzazione della (–), 463
+  - *prorogatio* degli organi della (–), 503
+  - rapporto interorganico, 506 e ss.
+  - rapporto organico e rapporto di servizio, 501 e ss.
+  - struttura della (–), 496 e ss.
+- **Pubbliche funzioni**
+  - esercizio privato di (–), 494 e ss.
+
+## R
+- **Rapporto**
+  - controllo, 509
+  - coordinamento, 509
+  - di servizio, 501 e ss.
+  - direzione, 508
+  - gerarchia, 506
+  - interorganico, 505 e ss.
+  - *(la voce prosegue: riga tagliata nella foto)*
+- **Regioni**, 659 e ss.
+  - autonomia amministrativa delle (–), 661
+  - controllo sulle (–), 667
+  - coordinamento tra Stato e (–), 663
+  - finanza regionale, 664
+  - organizzazione regionale, 669
+  - potere sostitutivo del Governo, 667 e ss.
+  - potestà legislativa delle (–), 659
+- **Regolamenti**, 398 e ss.
+  - classificazione, 401
+  - controllo di costituzionalità, 409
+  - fondamento, 399
+  - limiti al potere regolamentare, 400
+  - nozione, 398
+  - tutela giurisdizionale nei confronti di bandi e regolamenti, 409 e ss.
+- **Responsabile del procedimento amministrativo**, 1074 e ss.
+  - compiti del (–), 1078
+  - figura del (–), 1074
+  - individuazione del (–), 1076
+  - responsabilità del (–), 1082
+- **Responsabilità della P.A.**, 202 e ss.
+  - amministrativa, 202 e ss.
+  - azione risarcitoria nel processo amministrativo, 236 e ss.
+  - colpa, 223 e ss.
+  - contrattuale, 259
+  - da contatto sociale qualificato, 202, 226
+  - da lesione di diritti soggettivi, 252 e ss.
+  - danno all'immagine della P.A., 1432
+  - dolo, 228
+  - e azione di nullità, 248
+  - e termine decadenziale, 243 e ss.
+  - elemento oggettivo dell'illecito, 205 e ss.
+  - elemento soggettivo dell'illecito, 221 e ss.
+  - extracontrattuale, 252
+  - natura giuridica della (–), 202 e ss.
+  - precontrattuale, 256 e ss.
+  - pregiudizialità amministrativa, 238 e ss.
+  - risarcimento del danno in forma specifica, 234
+  - risarcimento del danno per equivalente, 229 e ss.
+- **Ricorsi amministrativi**, 365 e ss.
+  - alternatività dei (–), 378 e ss.
+  - impugnatori e non impugnatori, 370
+  - ordinari e straordinari, 370
+  - ricorso gerarchico, 474 e ss. *(così nel testo; nel sommario è p. 374)*
+  - ricorso straordinario al Presidente della Repubblica, 373, 1712 e ss.
+  - rinnovatori ed eliminatori, 370
+
+## S
+- **S.c.i.a.** (Segnalazione Certificata di Inizio Attività), 1033 e ss.
+  - ambito di applicazione, 1037
+  - caratteri generali, 1034
+  - giurisdizione esclusiva, 1060 e ss.
+  - eccezioni all'applicazione della (–), 1038
+  - la tutela del terzo controinteressato, 1051 e ss.
+  - natura giuridica, 1039
+  - poteri della P.A. dopo la presentazione della (–), 1043
+  - S.c.i.a. edilizia, 1891
+  - il procedimento, 1894
+- **Servizi pubblici**, 285, 821 e ss.
+  - affidamento dei (–), v. *sub Affidamento*
+  - carte dei servizi pubblici, 454
+  - in senso soggettivo, 824
+  - in senso oggettivo, 825
+  - locali di rilevanza economica e privi di rilevanza economica, 830
+  - nozione di pubblico servizio, 824
+  - posizione dell'utente, 833
+  - regolazione del settore dei (–), 832
+  - riforma dei (–) locali di rilevanza economica, 835
+  - servizi sociali, 835
+  - *Welfare State*, 821
+- **Sicurezza urbana**
+  - nozione, 1948
+  - e sicurezza integrata, 1952 e ss.
+  - accordi tra p.a. in materia di (–), 1956 e ss.
+  - ordinanze sindacali in materia di (–), 1960 e ss.
+  - "daspo urbano" (nuove figure di), 1977
+- **Silenzio amministrativo**, 989 e ss.
+  - danno da ritardo, 1005 e ss.
+  - diniego espresso sopravvenuto nel corso del giudizio contro il (–), 1003
+  - e atto amministrativo implicito, 1030
+  - e obbligo di provvedere, 995 e ss.
+  - oggetto del sindacato giurisdizionale nel ricorso contro il (–), 1002
+  - procedimento di formazione del (–), 1000
+  - ricorso contro il (–) e riparto di giurisdizione, 1002
+  - silenzio-assenso, 1012 e ss.
+  - silenzio-assenso in materia ambientale, 1771
+  - silenzio-diniego, 1025
+  - silenzio facoltativo e devolutivo, 1028
+  - silenzio-rifiuto, 995 e ss.
+  - tutela contro il (–), 998
+- ***Smart working* nel pubblico impiego**, 562
+- **Società**
+  - per la gestione dei servizi pubblici locali, 837 e ss.
+  - miste, 850 e ss.
+- **Sportello unico per le attività produttive**, 1126 e ss.
+- **Stato**, 490
+- **Statuti degli enti locali**, 437
+
+## T
+- **Tempo dell'azione amministrativa**, 989 e ss.
+- ***Translatio iudicii***, 97 e ss.
+- **Tutela cautelare**, 1561 e ss.
+  - a contenuto negativo, 1570
+  - misure cautelari, 1569 e ss.
+  - propulsive e sostitutive, 1571 e ss.
+  - tutela cautelare *ante causam*, 1602 e ss.
+  - tutela cautelare atipica, 1576
+  - tutela presidenziale monocratica, 1599
+- **Tutela giustiziale**, 365 e ss.
+  - autotutela amministrativa e autodichia, 366
+  - ricorso gerarchico, v. *Ricorso gerarchico*
+
+*(L'ultima foto termina con la lettera T. Se l'indice analitico continua dopo p. 2039, mancano le pagine successive.)*
