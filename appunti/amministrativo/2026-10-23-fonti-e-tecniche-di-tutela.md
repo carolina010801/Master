@@ -1,297 +1,199 @@
 # Diritto amministrativo — Lezione del 23 ottobre 2026
 
-**Argomenti:** I. Fonti sovranazionali e diritto amministrativo · II. Tecniche di tutela dell'interesse legittimo · III. Fonti interne: legificazione, legge-provvedimento, usi, prassi e circolari
-
-> Appunti riordinati dalla trascrizione della lezione. Gli estremi delle pronunce sono riportati come negli appunti originali: dove sono incompleti è indicato *[da verificare]*.
+*Appunti riordinati dalla trascrizione della lezione. Gli estremi delle pronunce sono riportati come negli appunti originali; dove sono incompleti è indicato [da verificare].*
 
 ---
 
-# I. LE FONTI SOVRANAZIONALI E IL LORO IMPATTO SUL DIRITTO AMMINISTRATIVO
+## PARTE PRIMA — LE FONTI SOVRANAZIONALI E IL LORO IMPATTO SUL DIRITTO AMMINISTRATIVO
 
-Il diritto sovranazionale va distinto in **diritto dell'Unione europea** e **diritto internazionale**, in particolare quello pattizio (CEDU).
+### Il rapporto tra ordinamento interno e ordinamento dell'Unione europea
 
-## 1. Ordinamento interno e ordinamento dell'Unione europea
+Quando si parla di diritto sovranazionale occorre anzitutto distinguere il diritto dell'Unione europea dal diritto internazionale, e in particolare da quello pattizio, cui appartiene la CEDU. Il confronto prende le mosse dal rapporto tra l'ordinamento interno e questi ordinamenti esterni.
 
-Il rapporto si fonda sugli **artt. 11 e 117 Cost.** L'art. 11 dà fondamento costituzionale al **primato** e all'**effetto diretto** del diritto UE.
+Nella Carta costituzionale il rapporto con l'ordinamento dell'Unione trova fondamento negli artt. 11 e 117 Cost. È soprattutto l'art. 11 a dare copertura costituzionale ai principi del primato del diritto dell'Unione e del suo effetto diretto nel diritto interno.
 
-In origine prevaleva una **concezione dualistica**: due ordinamenti separati e autonomi, con un preciso riparto di competenze. Nel tempo si è affermata una visione di ordinamenti **integrati e interdipendenti**, per tre ragioni:
+In origine prevaleva una concezione dualistica, che vedeva l'ordinamento europeo e quello nazionale come ordinamenti separati e autonomi, legati da un preciso riparto di competenze. Nel tempo questa visione ha lasciato il posto a una concezione che considera i due ordinamenti integrati e interdipendenti. A questo mutamento hanno contribuito tre fattori: la qualificazione dei Trattati, da parte della Corte di giustizia, come carta costituzionale di base; la progressiva estensione delle competenze dell'Unione; il riconoscimento alla Carta dei diritti fondamentali dell'Unione europea dello stesso valore giuridico dei Trattati.
 
-1. la Corte di giustizia ha qualificato i Trattati come **carta costituzionale di base**;
-2. si sono estese le competenze dell'Unione;
-3. la **Carta dei diritti fondamentali dell'UE** ha acquisito lo stesso valore giuridico dei Trattati.
+Proprio perché la Corte costituzionale conosce oggi anche dei contrasti tra la norma interna e la Carta dei diritti fondamentali, si è sviluppata una forma di collaborazione tra Corte costituzionale e Corte di giustizia, che può svolgersi secondo tre modalità. La prima è il rinvio pregiudiziale: quando nel giudizio di costituzionalità sorge un dubbio sul contenuto o sull'interpretazione del diritto dell'Unione, la Corte costituzionale si rivolge alla Corte di giustizia. La seconda ricorre quando il diritto dell'Unione integra il parametro interno di costituzionalità: in questo caso la Corte costituzionale, dichiarando l'illegittimità della norma interna, assicura il primato e la piena effettività del diritto europeo. La terza è una collaborazione in chiave, per così dire, difensiva: la Corte costituzionale garantisce il primato del diritto dell'Unione, ma nel rispetto dei controlimiti, sicché quel primato non può spingersi fino a ledere i principi e i valori fondamentali dell'ordinamento costituzionale.
 
-La Corte costituzionale conosce ora anche dei contrasti tra norma interna e Carta dei diritti fondamentali. Ne è nata una **collaborazione tra Corte costituzionale e Corte di giustizia**, che assume tre forme:
+### Il rapporto tra ordinamento interno e CEDU
 
-| Forma | Contenuto |
-|---|---|
-| **1. Rinvio pregiudiziale** | Se nel giudizio di costituzionalità sorge un dubbio sull'interpretazione del diritto UE, la Corte costituzionale rinvia alla Corte di giustizia. |
-| **2. Diritto UE come parametro** | Se il diritto UE integra il parametro di costituzionalità, la Corte costituzionale, dichiarando illegittima la norma interna, assicura il primato e l'effettività del diritto UE. |
-| **3. Controlimiti** (collaborazione "difensiva") | La Corte costituzionale assicura il primato del diritto UE, ma questo non può spingersi fino a ledere i **principi fondamentali** dell'ordinamento costituzionale. |
+Il diritto internazionale può essere consuetudinario, e trova allora ingresso nell'ordinamento attraverso l'art. 10 Cost., oppure pattizio. Per quest'ultimo il riferimento è l'art. 117, primo comma, Cost., che impone al legislatore il rispetto dei vincoli derivanti dagli obblighi internazionali, e quindi anche dalla CEDU. La Convenzione si inserisce così nel sistema delle fonti non al vertice, ma in una posizione sub-costituzionale, intermedia tra la Costituzione e la legge: la legge deve rispettarla, ma essa resta subordinata alla Costituzione.
 
-## 2. Ordinamento interno e CEDU
+### I tre conflitti tra ordinamenti
 
-Il diritto internazionale può essere:
-- **consuetudinario**: art. 10 Cost.;
-- **pattizio**: art. 117, co. 1, Cost. Il legislatore deve rispettare i vincoli derivanti dai trattati, compresa la CEDU. La CEDU ha quindi una posizione **sub-costituzionale**: è sotto la Costituzione ma sopra la legge (norma interposta).
+Il rapporto tra ordinamenti può generare, nel diritto amministrativo, tre tipi di conflitto. Il primo è il conflitto normativo, che oppone la norma interna al diritto sovranazionale. Il secondo è il conflitto amministrativo, che si ha quando è l'atto amministrativo a contrastare con il diritto dell'Unione o con la CEDU. Il terzo è il conflitto giurisprudenziale, che riguarda la sentenza ormai inoppugnabile del Consiglio di Stato in contrasto con il diritto dell'Unione.
 
-## 3. I tre tipi di conflitto
+### Il conflitto normativo
 
-| Conflitto | Oggetto |
-|---|---|
-| **Normativo** | Legge interna in contrasto con il diritto UE o con la CEDU |
-| **Amministrativo** | Atto amministrativo in contrasto con il diritto UE o con la CEDU |
-| **Giurisprudenziale** | Sentenza inoppugnabile del Consiglio di Stato in contrasto con il diritto UE |
+Nel conflitto tra norma interna e diritto sovranazionale bisogna sempre tenere distinti il diritto dell'Unione e la CEDU, perché diversi sono gli strumenti per risolverlo.
 
-### 3.1 Il conflitto normativo
+Il primo strumento, comune a entrambi i casi, è l'interpretazione. Il contrasto tra legge e diritto dell'Unione può essere superato leggendo la legge alla luce della fonte sovraordinata, che ha il primato. Allo stesso modo, poiché la CEDU si colloca al di sopra della legge, grava sul giudice un obbligo di interpretazione conforme della legge alla Convenzione.
 
-**Primo passo: l'interpretazione conforme.** Il conflitto si risolve, se possibile, in via interpretativa, leggendo la legge alla luce della fonte sovraordinata. Questo vale sia per il diritto UE, che ha il primato sulla legge, sia per la CEDU, che nel sistema delle fonti sta sopra la legge.
+Quando però il conflitto non può essere sanato in via interpretativa, la strada si divide. Se la legge contrasta con il diritto dell'Unione, il giudice dispone di due rimedi. Può sollevare la questione di legittimità costituzionale, che dà luogo a un sindacato accentrato perché riservato alla Corte costituzionale; oppure può disapplicare la legge in forza del primato e dell'effetto diretto del diritto europeo, secondo un sindacato diffuso che spetta a ogni giudice del caso concreto. La Corte costituzionale, con la sentenza del 12 maggio 2026, n. 71, ha chiarito che tra questi due rimedi non esiste una gerarchia: essi sono alternativi e la scelta tra l'uno e l'altro è rimessa alla valutazione del giudice a quo. Se invece la legge contrasta con la CEDU, l'unico strumento a disposizione è la questione di legittimità costituzionale, perché la disapplicazione non è consentita.
 
-**Se l'interpretazione conforme non basta**, i rimedi sono diversi:
+Due esempi tratti dal diritto amministrativo mostrano come operi in concreto la disapplicazione della norma interna contraria al diritto dell'Unione.
 
-| | Legge contraria al **diritto UE** | Legge contraria alla **CEDU** |
-|---|---|---|
-| **Questione di legittimità costituzionale** (sindacato accentrato) | Sì | Sì: **unico rimedio** |
-| **Disapplicazione** (sindacato diffuso, da parte di ogni giudice, in forza di primato ed effetto diretto) | Sì | No |
+Il primo, meno recente, riguarda l'art. 99 c.p.a., che introduce nel processo amministrativo una regola di precedente vincolante. L'Adunanza plenaria, quale organo nomofilattico, enuncia un principio di diritto che le sezioni del Consiglio di Stato sono tenute a rispettare: se non lo condividono, possono soltanto rimettere nuovamente la questione alla Plenaria. Ne deriva che, quando il principio enunciato dalla Plenaria contrasta con il diritto dell'Unione, o non è più conforme a esso per effetto di un mutamento del quadro normativo europeo, la sezione non potrebbe discostarsene autonomamente né rivolgersi direttamente alla Corte di giustizia. Un simile vincolo, però, si pone in contrasto con l'art. 267 TFUE, che impone ai giudici nazionali di ultima istanza di sottoporre alla Corte di giustizia, quando ne ricorrono i presupposti, le questioni pregiudiziali relative all'interpretazione del diritto dell'Unione. Per questo l'art. 99 deve essere disapplicato nella misura in cui impedisce al giudice di rivolgersi direttamente alla Corte di giustizia, e la sezione può discostarsi dal principio di diritto della Plenaria quando lo ritenga incompatibile con il diritto europeo.
 
-Secondo la sentenza della Corte costituzionale del **12 maggio 2026, n. 71**, tra i due rimedi **non c'è gerarchia**. Sono **alternativi** e la scelta spetta al giudice *a quo*.
+Il secondo esempio, più recente, riguarda la proroga delle concessioni demaniali marittime a scopo turistico-ricreativo. Il problema nasce dal fatto che l'affidamento delle concessioni di beni demaniali deve rispettare la concorrenza e avvenire, quindi, attraverso procedure comparative. La Corte di giustizia individua il fondamento dell'obbligo di gara in due norme. La prima è l'art. 12 della direttiva 2006/123/CE, il quale prevede che, quando il numero delle autorizzazioni o concessioni è limitato per la scarsità della risorsa naturale, il titolo debba essere attribuito con una selezione trasparente, abbia durata limitata e non possa essere rinnovato automaticamente né attribuire vantaggi al concessionario uscente. La seconda è l'art. 49 TFUE, che viene in rilievo quando la concessione presenta un interesse transfrontaliero, cioè quando altri operatori europei possono avere interesse a ottenerla. La norma interna che contrasta con queste disposizioni deve essere disapplicata, e l'obbligo grava non solo sul giudice ma anche sulla pubblica amministrazione, tenuta a non applicare la legge interna che contrasti con una norma europea dotata di effetto diretto.
 
-#### Due esempi di disapplicazione in ambito amministrativo
+La vicenda ha conosciuto diverse tappe. Con l'art. 1, commi 682 e seguenti, della legge n. 145 del 2018 il legislatore aveva previsto una proroga generalizzata delle concessioni; investita della questione, l'Adunanza plenaria ha affermato, alla luce dell'art. 12 della direttiva e dell'art. 49 TFUE, che le norme di legge che prorogano automaticamente le concessioni vanno disapplicate. Il legislatore è poi intervenuto nuovamente con gli artt. 3 e 4 della legge n. 118 del 2022, successivamente modificati dal d.l. n. 131 del 2024, convertito nella legge n. 166 del 2024, prevedendo un'ulteriore proroga. In un primo momento il TAR l'aveva disapplicata per le stesse ragioni già indicate dalla Plenaria. Successivamente, però, il Consiglio di Stato, con la sentenza del 21 maggio 2026, n. 4121, ha offerto una lettura della proroga compatibile con il diritto europeo: se la proroga è "tecnica", cioè funzionale allo svolgimento della gara, essa non contrasta con il diritto dell'Unione. Questa lettura comporta però che l'amministrazione si attivi per espletare la gara entro il termine, e che, se la gara si conclude prima, il nuovo concessionario possa subentrare anticipatamente. L'art. 4, comma 9, della legge n. 118 del 2022 pone inoltre a carico del concessionario subentrante un indennizzo in favore di quello uscente, parametrato al valore degli investimenti non ancora ammortizzati e a un'equa remunerazione degli investimenti degli ultimi cinque anni, secondo criteri stabiliti con decreto ministeriale. L'indennizzo deve tuttavia rispettare il divieto di vantaggi per il concessionario uscente: se fosse eccessivo, finirebbe per rendere non conveniente l'affidamento per i nuovi operatori.
 
-**a) L'art. 99 c.p.a. e il vincolo del precedente dell'Adunanza plenaria**
+### Il conflitto amministrativo: l'atto contrario al diritto dell'Unione
 
-L'art. 99 c.p.a. introduce una regola di **precedente vincolante**. Se la sezione del Consiglio di Stato non condivide il principio di diritto enunciato dalla Plenaria, deve rimetterle di nuovo la questione: non può discostarsene da sola.
+Il conflitto normativo può tradursi in un conflitto amministrativo, quando è l'atto amministrativo a contrastare con il diritto dell'Unione o con la CEDU.
 
-Se però il principio della Plenaria è contrario al diritto UE, o non lo è più perché il quadro europeo è cambiato, questo vincolo contrasta con l'**art. 267 TFUE**. L'art. 267 obbliga il giudice di ultima istanza a rivolgersi alla Corte di giustizia per le questioni interpretative di diritto UE.
+Secondo la giurisprudenza, il giudice amministrativo non può disapplicare l'atto amministrativo contrario al diritto europeo, per due ragioni. Anzitutto egli non dispone di questo potere, che nel nostro sistema di tutela spetta al giudice ordinario, il quale, in forza della legge abolitiva del contenzioso amministrativo, può disapplicare l'atto per tutelare un diritto soggettivo. In secondo luogo prevale l'esigenza di certezza dell'atto amministrativo: se il giudice potesse disapplicarlo in qualunque momento, a prescindere da una tempestiva azione della parte, l'atto resterebbe esposto a una perpetua instabilità.
 
-→ L'art. 99 va **disapplicato** nella parte in cui impedisce alla sezione di rivolgersi direttamente alla Corte di giustizia. La sezione può quindi discostarsi dal principio della Plenaria se lo ritiene incompatibile con il diritto UE.
+La giurisprudenza, con una sentenza del 7 settembre, n. 6835 [anno da verificare: negli appunti è incompleto], distingue due ipotesi. Si ha violazione mediata quando l'atto amministrativo è adottato sulla base di una legge che contrasta con il diritto dell'Unione, sicché la violazione passa attraverso la legge. Si ha invece violazione immediata quando l'atto si pone in diretto contrasto con il diritto europeo, senza l'intermediazione di una norma interna.
 
-**b) La proroga delle concessioni demaniali marittime a scopo turistico-ricreativo**
+In entrambi i casi il conflitto determina l'invalidità dell'atto e si risolve, quindi, attraverso le azioni che consentono di farla valere. Resta da stabilire di quale invalidità si tratti, perché le azioni sono diverse a seconda che l'atto sia nullo o annullabile. Secondo una prima tesi l'atto sarebbe sempre annullabile: in un sistema integrato delle fonti, la violazione del diritto dell'Unione, mediata o immediata che sia, costituisce comunque una violazione di legge, che a norma della legge n. 241 del 1990 comporta l'annullabilità. Secondo un'altra tesi, accolta da una pronuncia della giustizia amministrativa del 2026, occorre invece distinguere. Di regola l'atto è annullabile, perché affetto da un vizio di violazione di legge. Nel caso di violazione mediata, però, se la legge contrastante con il diritto europeo viene disapplicata o dichiarata incostituzionale, viene meno la norma attributiva del potere: l'atto risulta allora adottato in difetto assoluto di attribuzione, cioè in carenza assoluta di potere, ed è quindi nullo. L'atto contrario al diritto dell'Unione può dunque essere, a seconda dei casi, annullabile o nullo.
 
-Le concessioni di beni demaniali devono essere affidate con **procedure comparative**, nel rispetto della concorrenza. Per la Corte di giustizia l'obbligo di gara si fonda su:
-- l'**art. 12 della direttiva 2006/123/CE**: se le autorizzazioni sono limitate per la scarsità della risorsa naturale, servono una selezione trasparente e una durata limitata, e sono vietati il rinnovo automatico e i vantaggi per il concessionario uscente;
-- l'**art. 49 TFUE**: libertà di stabilimento, quando c'è un **interesse transfrontaliero certo**.
-
-La norma interna contraria va disapplicata **dal giudice** e anche **dalla pubblica amministrazione**, che è tenuta a non applicare la legge contraria a una norma UE con effetto diretto.
-
-Le tappe:
-- **L. 145/2018, art. 1, co. 682 e ss.**: proroga generalizzata delle concessioni. L'**Adunanza plenaria** ha affermato che vanno disapplicate le leggi che prorogano automaticamente le concessioni, perché contrarie all'art. 12 della direttiva e all'art. 49 TFUE.
-- **L. 118/2022, artt. 3 e 4**, poi modificati dal **d.l. 131/2024, conv. in l. 166/2024**: una nuova proroga. Inizialmente il **TAR** l'ha disapplicata per le stesse ragioni.
-- **Consiglio di Stato, 21 maggio 2026, n. 4121**: ha dato una **lettura compatibile** della proroga. Se la proroga è **"tecnica"**, cioè serve a consentire lo svolgimento della gara, non contrasta con il diritto UE. Ne derivano due conseguenze:
-  - l'amministrazione deve attivarsi per svolgere la gara entro il termine. Se la gara si conclude prima, il nuovo concessionario può subentrare subito;
-  - l'**art. 4, co. 9, l. 118/2022** pone a carico del concessionario **subentrante** un **indennizzo** per l'uscente. È commisurato agli investimenti non ancora ammortizzati e all'equa remunerazione degli investimenti degli ultimi cinque anni, secondo criteri fissati con decreto ministeriale. L'indennizzo deve comunque rispettare il **divieto di vantaggi per l'uscente**: se fosse troppo alto, la concessione smetterebbe di essere appetibile per i nuovi operatori.
-
-### 3.2 Il conflitto amministrativo: l'atto contrario al diritto UE
-
-**Il giudice amministrativo non disapplica l'atto.** Per due ragioni:
-1. non ha questo potere. La disapplicazione dell'atto amministrativo spetta al **giudice ordinario**, a tutela di diritti soggettivi, in base alla legge abolitiva del contenzioso amministrativo (L.A.C.);
-2. prevale l'esigenza di **certezza e stabilità** dell'atto. Se l'atto si potesse disapplicare in ogni momento, anche senza un'impugnazione tempestiva, resterebbe instabile per sempre.
-
-**Violazione mediata e violazione immediata.** La giurisprudenza, con una sentenza del 7 settembre, n. 6835 *[anno da verificare: negli appunti è incompleto]*, distingue:
-- **violazione mediata**: l'atto è conforme alla legge, ma la legge contrasta con il diritto UE;
-- **violazione immediata**: l'atto contrasta direttamente con il diritto UE, senza che ci sia di mezzo una legge interna.
-
-In entrambi i casi l'atto è **invalido**. Il conflitto si risolve quindi con le azioni che fanno valere l'invalidità. Resta da stabilire quale forma di invalidità:
-
-| Tesi | Soluzione |
-|---|---|
-| **Prima tesi** | L'atto è **sempre annullabile**. In un sistema integrato delle fonti, la violazione del diritto UE, mediata o immediata, è comunque una **violazione di legge** (art. 21-*octies* l. 241/1990). |
-| **Seconda tesi** (giurisprudenza amministrativa del 2026) | Di regola l'atto è **annullabile** per violazione di legge. Nella **violazione mediata**, però, se la legge che attribuisce il potere viene disapplicata o dichiarata incostituzionale, viene meno la norma attributiva del potere. L'atto risulta allora adottato in **difetto assoluto di attribuzione** ed è **nullo** (art. 21-*septies* l. 241/1990). |
-
-*Questione aperta a lezione:* se l'atto è invalido, l'amministrazione **può** intervenire in autotutela o **deve** farlo?
+Resta aperta, e la lezione si è chiusa su questo interrogativo, la questione se l'amministrazione, di fronte a un atto comunque invalido, possa oppure debba intervenire in autotutela.
 
 ---
 
-# II. LE TECNICHE DI TUTELA DELL'INTERESSE LEGITTIMO DAVANTI AL GIUDICE AMMINISTRATIVO
+## PARTE SECONDA — LE TECNICHE DI TUTELA DELL'INTERESSE LEGITTIMO DAVANTI AL GIUDICE AMMINISTRATIVO
 
-## 1. Azione di nullità e azione di annullamento
+### Azione di nullità e azione di annullamento
 
-| | Azione di **nullità** | Azione di **annullamento** |
-|---|---|---|
-| Natura | **Dichiarativa**: accerta l'inefficacia *ab origine* del provvedimento | **Costitutiva**: elimina il provvedimento |
-| Termine | **120 giorni** (decadenza) | **60 giorni** |
+Le azioni di nullità e di annullamento sono due tecniche diverse di tutela della stessa posizione soggettiva. L'azione di nullità è un'azione dichiarativa e conduce a una sentenza che accerta l'inefficacia originaria del provvedimento; l'azione di annullamento mira invece a una sentenza costitutiva, che elimina il provvedimento.
 
-Il termine di decadenza per l'azione di nullità segna una differenza con il contratto, dove l'azione di nullità è imprescrittibile. Il motivo è sempre l'esigenza di **stabilità dell'atto amministrativo**.
+Anche l'azione di nullità è soggetta a un termine di decadenza, di centoventi giorni, più lungo dei sessanta giorni previsti di regola per l'azione di annullamento. Qui ritorna un tema già noto, quello della stabilità dell'atto amministrativo: a differenza di quanto accade per il contratto, la cui nullità può essere fatta valere senza limiti di tempo, la tutela dell'interesse legittimo nei confronti dell'atto nullo è sottoposta a un termine decadenziale.
 
-## 2. I tre effetti della sentenza di annullamento
+### I tre effetti della sentenza di annullamento
 
-### a) Effetto demolitorio
-È l'effetto costitutivo: elimina il provvedimento. Di regola l'annullamento opera ***ex tunc***, come se l'atto non fosse mai esistito.
+La sentenza di annullamento produce tre effetti distinti: demolitorio, ripristinatorio e conformativo.
 
-**La modulazione degli effetti.** Il giudice può accogliere la domanda senza annullare *ex tunc*. Può annullare solo per il futuro, fare salvi alcuni effetti già prodotti, oppure **accertare l'illegittimità senza annullare**. Le ipotesi sono due:
-- **prevista dal codice**: è la **sopravvenuta carenza di interesse all'annullamento**. Durante il giudizio il ricorrente non ha più interesse a eliminare l'atto, ma conserva l'interesse a vederne accertata l'illegittimità **a fini risarcitori**. Deve però manifestare questo interesse. Il giudizio nasce di annullamento e prosegue come giudizio di accertamento;
-- **non prevista espressamente**: il giudice, sulla base dei poteri di **modulazione** che ricava dall'**art. 34 c.p.a.**, accerta l'illegittimità ma non annulla. Per la giurisprudenza il potere va usato **con prudenza** e solo quando serve a tutelare meglio gli interessi in gioco. *Esempio:* un'associazione ambientalista impugna un piano faunistico. Annullarlo del tutto potrebbe nuocere proprio all'interesse che l'associazione vuole proteggere, perché verrebbe meno anche la tutela che il piano comunque assicura.
+L'effetto demolitorio è l'effetto costitutivo della sentenza e consiste nell'eliminazione del provvedimento impugnato dal mondo giuridico. Di regola il giudice che accoglie la domanda annulla l'atto con efficacia ex tunc, cioè fin dalla sua adozione, come se non fosse mai esistito. La regola conosce però delle eccezioni, che si riassumono nel tema, molto importante e delicato, della modulazione degli effetti della sentenza: il giudice può accogliere la domanda senza annullare retroattivamente, per esempio disponendo un annullamento solo per il futuro o facendo salvi alcuni effetti già prodotti, oppure può addirittura accertare l'illegittimità senza annullare il provvedimento.
 
-### b) Effetto ripristinatorio
-Elimina gli effetti già prodotti dall'atto annullato e riporta la situazione allo ***status quo ante***. Dipende dall'effetto demolitorio: se il giudice si limita ad accertare l'illegittimità, non si producono né l'effetto demolitorio né quello ripristinatorio.
+Un'ipotesi di accertamento senza annullamento è espressamente prevista dal codice e ricorre quando, nel corso del giudizio, viene meno l'interesse all'annullamento ma persiste l'interesse all'accertamento dell'illegittimità a fini risarcitori. Il privato ha impugnato il provvedimento per ottenerne la rimozione; successivamente non ha più interesse a quella rimozione, ma vuole comunque una sentenza che accerti l'illegittimità dell'atto per chiedere il risarcimento del danno. Il giudizio, nato come giudizio di annullamento, prosegue allora come giudizio di mero accertamento, a condizione che la parte manifesti espressamente questo interesse.
 
-### c) Effetto conformativo
-Vincola il **riesercizio del potere** al contenuto della sentenza. Si produce anche quando la sentenza si limita ad accertare l'illegittimità.
-- **Effetto conformativo negativo**: l'amministrazione non deve ripetere il vizio accertato.
-- **Effetto conformativo positivo**: l'amministrazione deve riesercitare il potere secondo quanto stabilito dal giudice. Deriva soprattutto dalla **motivazione** della sentenza e la sua portata dipende dal vizio accertato.
+Vi è poi un'ipotesi non espressamente prevista dal codice, nella quale il giudice, a fronte di un'azione di annullamento, si limita ad accertare l'illegittimità senza annullare l'atto, esercitando il potere di modulare gli effetti della sentenza che ricava dalle norme del codice e in particolare dall'art. 34 c.p.a. La giurisprudenza precisa che questo potere va esercitato in modo accorto e solo quando è necessario per una migliore tutela degli interessi fatti valere in giudizio. Si pensi a un'associazione ambientalista che impugna un piano faunistico: annullarlo perché illegittimo potrebbe non essere la soluzione migliore, perché verrebbe meno anche la tutela che il piano comunque assicura.
 
-| Vizio accertato | Effetto conformativo | Cosa resta impregiudicato |
-|---|---|---|
-| **Incompetenza** | L'atto va adottato dall'organo competente | La valutazione e l'esito del procedimento |
-| **Vizio procedimentale / difetto di istruttoria** | Va rinnovato il procedimento o l'istruttoria | La decisione finale |
-| **Difetto di motivazione** | L'amministrazione deve motivare di nuovo | La decisione finale, che può essere di nuovo un rigetto |
+L'effetto ripristinatorio riguarda gli effetti già prodotti dall'atto annullato. Se l'atto viene meno ex tunc, devono essere eliminati anche gli effetti che esso ha prodotto nel frattempo, così da riportare la situazione allo status quo ante, cioè allo stato in cui si sarebbe trovata in assenza dell'atto illegittimo. Effetto demolitorio ed effetto ripristinatorio sono quindi collegati: quando il giudice si limita ad accertare l'illegittimità senza annullare, non si producono né l'uno né l'altro.
 
-## 3. Interesse oppositivo e interesse pretensivo: i limiti della tutela di annullamento
+Si produce invece, anche in questo caso, l'effetto conformativo, che vincola il riesercizio del potere amministrativo al contenuto della sentenza. Quando l'atto è annullato, o anche soltanto dichiarato illegittimo, l'amministrazione deve adottarne uno nuovo conformandosi a quanto stabilito dal giudice. L'effetto conformativo ha un versante negativo e uno positivo. Sul versante negativo, l'amministrazione non deve riprodurre il vizio accertato dalla sentenza. Sul versante positivo, essa deve riesercitare il potere in conformità alla decisione del giudice; questo effetto discende soprattutto dalla motivazione della sentenza, più che dal dispositivo, e la sua portata dipende dalla causa dell'illegittimità.
 
-- **Interesse oppositivo**: l'annullamento **soddisfa pienamente** la pretesa. *Esempio:* annullato il decreto di esproprio, il privato resta proprietario. Resta salvo il risarcimento per gli effetti già prodotti.
-- **Interesse pretensivo**: l'annullamento **non basta**. *Esempio:* annullato il diniego di autorizzazione, il privato ha rimosso un ostacolo ma non ha ancora l'autorizzazione, perché il bene della vita passa da un nuovo esercizio del potere. L'amministrazione può negare di nuovo, il privato impugna ancora, e così via. È il rischio della **"vittoria di Pirro"**, cioè di una tutela ineffettiva.
+Qualche esempio chiarisce il punto. Se il giudice accerta un vizio di incompetenza, l'effetto conformativo negativo impone che l'atto non sia nuovamente adottato dall'organo incompetente, mentre quello positivo impone che sia adottato dall'organo titolare del potere; la valutazione, la scelta e l'esito del procedimento restano però impregiudicati, perché l'effetto conformativo riguarda soltanto la competenza. Se il giudice accerta un vizio procedimentale o un difetto di istruttoria, l'amministrazione deve rinnovare il procedimento o l'attività istruttoria, ma la decisione finale resta ancora una volta nelle sue mani. Se infine il vizio accertato è il difetto di motivazione, l'amministrazione deve motivare di nuovo, e nulla le impedisce di rigettare ancora l'istanza del privato con una motivazione adeguata.
 
-Per rimediare l'ordinamento prevede due strumenti.
+### I limiti della tutela di annullamento per l'interesse pretensivo
 
-### 3.1 L'art. 10-*bis* l. 241/1990: la regola del *one shot* temperato (strumento sostanziale)
-Se il provvedimento è annullato in giudizio, nel riesercitare il potere l'amministrazione **non può addurre per la prima volta motivi ostativi che emergevano già dall'istruttoria** del provvedimento annullato. Può far valere solo motivi **nuovi**, non emersi la prima volta.
+Da quanto detto emerge una differenza fondamentale tra la tutela dell'interesse legittimo oppositivo e quella dell'interesse legittimo pretensivo.
 
-- **Ratio**: costringere l'amministrazione a far valere **tutti** i motivi ostativi con il primo diniego. È una forma di **esaurimento del potere** e di **consumazione della discrezionalità**, a tutela dell'interesse pretensivo.
-- È una norma **sostanziale**: regola il riesercizio del potere, non il processo, anche se è collegata alla tutela giurisdizionale.
+Per l'interesse oppositivo, la tutela demolitoria consente al privato di ottenere piena soddisfazione. Si pensi all'espropriazione: il proprietario, titolare di un interesse oppositivo, impugna il decreto di esproprio e il giudice lo annulla. L'interesse del proprietario consiste nel conservare la proprietà, e la sentenza di annullamento gli consente esattamente questo, salvo il diritto al risarcimento del danno per gli effetti che il provvedimento ha prodotto prima di essere annullato.
 
-### 3.2 L'azione di condanna pubblicistica, o azione di adempimento (strumento processuale)
-Il titolare dell'interesse pretensivo chiede al giudice di accertare che il bene della vita gli spetta e di **condannare l'amministrazione a rilasciare il provvedimento** (**art. 34, co. 1, lett. c), c.p.a.**). È la forma più piena di tutela satisfattoria, ma incontra due limiti, entrambi legati alla **separazione dei poteri**.
+Per l'interesse pretensivo il discorso è molto diverso. Il privato chiede un'autorizzazione e l'amministrazione la nega; egli impugna il diniego e il giudice lo annulla. Il privato, però, non ha ancora ottenuto l'autorizzazione: ha soltanto rimosso un ostacolo, perché il bene della vita passa attraverso un nuovo esercizio del potere. Se il diniego è stato annullato per difetto di motivazione, l'amministrazione può motivare di nuovo e negare ancora l'autorizzazione, costringendo il privato a tornare davanti al giudice, e così via. È il rischio della cosiddetta vittoria di Pirro, cioè dell'ineffettività della tutela davanti al giudice amministrativo. Per far fronte a questo rischio l'ordinamento prevede due strumenti, uno sostanziale e uno processuale.
 
-**Limite processuale: l'azione non è autonoma.** Il giudice non può pronunciarsi su **poteri amministrativi non ancora esercitati**. Per questo l'azione si propone solo insieme:
-- all'**azione di annullamento**, se il potere è stato esercitato con un diniego;
-- all'**azione avverso il silenzio**, se l'amministrazione è rimasta inerte.
+### L'art. 10-bis della legge n. 241 del 1990 e la regola del one shot temperato
 
-Non ha un termine proprio: vale quello dell'azione a cui si accompagna.
+Il primo strumento è l'art. 10-bis della legge n. 241 del 1990, il quale stabilisce che, in caso di annullamento in giudizio del provvedimento, l'amministrazione, nel riesercitare il potere, non può addurre per la prima volta motivi ostativi all'accoglimento dell'istanza che già emergevano dall'istruttoria del provvedimento annullato. È la regola del one shot temperato: l'amministrazione deve far valere tutti i motivi ostativi con il primo diniego e, quando riesamina l'istanza dopo l'annullamento, può opporre soltanto motivi nuovi, non emersi in occasione del primo esercizio del potere.
 
-**Limite sostanziale: serve un potere vincolato.** Il giudice non può sostituirsi all'amministrazione nelle scelte discrezionali. Fanno eccezione le ipotesi tipiche di **giurisdizione estesa al merito** (**art. 134 c.p.a.**), per esempio l'ottemperanza, anche tramite commissario *ad acta*. La condanna è quindi possibile solo se, al momento della decisione, **non residua discrezionalità**. Il potere può essere:
-- **vincolato fin dall'origine**;
-- **divenuto vincolato**, perché la discrezionalità si è esaurita. È il caso dell'**autovincolo**: per i contributi pubblici l'amministrazione fissa prima i criteri (art. 12 l. 241/1990), e da quel momento l'attività che segue è vincolata.
+La legge introduce così una forma di esaurimento del potere e di consumazione della discrezionalità, con l'obiettivo di rafforzare l'effettività della tutela dell'interesse pretensivo. Si tratta però di una norma sostanziale, non processuale: pur essendo collegata alla tutela giurisdizionale, essa disciplina il riesercizio del potere amministrativo.
 
-## 4. L'atipicità delle azioni
+### L'azione di condanna pubblicistica o azione di adempimento
 
-Le azioni di nullità e di annullamento sono **tipiche**, cioè previste dal codice. Ma l'interesse legittimo è una **posizione sostanziale**, una pretesa a un bene della vita come il diritto soggettivo. Per il **principio di effettività della tutela**, deve poter essere protetto con **tutte le azioni necessarie**, anche quelle che il codice non prevede.
+Il secondo strumento è invece giurisdizionale ed è l'azione di condanna pubblicistica, detta anche azione di adempimento. Con essa il titolare dell'interesse pretensivo chiede al giudice di accertare che il bene della vita gli spetta e di condannare l'amministrazione a rilasciargli il provvedimento favorevole. Il riferimento normativo è l'art. 34, comma 1, lettera c), c.p.a. È lo strumento di tutela più pienamente satisfattorio, ma incontra limiti sia sul piano processuale sia su quello sostanziale, entrambi riconducibili al principio di separazione dei poteri.
 
-*Esempio:* il codice non disciplina un'azione generale di **mero accertamento**. L'azione di nullità è sì un'azione di accertamento, ma tipica e limitata alle cause di nullità. Eppure, se è incerto **se si sia formato il silenzio-assenso**, l'unica tutela adeguata è un'azione che accerti se il silenzio si sia formato o no. Quell'azione è quindi **ammissibile**, anche se atipica.
+Sul piano processuale, l'azione di adempimento non può essere proposta in via autonoma. Questa regola è il riflesso del divieto, per il giudice amministrativo, di pronunciarsi su poteri amministrativi non ancora esercitati, divieto che a sua volta discende dalla separazione tra potere amministrativo e potere giurisdizionale. Per questo l'azione si propone soltanto congiuntamente all'azione di annullamento, quando l'amministrazione ha esercitato il potere con un diniego, oppure all'azione avverso il silenzio, quando l'amministrazione è rimasta inerte. Ne consegue che l'azione di adempimento non ha un termine proprio, ma segue quello dell'azione cui si accompagna.
 
-## 5. L'atipicità delle misure cautelari e l'ordinanza propulsiva
+Sul piano sostanziale, il giudice amministrativo non può sostituirsi all'amministrazione nelle scelte discrezionali e nelle valutazioni di merito. Fanno eccezione le ipotesi tipiche di giurisdizione estesa al merito, indicate dall'art. 134 c.p.a., nelle quali il giudice può non solo annullare ma anche riformare l'atto, come avviene nel giudizio di ottemperanza, dove può adottare l'atto in luogo dell'amministrazione anche attraverso un commissario ad acta. Ma la giurisdizione di merito è l'eccezione, non la regola. Se il giudice condannasse l'amministrazione a rilasciare il provvedimento là dove residua discrezionalità, si sostituirebbe all'amministrazione nell'esercizio di quella discrezionalità, il che non è consentito. L'azione di adempimento è dunque esperibile solo quando il potere è vincolato.
 
-Il c.p.a. ha introdotto il principio di **atipicità delle misure cautelari**: il giudice adotta le misure più idonee al caso concreto.
+Il potere può essere vincolato fin dall'origine, quando la norma collega direttamente un determinato effetto al ricorrere di certi presupposti; ma può anche diventare vincolato in un momento successivo, quando la discrezionalità originaria si è esaurita. È ciò che accade nei casi di autovincolo: in materia di contributi pubblici, per esempio, l'art. 12 della legge n. 241 del 1990 prevede che l'amministrazione predetermini i criteri di attribuzione, e una volta che li ha fissati, esercitando la propria discrezionalità, l'attività successiva diventa vincolata. Ciò che conta è che, nel momento in cui il giudice è chiamato a condannare l'amministrazione, non residui alcun margine di discrezionalità.
 
-- **Interesse oppositivo**: basta la classica **sospensione** degli effetti. Sospeso il decreto di esproprio, il privato conserva la proprietà fino alla sentenza.
-- **Interesse pretensivo**: sospendere un diniego non dà nulla. Da qui l'**ordinanza propulsiva**: il giudice, in sede cautelare, **ordina all'amministrazione di riesaminare** l'istanza. All'esito del riesame l'amministrazione può negare di nuovo oppure concedere il bene della vita.
+### L'atipicità delle azioni
 
-**Il problema.** Il nuovo atto, adottato sulla base di una misura interinale, rischia di decidere la lite: se è un nuovo diniego, la tutela si sposta sul secondo atto; se è un accoglimento, il giudizio sembra inutile. La misura cautelare rischia così di diventare **definitiva e sostitutiva della sentenza**.
+L'azione di nullità e l'azione di annullamento sono azioni tipiche, perché previste e disciplinate dal codice. Ci si chiede se l'interesse legittimo possa essere tutelato soltanto attraverso azioni tipiche. La risposta è negativa: proprio perché l'interesse legittimo è una posizione sostanziale che esprime, al pari del diritto soggettivo, una pretesa a un bene della vita, esso deve poter essere tutelato con tutte le azioni che si rivelino necessarie nel caso concreto, anche se non espressamente previste.
 
-| Tesi | Argomento |
-|---|---|
-| **L'ordinanza propulsiva non è ammissibile** (così alcune pronunce, tra cui del C.G.A.R.S.) | L'atipicità non può arrivare fino a una misura che, da interinale e strumentale, diventa di fatto la decisione finale. |
-| **L'ordinanza propulsiva è ammissibile** | Il nuovo atto è **provvisorio** come l'ordinanza su cui si fonda. Il giudizio sul primo atto prosegue: se la sentenza conferma la valutazione cautelare, il secondo atto resta in piedi; se se ne discosta, cadono sia l'ordinanza sia l'atto adottato in base a essa. |
+Il codice, per esempio, non prevede un'azione generale di mero accertamento. Prevede l'azione di nullità, che è sì un'azione di accertamento, ma tipica, volta ad accertare la sussistenza di una delle cause di nullità. Negare l'ammissibilità di un'azione generale di accertamento significherebbe affermare che, quando per tutelare l'interesse legittimo occorre proprio quell'azione, l'interesse legittimo resta privo di tutela, in contrasto con il principio di effettività. Si pensi al caso in cui sia incerto se si sia formato il silenzio-assenso: se si è formato, il richiedente ha ottenuto il bene della vita e il controinteressato può aver subito una lesione; se non si è formato, vale il contrario. L'azione necessaria è allora un'azione di mero accertamento della formazione del silenzio-assenso, che deve ritenersi ammissibile anche se atipica.
 
-## 6. Le condizioni dell'azione: interesse e legittimazione
+### L'atipicità delle misure cautelari e l'ordinanza propulsiva
 
-Sono **condizioni dell'azione**: devono esistere dalla proposizione della domanda fino alla decisione. Se mancano, l'azione è **inammissibile** e il difetto è **rilevabile d'ufficio**.
+Il codice del processo amministrativo ha introdotto anche il principio di atipicità delle misure cautelari, consentendo al giudice di adottare le misure più idonee a tutelare l'interesse legittimo nel caso concreto.
 
-### 6.1 Interesse ad agire
-Si fonda sull'**art. 100 c.p.c.**, applicabile tramite il rinvio dell'**art. 39 c.p.a.** Richiede una **lesione concreta e attuale** dell'interesse legittimo e una sentenza capace di porvi rimedio.
+Anche qui torna la differenza tra interesse oppositivo e pretensivo. Per l'interesse oppositivo è sufficiente la forma classica della tutela cautelare, cioè la sospensione degli effetti del provvedimento: se il giudice sospende il decreto di esproprio, in attesa della decisione di merito il privato non perde la proprietà. Per l'interesse pretensivo, invece, sospendere il diniego di autorizzazione non dà al privato alcuna utilità.
 
-*Esempio della vicinitas:* Matteo ottiene un permesso di costruire. Il vicino Fabio può esserne leso (luminosità, vista, carico urbanistico, traffico) e ha quindi un interesse oppositivo. Per la giurisprudenza, però, la **vicinitas** di regola indica l'interesse ad agire ma **non lo comporta automaticamente**: la lesione va accertata nel caso concreto.
+Di qui la tecnica delle cosiddette ordinanze propulsive. Con esse il giudice, in sede cautelare, non si limita a sospendere il diniego, ma ordina all'amministrazione di riesaminare l'istanza. All'esito del riesame l'amministrazione può adottare un nuovo diniego oppure accogliere l'istanza e concedere il bene della vita. Il problema è che, in entrambi i casi, un atto adottato sulla base di una misura interinale e provvisoria rischia di determinare l'esito del giudizio. Se l'amministrazione nega di nuovo, il primo provvedimento è sostituito da un secondo, la tutela si concentra su quest'ultimo e il primo giudizio rischia di diventare inutile; se l'amministrazione accoglie l'istanza, il privato ha già ottenuto il bene della vita e non si vede a che cosa serva proseguire. La misura cautelare, da strumentale e temporanea, rischia così di diventare definitiva e sostitutiva della sentenza.
 
-### 6.2 Legittimazione ad agire
-È la **titolarità dell'interesse legittimo**, cioè l'esistenza di un **rapporto amministrativo** potere–interesse legittimo. Ma non ogni relazione con il potere è un rapporto amministrativo:
-- **relazione immediata e diretta** con l'esercizio del potere → interesse legittimo → legittimazione;
-- **relazione mediata e indiretta** → c'è un pregiudizio, ma non un interesse legittimo → nessuna legittimazione.
+Su questo punto la giurisprudenza è divisa. Secondo una prima tesi, sostenuta anche da alcune pronunce del Consiglio di giustizia amministrativa per la Regione Siciliana, l'ordinanza propulsiva non è ammissibile: il principio di atipicità delle misure cautelari non può spingersi fino a una misura che finisce per decidere la lite, rendendo superflua la sentenza. Secondo un'altra tesi, invece, non è vero che l'ordinanza propulsiva diventi definitiva. Il secondo atto adottato dall'amministrazione è infatti provvisorio come la misura su cui si fonda, e il giudizio sul primo atto prosegue comunque fino alla sentenza. Se la sentenza conferma la valutazione espressa in sede cautelare, il secondo atto viene fatto salvo; se se ne discosta, viene meno l'ordinanza cautelare e, con essa, l'atto adottato sulla sua base. La provvisorietà della misura si riflette dunque sull'atto e non preclude la decisione di merito, sicché l'ordinanza propulsiva può essere annoverata tra le misure cautelari atipiche a tutela dell'interesse legittimo.
 
-*Esempio:* nell'espropriazione il **proprietario** ha una relazione immediata e diretta e può impugnare il decreto. Il **conduttore** del bene subisce anch'egli un pregiudizio, perché perde il godimento, ma la sua relazione con il potere è mediata. Non è quindi titolare di un interesse oppositivo e **non è legittimato** a impugnare.
+### Le condizioni dell'azione: interesse e legittimazione ad agire
 
-Allo stesso modo, chi **non ha presentato domanda** a un concorso non può impugnarne gli atti. L'interesse legittimo non è un interesse alla mera **legalità** dell'azione amministrativa: è una pretesa a un bene della vita.
+La tutela dell'interesse legittimo presuppone la legittimazione e l'interesse ad agire, che sono condizioni dell'azione e devono quindi sussistere dal momento della proposizione della domanda fino alla decisione. L'azione proposta in loro difetto è inammissibile, e il difetto è rilevabile d'ufficio dal giudice.
 
-### 6.3 Legittimazione processuale e legittimazione procedimentale
-- **Processuale**: legittimazione ad agire in giudizio.
-- **Procedimentale**: legittimazione a partecipare al procedimento.
+L'interesse ad agire trova fondamento nell'art. 100 c.p.c., la stessa norma su cui si fonda l'interesse ad agire a tutela del diritto soggettivo, applicabile nel processo amministrativo grazie al rinvio generale dell'art. 39 c.p.a. Esso presuppone una lesione concreta e attuale dell'interesse legittimo e richiede che la decisione del giudice sia in grado di porvi rimedio. Si pensi al caso in cui Matteo chieda un permesso di costruire per realizzare un complesso immobiliare: egli è titolare di un interesse pretensivo, mentre il vicino Fabio può essere leso dal rilascio del titolo, perché la costruzione può ridurre la luminosità e la vista, aumentare il carico urbanistico e il traffico, peggiorare la salubrità dell'aria. All'interesse pretensivo di Matteo può così corrispondere un interesse oppositivo di Fabio. La giurisprudenza precisa però che la vicinitas, pur indicando normalmente l'interesse ad agire, non lo comporta in modo automatico: può esservi vicinitas senza che il rilascio del titolo leda effettivamente la posizione del vicino, e questo deve essere accertato nel caso concreto.
 
-Chi è legittimato ad agire è anche legittimato a partecipare, ma non vale il contrario. La legittimazione procedimentale è **più ampia**, perché la l. 241/1990 la riconosce anche ai soggetti **comunque pregiudicati**. Il conduttore, per esempio, può partecipare al procedimento espropriativo ma non può impugnare il decreto.
+La legittimazione ad agire consiste nella titolarità dell'interesse legittimo, cioè nell'esistenza di un rapporto amministrativo tra potere e interesse. Non ogni relazione del privato con il potere, tuttavia, integra un rapporto amministrativo. Occorre distinguere la relazione immediata e diretta con l'esercizio del potere, che fonda l'interesse legittimo, dalla relazione mediata e indiretta, che non lo fonda. Nell'espropriazione, il proprietario del bene ha una relazione immediata e diretta con il potere espropriativo. Il conduttore dello stesso bene, che vi esercita un diritto personale di godimento in base al contratto di locazione, subisce anch'egli un pregiudizio, perché perde il godimento del bene, ma la sua relazione con il potere è soltanto mediata e indiretta. Per questo il conduttore non è titolare di un interesse oppositivo e non è legittimato a impugnare il decreto di esproprio.
 
-**Eccezione: le interdittive antimafia.** Il Codice antimafia **riserva la partecipazione al procedimento a chi è legittimato ad agire**. L'interdittiva colpisce la **società**, che è legittimata sia a partecipare sia a impugnare. **Soci e amministratori** sono pregiudicati, almeno nell'immagine e spesso anche economicamente, ma hanno una relazione solo mediata con il potere. Non possono impugnare e, per espressa previsione di legge, nemmeno partecipare.
+Dalla stessa premessa discende che chi non ha partecipato a un concorso, non avendo presentato la domanda, non è legittimato a impugnarne gli atti né a farne valere i vizi: l'interesse legittimo non è un interesse alla mera legalità dell'azione amministrativa, ma una pretesa a un bene della vita.
+
+### Legittimazione processuale e legittimazione procedimentale
+
+Occorre infine distinguere la legittimazione processuale, cioè la legittimazione ad agire in giudizio, dalla legittimazione procedimentale, cioè la legittimazione a partecipare al procedimento amministrativo. I due concetti non coincidono: chi è legittimato ad agire è anche legittimato a partecipare, ma non tutti coloro che possono partecipare sono legittimati ad agire. La legittimazione procedimentale è infatti più ampia, perché la legge n. 241 del 1990 la riconosce anche ai soggetti comunque pregiudicati dal provvedimento. Il conduttore del bene espropriato, ad esempio, può partecipare al procedimento espropriativo, ma non può impugnare il decreto.
+
+In alcuni casi, però, una norma settoriale deroga alla disciplina generale e fa coincidere le due legittimazioni, riservando la partecipazione al procedimento a chi è legittimato ad agire in giudizio. È ciò che accade con il Codice antimafia in materia di interdittive. L'interdittiva colpisce la società, che ha una relazione immediata e diretta con l'esercizio del potere ed è quindi legittimata a impugnarla. I soci e gli amministratori subiscono certamente un pregiudizio, quantomeno all'immagine e spesso anche sul piano patrimoniale, ma la loro relazione con il potere è mediata, perché la società è un soggetto di diritto autonomo e diverso da loro. Non sono perciò titolari di un interesse legittimo e non possono impugnare l'interdittiva; e, pur essendo soggetti pregiudicati, non possono neppure partecipare al procedimento, perché il Codice antimafia lo esclude espressamente. Si tratta però di un'eccezione: nella regola generale la legittimazione procedimentale può esistere anche dove manca quella processuale.
 
 ---
 
-# III. LE FONTI INTERNE
+## PARTE TERZA — LE FONTI INTERNE
 
-## 1. La legificazione del regolamento
+### La legificazione del regolamento
 
-Si ha **legificazione** quando una legge richiama un regolamento. Non tutti i richiami però hanno lo stesso effetto:
+Si parla di legificazione del regolamento quando una legge richiama un regolamento. Non tutti i richiami, però, producono lo stesso effetto, e occorre distinguere il rinvio recettizio, o materiale, dal rinvio non recettizio, o formale.
 
-| | **Rinvio recettizio (materiale)** | **Rinvio non recettizio (formale)** |
-|---|---|---|
-| Effetto | La legge **incorpora** il contenuto del regolamento, che acquista forza di legge | La legge rinvia al regolamento, che **resta fonte secondaria** |
-| Modifica o abrogazione del regolamento | Non tocca il contenuto ormai recepito: per cambiarlo serve una legge | Il contenuto può essere modificato con un nuovo regolamento, adottato dall'autorità competente nel rispetto della legge |
-| Tutela | Il contenuto è legislativo: il sindacato spetta alla **Corte costituzionale** | Si impugna il **regolamento** davanti al giudice competente secondo la posizione fatta valere |
+Si ha rinvio recettizio quando la legge richiama il contenuto del regolamento e lo incorpora nella propria disciplina, sicché il contenuto richiamato acquista il valore della fonte legislativa. Ne consegue che la successiva modifica o abrogazione del regolamento non incide sul contenuto ormai recepito nella legge: per cambiarlo occorre intervenire sulla legge, secondo le regole proprie delle fonti primarie. La ratio di questo rinvio è quella di assumere una disciplina già esistente e attribuirle una nuova collocazione nel sistema delle fonti.
 
-In giurisprudenza vale una **presunzione di rinvio formale**. Il rinvio è recettizio solo se la **volontà di incorporare** risulta con sufficiente chiarezza dalla formulazione e dalla funzione della norma. In questo modo non si attribuisce automaticamente forza di legge a qualsiasi regolamento richiamato.
+Si ha invece rinvio formale quando la legge si limita a indicare la disciplina regolamentare cui fare riferimento, senza assorbirne il contenuto. Il regolamento continua allora a esistere come fonte secondaria e conserva la propria natura, sicché il suo contenuto può essere modificato da un successivo regolamento, adottato dall'autorità competente nel rispetto della legge.
 
-### 1.1 La legificazione dell'atto amministrativo
-Lo stesso problema si pone quando una legge richiama un **provvedimento amministrativo**. Bisogna capire se la legge ne ha fatto proprio il contenuto oppure si è limitata a citarlo:
-- se **non c'è incorporazione**, l'atto resta amministrativo e si impugna davanti al giudice competente;
-- se **c'è incorporazione**, la disciplina è ormai legislativa e si contesta con la questione di legittimità costituzionale.
+Secondo la giurisprudenza il rinvio si presume formale, salvo che dalla formulazione e dalla funzione della disposizione emergano elementi sufficientemente chiari della volontà del legislatore di incorporare il contenuto regolamentare. Non basta, dunque, che la legge richiami un regolamento: la presunzione evita di attribuire automaticamente forza di legge a qualsiasi disposizione regolamentare richiamata.
 
-*Il caso ILVA.* Una legge richiamava l'**Autorizzazione integrata ambientale (AIA)**. La giurisprudenza ha **escluso la legificazione**: l'AIA è rimasta un atto amministrativo autonomo, pur essendo centrale nel regime speciale dettato per l'ILVA. Il semplice richiamo a un atto non basta a trasformarlo in legge.
+La distinzione ha conseguenze anche sul piano della tutela, perché serve a capire quale atto vada contestato e davanti a quale giudice. Se il rinvio è formale, il regolamento resta fonte secondaria e la tutela segue le regole del sindacato sugli atti regolamentari, davanti al giudice competente in relazione alla posizione fatta valere. Se il rinvio è recettizio, il contenuto contestato è ormai parte della legge, e il sindacato sulla sua legittimità costituzionale spetta alla Corte costituzionale.
 
-### 1.2 Legificazione e vizi dell'atto
-Se l'atto richiamato era viziato:
-- **senza legificazione**, i vizi si fanno valere impugnando l'atto, nei termini;
-- **con legificazione**, bisogna distinguere i vizi propri dell'atto da quelli che possono riguardare la legge.
+### La legificazione dell'atto amministrativo e il caso ILVA
 
-*Esempio: il difetto di motivazione.* È un vizio tipico del provvedimento. La legge invece non ha un obbligo generale di motivazione, quindi il vizio **non si trasferisce automaticamente** sulla legge. Sotto questo profilo la legificazione può **neutralizzare** il vizio. Non perché renda legittimo qualsiasi contenuto, ma perché **cambia la natura della fonte**, e con essa i parametri e gli strumenti di controllo.
+Il fenomeno non riguarda soltanto i regolamenti, ma anche i casi in cui una legge richiama un atto amministrativo. Anche qui bisogna interpretare la disposizione per capire se il legislatore abbia voluto fare proprio il contenuto dell'atto, trasferendolo nella legge, oppure si sia limitato a citarlo, lasciandolo nella sua posizione originaria. Nel primo caso la disciplina contestata è ormai legislativa e va affrontata tenendo conto della legge che l'ha incorporata e dell'eventuale sindacato di costituzionalità; nel secondo l'atto resta un provvedimento amministrativo e, se illegittimo, va impugnato davanti al giudice competente.
 
-Il ragionamento va fatto per passaggi:
-1. il richiamo ha davvero incorporato l'atto nella legge?
-2. qual è il vizio contestato? È un vizio proprio dell'atto o può riguardare anche la legge?
-3. qual è quindi l'atto da contestare: il provvedimento davanti al giudice amministrativo, o la legge davanti alla Corte costituzionale?
+Un esempio è offerto dal caso ILVA, nel quale si discuteva se il richiamo operato da una legge all'autorizzazione integrata ambientale avesse trasformato l'autorizzazione in una parte della legge. La giurisprudenza ha escluso la legificazione: l'AIA ha conservato la natura di atto amministrativo autonomo, pur essendo centrale per l'applicazione del regime speciale previsto per l'ILVA. Il caso dimostra che il semplice richiamo a un atto non basta a determinarne la legificazione.
 
-## 2. La legge-provvedimento
+La questione diventa particolarmente delicata quando l'atto richiamato è viziato. Se il suo contenuto non è stato legificato, i vizi si fanno valere impugnando l'atto, nei termini e alle condizioni previste. Se invece è stato incorporato nella legge, bisogna distinguere i vizi propri dell'atto amministrativo dai problemi di legittimità che possono riguardare la legge. Si pensi al difetto di motivazione: l'atto amministrativo deve essere motivato, perché la motivazione consente di comprendere le ragioni della decisione e di verificare la legittimità dell'esercizio del potere, mentre la legge non è soggetta a un analogo obbligo generale. Se il contenuto di un atto privo di motivazione viene incorporato nella legge, non si può quindi sostenere che la legge sia viziata per la stessa ragione: sotto questo profilo la legificazione può neutralizzare un vizio che sarebbe stato rilevante se l'atto fosse rimasto amministrativo. Ciò non significa che la legificazione renda legittimo qualsiasi contenuto, ma che, cambiando la natura della fonte, cambiano i parametri e gli strumenti con cui valutarne la legittimità.
 
-È una legge **formalmente** tale, ma **materialmente** concreta: riguarda destinatari individuati o una vicenda determinata, con un contenuto simile a quello di un provvedimento.
+Il ragionamento deve perciò procedere per gradi: occorre stabilire anzitutto se il richiamo abbia prodotto una vera incorporazione dell'atto nella legge; poi quale sia il vizio contestato e se esso possa riguardare anche la legge; infine quale sia l'atto da contestare, il provvedimento davanti al giudice amministrativo o la legge davanti alla Corte costituzionale. Solo così si evita di confondere il piano della legittimità amministrativa del provvedimento con quello della legittimità costituzionale della legge.
 
-| Distinzione | Differenza |
-|---|---|
-| **Legge speciale** | Detta una disciplina particolare per un settore o una categoria, ma resta **generale e astratta** per chi vi rientra. |
-| **Legge retroattiva** | La retroattività riguarda il **tempo** degli effetti, e può caratterizzare anche una legge generale. La legge-provvedimento **non è necessariamente retroattiva**: per il principio generale dell'art. 11 preleggi dispone per l'avvenire. |
-| **Legge di interpretazione autentica** | Si caratterizza per la **funzione interpretativa** di una norma precedente. La legge-provvedimento invece **decide direttamente** una situazione concreta. |
+### La legge-provvedimento
 
-### 2.1 Ammissibilità e limiti
-Il legislatore **può** adottare leggi-provvedimento: una legge non è illegittima solo perché riguarda un soggetto o una vicenda specifica. Resta però una legge e deve rispettare la Costituzione. La Corte costituzionale non valuta l'opportunità della scelta, ma il rispetto di questi limiti:
-- **ragionevolezza** e **non arbitrarietà**;
-- **uguaglianza**: le differenze di trattamento sono ammesse, purché giustificate;
-- **proporzionalità** rispetto al fine perseguito.
+La legge-provvedimento è una legge che interviene su una situazione specifica, su un soggetto individuato o su una vicenda determinata. Il legislatore non detta una regola generale e astratta, ma decide direttamente una questione concreta, con un contenuto che può ricordare quello di un provvedimento amministrativo: formalmente è una legge, materialmente provvede su un caso.
 
-**Il nodo delle garanzie procedimentali.** Se a decidere è l'amministrazione, il procedimento della l. 241/1990 consente di istruire i fatti, ponderare gli interessi e far partecipare destinatari e terzi. La legge-provvedimento decide invece senza questo procedimento. Il procedimento legislativo ha sue regole, ma struttura e funzione diverse, e non offre le stesse garanzie di partecipazione nel singolo caso.
+Per comprenderla conviene distinguerla da altre figure. La legge speciale introduce una disciplina particolare per un settore, una categoria o una situazione, ma resta generale e astratta per tutti coloro che vi rientrano, mentre la legge-provvedimento si caratterizza per il contenuto concreto e per destinatari individuati. La legge retroattiva si definisce in base al momento cui si riferiscono i suoi effetti e può benissimo essere generale e astratta; la legge-provvedimento, invece, si identifica per il carattere concreto del suo contenuto e non è necessariamente retroattiva, potendo disciplinare una situazione specifica soltanto per il futuro, in linea con la regola generale dell'art. 11 delle preleggi, secondo cui la legge dispone per l'avvenire. La legge di interpretazione autentica, infine, si caratterizza per la funzione di chiarire il significato di una disposizione precedente, mentre la legge-provvedimento interviene direttamente su una situazione concreta.
 
-**Limiti specifici:**
-- il legislatore non può usare la legge-provvedimento **al solo scopo di sottrarre al giudice** il sindacato su un atto già impugnato;
-- non può travolgere il **giudicato**, cioè cancellare o sovvertire gli effetti di una sentenza definitiva sul passato. Può invece, entro i limiti costituzionali, regolare gli **effetti futuri** di rapporti ancora in corso. Occorre verificare se la nuova disciplina incida su quanto già coperto dal giudicato o su una fase successiva del rapporto.
+Il problema principale è stabilire se il legislatore possa decidere direttamente una vicenda che potrebbe essere definita dall'amministrazione con un provvedimento. In linea di principio può farlo: una legge non è illegittima solo perché riguarda un soggetto o una vicenda determinata. Questo potere, però, non è illimitato, perché anche la legge-provvedimento deve rispettare la Costituzione. La Corte costituzionale, senza sostituirsi al legislatore nelle scelte politiche né stabilire quale sarebbe stata la soluzione amministrativa più opportuna, ne verifica la ragionevolezza e la non arbitrarietà, il rispetto del principio di uguaglianza e, quando pertinente, la proporzionalità rispetto al fine perseguito. Il fatto che la legge riguardi un singolo destinatario non viola di per sé il principio di uguaglianza, il quale non impone di trattare sempre allo stesso modo situazioni diverse, ma richiede che le differenze di trattamento siano giustificate e non arbitrarie.
 
-## 3. Gli usi normativi e le prassi amministrative
+Un ulteriore profilo critico riguarda il rapporto con il procedimento amministrativo. Quando decide l'amministrazione, il procedimento disciplinato dalla legge n. 241 del 1990 consente di ricostruire i fatti, acquisire gli elementi necessari, valutare gli interessi coinvolti e permettere ai destinatari e ai terzi di rappresentare il proprio punto di vista, il che è particolarmente importante quando la decisione incide su una pluralità di interessi. Quando invece il legislatore decide con una legge-provvedimento, quella specifica decisione può essere assunta senza un procedimento nel quale tutti gli interessati possano far valere la propria posizione. Il procedimento legislativo ha certamente le sue regole, ma ha struttura e funzione diverse e non offre necessariamente le stesse garanzie di partecipazione rispetto al singolo caso.
 
-### 3.1 La consuetudine
-Perché ci sia una consuetudine normativa servono due elementi:
-- **elemento oggettivo** (*diuturnitas*): la ripetizione costante e stabile di un comportamento;
-- **elemento soggettivo** (*opinio iuris ac necessitatis*): la convinzione che quel comportamento sia **giuridicamente doveroso**, e non solo comodo, abituale o opportuno.
+Vi sono poi situazioni in cui l'intervento del legislatore pone problemi particolarmente delicati. Il legislatore non può servirsi della legge-provvedimento al solo scopo di impedire al giudice amministrativo di esaminare la legittimità di un provvedimento già impugnato: trasformare la disciplina della vicenda in legge non basta a rendere irrilevante ogni problema di tutela giurisdizionale. Soprattutto, il legislatore non può ignorare il giudicato, cioè la decisione divenuta definitiva, adottando una legge-provvedimento che ne cancelli o ne sovverta gli effetti per il passato, perché il giudicato assicura stabilità alla decisione e impedisce che una controversia già definita venga rimessa in discussione. Diverso è il caso dei rapporti di durata: una legge può, a determinate condizioni, disciplinare gli effetti futuri di un rapporto ancora in corso senza modificare quanto è stato definitivamente deciso per il passato. Occorre quindi verificare se la nuova disciplina incida sugli effetti coperti dal giudicato o regoli una fase successiva del rapporto, fermo restando che anche in questo secondo caso l'intervento resta soggetto ai limiti costituzionali.
 
-È l'*opinio iuris* a distinguere la consuetudine dalla semplice prassi. Gli usi **non possono derogare a leggi o regolamenti**. Nel diritto amministrativo questo limite pesa ancora di più per il **principio di legalità**: un comportamento seguito per abitudine dagli uffici non attribuisce un potere e non ne modifica le modalità essenziali.
+### Gli usi normativi
 
-### 3.2 Le prassi amministrative
-Sono modalità di comportamento seguite abitualmente dall'amministrazione: per organizzare gli uffici, interpretare una norma o gestire certe pratiche. Possono nascere da una semplice scelta organizzativa o interpretativa, senza *opinio iuris*.
-- Operano solo ***secundum legem***: una prassi contraria alla legge non diventa legittima perché è stata seguita a lungo.
-- Una **prassi interpretativa** consolidata **non vincola il giudice**, che interpreta la norma secondo le regole dell'ordinamento.
-- Se l'amministrazione **abbandona senza adeguata giustificazione** una prassi legittima seguita a lungo, questo può essere un **sintomo di eccesso di potere**. Non porta però automaticamente all'illegittimità: l'amministrazione può avere buone ragioni per cambiare, soprattutto se il nuovo orientamento è più coerente con la legge.
-- Se la prassi è **illegittima**, il privato non può pretendere che l'amministrazione continui a violare la legge in nome dell'uniformità.
+Gli usi normativi sono comportamenti ripetuti nel tempo che, in presenza di determinate condizioni, assumono valore di fonte del diritto. Perché si possa parlare di consuetudine normativa devono concorrere due elementi: uno oggettivo, la diuturnitas, e uno soggettivo, l'opinio iuris ac necessitatis.
 
-## 4. Le circolari
+La diuturnitas consiste nella ripetizione costante di un comportamento nel tempo, tale da assumere una certa stabilità; non basta che una condotta sia tenuta occasionalmente. La ripetizione, però, non è di per sé sufficiente a creare una norma: un comportamento può essere ripetuto per comodità, per abitudine o per ragioni organizzative, e il fatto che un ufficio segua sempre una certa modalità perché la ritiene più semplice non dimostra l'esistenza di una regola consuetudinaria. Occorre allora l'opinio iuris ac necessitatis, cioè la convinzione che quel comportamento sia giuridicamente doveroso e non soltanto abituale od opportuno. È proprio questo elemento a distinguere la consuetudine normativa dalla semplice prassi.
 
-Sono atti con cui l'amministrazione dà ai propri uffici istruzioni, indirizzi, orientamenti interpretativi o direttive. Di regola **non sono fonti del diritto**: sono **atti amministrativi interni**, espressione del potere di organizzazione. Non possono quindi sostituirsi alla legge o al regolamento, né imporre obblighi privi di base normativa.
+Gli usi normativi non possono prevalere sulla legge o sui regolamenti, né derogare a disposizioni legislative o regolamentari incompatibili. Nel diritto amministrativo questo limite assume un rilievo particolare per effetto del principio di legalità: l'amministrazione non può ritenersi autorizzata a esercitare un potere, né modificarne le modalità essenziali, soltanto perché un certo comportamento è stato seguito abitualmente dagli uffici.
 
-**Tipologie:**
-- **interpretative**: spiegano come l'amministrazione intende una norma, per esempio le circolari dell'amministrazione finanziaria. **Non vincolano il giudice**;
-- **organizzative o di servizio**: regolano il funzionamento degli uffici;
-- **di indirizzo**: orientano l'attività discrezionale degli uffici e favoriscono decisioni uniformi;
-- **di autovincolo**: fissano in anticipo i criteri per le future decisioni discrezionali, e l'amministrazione si impegna a rispettarli. Il tema si lega alla coerenza dell'azione amministrativa e alla motivazione;
-- **informative**: trasmettono informazioni e aggiornamenti.
+### Le prassi amministrative
 
-**Impugnabilità:**
-- **regola**: la circolare **non è autonomamente impugnabile** se non produce una lesione esterna, concreta e attuale. Si impugna il **provvedimento applicativo**, che è l'atto lesivo, e insieme si possono contestare l'interpretazione o i criteri della circolare su cui si fonda. Le censure possono investire entrambi gli atti;
-- **eccezione**: se la circolare produce **direttamente effetti esterni lesivi**, va impugnata **subito e autonomamente**;
-- **circolari di autovincolo**: bisogna verificare se la lesione è già attuale o si produce solo con il provvedimento successivo. A lezione è stato richiamato un caso relativo al **CSM**, che mostra l'importanza di guardare alla funzione concreta dell'atto nel predeterminare i criteri delle future decisioni.
+Dagli usi normativi vanno tenute distinte le prassi amministrative, cioè le modalità di comportamento che l'amministrazione segue abitualmente nello svolgimento della propria attività, nell'organizzare gli uffici, nell'interpretare una disposizione o nel gestire determinate pratiche. A differenza della consuetudine, la prassi può nascere semplicemente da una scelta organizzativa o da un orientamento interpretativo consolidato, senza alcuna opinio iuris.
+
+In virtù del principio di legalità, le prassi possono operare soltanto secundum legem: una prassi contraria alla legge non diventa legittima per il solo fatto di essere stata seguita a lungo. Anche una prassi interpretativa consolidata, condivisa da più uffici e mantenuta per lungo tempo, non vincola il giudice, che deve interpretare la norma secondo le regole dell'ordinamento.
+
+Ciò non significa che la prassi sia priva di rilievo. Se l'amministrazione abbandona senza un'adeguata giustificazione una prassi legittima seguita a lungo, il mutamento di comportamento può costituire un indice di eccesso di potere, cioè di un uso scorretto del potere discrezionale. Il semplice discostarsi dalla prassi, però, non rende di per sé illegittimo il provvedimento, perché l'amministrazione può avere valide ragioni per cambiare orientamento, soprattutto se la nuova decisione è più coerente con la legge o con le circostanze del caso. E se la prassi era illegittima, il privato non può certo pretendere che l'amministrazione continui a violare la legge in nome dell'uniformità.
+
+### Le circolari amministrative
+
+Le circolari sono atti con cui l'amministrazione comunica ai propri uffici indicazioni, istruzioni, orientamenti interpretativi o direttive. Per il solo fatto di contenere indicazioni rivolte agli uffici, la circolare non è una fonte del diritto: essa ha normalmente la natura di atto amministrativo interno, riconducibile al potere di organizzazione e coordinamento. Può spiegare come l'amministrazione interpreta una norma, stabilire modalità organizzative o indicare criteri di comportamento, ma non può sostituirsi alla legge o al regolamento, né introdurre una disciplina normativa che l'amministrazione non ha il potere di adottare, né imporre ai destinatari obblighi privi di fondamento normativo.
+
+Le circolari possono svolgere funzioni diverse. Le circolari interpretative indicano come l'amministrazione ritiene debba essere interpretata una disposizione, allo scopo di favorirne un'applicazione uniforme; un esempio tipico sono le circolari dell'amministrazione finanziaria sull'interpretazione delle norme tributarie. Il giudice non è vincolato da esse e, se ritiene che la norma vada interpretata diversamente, la applica secondo il significato che reputa corretto. Le circolari organizzative o di servizio impartiscono indicazioni sul funzionamento degli uffici, per rendere più ordinata e coordinata l'attività amministrativa. Le circolari di indirizzo orientano l'attività degli uffici, soprattutto quando questi esercitano un potere discrezionale, e favoriscono così una maggiore uniformità delle decisioni. Le circolari di autovincolo contengono criteri che l'amministrazione fissa in anticipo per orientare le proprie future decisioni discrezionali, impegnandosi a rispettarli nell'attività successiva nei limiti consentiti dall'ordinamento; il tema è strettamente legato alla coerenza dell'azione amministrativa e alla motivazione. Le circolari informative, infine, si limitano a trasmettere agli uffici informazioni e aggiornamenti utili.
+
+Quanto all'impugnabilità, la regola generale è che le circolari, in quanto atti interni, non sono autonomamente impugnabili quando non producono direttamente una lesione attuale e concreta della posizione di un soggetto esterno. Una circolare interpretativa, per esempio, indica agli uffici come applicare una norma, ma il privato non subisce alcuna conseguenza finché l'ufficio non adotta un provvedimento che applica quell'interpretazione al suo caso. Il problema di legittimità diventa concreto solo con il provvedimento applicativo: il privato impugnerà quest'ultimo e potrà contestare, nei limiti consentiti, anche l'interpretazione o il criterio tratti dalla circolare, eventualmente impugnando insieme la circolare che ne costituisce il presupposto. Occorre dunque non confondere la circolare, che contiene indicazioni rivolte agli uffici, con il provvedimento applicativo, che è l'atto capace di incidere sulla posizione del destinatario.
+
+In alcune circostanze, tuttavia, la circolare produce direttamente effetti esterni, attuali e concreti, e in questi casi può sorgere l'onere di impugnarla subito e autonomamente. Per le circolari di autovincolo, in particolare, bisogna verificare se la lesione sia già attuale oppure si produca soltanto con il successivo provvedimento. Il caso del CSM richiamato a lezione mostra l'importanza di esaminare la funzione concreta dell'atto e il suo ruolo nel predeterminare i criteri delle future decisioni discrezionali.
