@@ -19,6 +19,12 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 - **Lunghezza**: circa 6 pagine (indicativamente 2.000–2.500 parole), salvo diversa indicazione per la singola traccia.
 - I temi servono anche per lo studio: devono essere completi e accurati nel contenuto, pur senza citazioni puntuali.
 
+## Appunti delle lezioni
+
+- Quando vengono chiesti appunti riordinati, scriverli **sempre in forma discorsiva**, mai schematica: niente tabelle né elenchi puntati, solo titoli di sezione e paragrafi in prosa.
+- Togliere gli interventi del professore (domande retoriche, richieste di chiarimento, rinvii a "dopo la pausa") e le ripetizioni, senza perdere contenuto.
+- Salvarli in `appunti/<materia>/AAAA-MM-GG-titolo-breve.md`.
+
 ## Indici dei manuali
 
 - Gli indici dei manuali (trascritti dalle foto) sono in `indici/<materia>/`, un file per manuale ed edizione.
