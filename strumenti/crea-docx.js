@@ -60,7 +60,7 @@ for (let i = 1; i <= listRef; i++) {
 
 const doc = new Document({
   styles: {
-    default: { document: { run: { font: FONT, size: 24 }, paragraph: { spacing: { after: 120, line: 360 } } } },
+    default: { document: { run: { font: FONT, size: 24 }, paragraph: { spacing: { after: 80, line: 288 } } } },
     paragraphStyles: [
       { id: 'Title', name: 'Title', basedOn: 'Normal', run: { font: FONT, size: 34, bold: true }, paragraph: { spacing: { before: 0, after: 240 }, keepNext: true } },
       { id: 'Heading1', name: 'Heading 1', basedOn: 'Normal', next: 'Normal', run: { font: FONT, size: 28, bold: true }, paragraph: { spacing: { before: 240, after: 120 }, keepNext: true, outlineLevel: 0 } },
@@ -69,7 +69,7 @@ const doc = new Document({
   },
   numbering: { config: numConfigs },
   sections: [{
-    properties: { page: { margin: { top: 1418, bottom: 1418, left: 1304, right: 1304 } } },
+    properties: { page: { margin: { top: 720, bottom: 720, left: 720, right: 720, footer: 340 } } },
     footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 18 })] })] }) },
     children,
   }],
