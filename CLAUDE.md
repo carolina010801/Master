@@ -25,3 +25,9 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 - Un file Markdown per tema, in una cartella per materia: `civile/`, `penale/`, `amministrativo/`.
 - Nome file: `AAAA-MM-GG-titolo-breve.md`, con la traccia riportata in testa.
 - Per ogni tema va generato anche il PDF con `strumenti/crea-pdf.sh <file.md>` (salvato in `pdf/`), e il PDF va **sempre inviato in chat** all'utente.
+
+## Correzione degli appunti
+
+- L'utente invia gli appunti a pezzi: ogni pezzo va corretto (italiano, chiarezza, esattezza giuridica, nel rispetto della regola sulle fonti), restituendo il testo corretto e segnalando brevemente le correzioni di contenuto.
+- Alla fine l'utente invia gli appunti integrali: correzione generale, eliminazione delle ripetizioni e creazione del file Word con `node strumenti/crea-docx.js <file.md>` (salvato in `word/`), da inviare in chat.
+- Gli appunti si salvano in `appunti/`.
