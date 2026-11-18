@@ -36,6 +36,8 @@ for (const raw of lines) {
   if (!line) { inList = false; continue; }
   if (line.startsWith('# ')) {
     children.push(new Paragraph({ heading: 'Title', alignment: AlignmentType.CENTER, children: runs(line.slice(2)) }));
+  } else if (line.startsWith('### ')) {
+    children.push(new Paragraph({ heading: 'Heading2', children: runs(line.slice(4)) }));
   } else if (line.startsWith('## ')) {
     children.push(new Paragraph({ heading: 'Heading1', children: runs(line.slice(3)) }));
   } else if (line === '---') {
@@ -62,6 +64,7 @@ const doc = new Document({
     paragraphStyles: [
       { id: 'Title', name: 'Title', basedOn: 'Normal', run: { font: FONT, size: 34, bold: true }, paragraph: { spacing: { before: 0, after: 240 }, keepNext: true } },
       { id: 'Heading1', name: 'Heading 1', basedOn: 'Normal', next: 'Normal', run: { font: FONT, size: 28, bold: true }, paragraph: { spacing: { before: 240, after: 120 }, keepNext: true, outlineLevel: 0 } },
+      { id: 'Heading2', name: 'Heading 2', basedOn: 'Normal', next: 'Normal', run: { font: FONT, size: 24, bold: true, italics: true }, paragraph: { spacing: { before: 180, after: 80 }, keepNext: true, outlineLevel: 1 } },
     ],
   },
   numbering: { config: numConfigs },
