@@ -29,5 +29,6 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 ## Correzione degli appunti
 
 - L'utente invia gli appunti a pezzi: ogni pezzo va corretto (italiano, chiarezza, esattezza giuridica, nel rispetto della regola sulle fonti), restituendo solo il testo corretto, senza elencare le correzioni, in testo semplice senza asterischi né grassetti.
+- Quando negli appunti c'è qualcosa tra parentesi, va completato (articoli, esempi, riferimenti), sempre nel rispetto della regola sulle fonti.
 - Alla fine l'utente invia gli appunti integrali: correzione generale, eliminazione delle ripetizioni e creazione del file Word con `node strumenti/crea-docx.js <file.md>` (salvato in `word/`), da inviare in chat.
 - Gli appunti si salvano in `appunti/`.
