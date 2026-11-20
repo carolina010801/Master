@@ -33,3 +33,14 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 - Alla fine l'utente invia gli appunti integrali: correzione generale, eliminazione delle ripetizioni e creazione del file Word con `node strumenti/crea-docx.js <file.md>` (salvato in `word/`), da inviare in chat.
 - Nella versione finale degli appunti le sentenze non si citano nel testo: si raccolgono tutte in fondo, in una sezione finale con una sintesi di una o due righe ciascuna.
 - Gli appunti si salvano in `appunti/`.
+
+## Revisione delle lezioni complete
+
+Quando l'utente invia la trascrizione o il file di una lezione intera (PDF o Word), va restituita una versione rivista con queste regole:
+
+- Il contenuto deve restare **identico a livello nozionistico**: tutti gli istituti, le distinzioni, le tesi, gli esempi, le norme e le sentenze della lezione.
+- Si eliminano il parlato (formule orali, domande retoriche, saluti), le ripetizioni e gli esempi ripresi più volte; gli elenchi diventano testo continuo.
+- Struttura per sezioni con titoli; le sentenze non si citano nel testo, ma si raccolgono in fondo in una sezione «Giurisprudenza citata», con una sintesi di una o due righe ciascuna.
+- Si possono aggiungere i riferimenti normativi certi; le sentenze successive alle conoscenze del modello si riportano come indicate dal docente, segnalandolo all'utente.
+- Prima della consegna va fatto un controllo punto per punto tra originale e versione rivista, per verificare che nessuna nozione sia andata persa.
+- Si creano **sia il Word sia il PDF** con `strumenti/crea-appunti.sh <file.md>` (margini stretti, ottimizzati per la stampa) e si inviano entrambi in chat.
