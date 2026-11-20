@@ -17,9 +17,19 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 - **Dottrina**: nel testo si cita solo come "dottrina" (es. "secondo una parte della dottrina…"), con il nome dell'autore tra parentesi quadre come promemoria per lo studio (es. "una parte della dottrina [Gazzoni]…"). Il nome si indica solo se è certo; in bella copia non va ricopiato.
 - Gli articoli di legge si citano normalmente.
 - **Lunghezza**: circa 6 pagine (indicativamente 2.000–2.500 parole), salvo diversa indicazione per la singola traccia.
+- **Struttura**: un tema unico e continuo, con introduzione, svolgimento e conclusione fluidamente collegati. Niente paragrafi numerati o titoli interni, e niente elenchi puntati o numerati salvo che siano davvero necessari.
 - I temi servono anche per lo studio: devono essere completi e accurati nel contenuto, pur senza citazioni puntuali.
 
 ## Organizzazione dei file
 
 - Un file Markdown per tema, in una cartella per materia: `civile/`, `penale/`, `amministrativo/`.
 - Nome file: `AAAA-MM-GG-titolo-breve.md`, con la traccia riportata in testa.
+- Per ogni tema va generato anche il PDF con `strumenti/crea-pdf.sh <file.md>` (salvato in `pdf/`), e il PDF va **sempre inviato in chat** all'utente.
+
+## Correzione degli appunti
+
+- L'utente invia gli appunti a pezzi: ogni pezzo va corretto (italiano, chiarezza, esattezza giuridica, nel rispetto della regola sulle fonti), restituendo solo il testo corretto, senza elencare le correzioni, in testo semplice senza asterischi né grassetti.
+- Quando negli appunti c'è qualcosa tra parentesi, va completato (articoli, esempi, riferimenti), sempre nel rispetto della regola sulle fonti.
+- Alla fine l'utente invia gli appunti integrali: correzione generale, eliminazione delle ripetizioni e creazione del file Word con `node strumenti/crea-docx.js <file.md>` (salvato in `word/`), da inviare in chat.
+- Nella versione finale degli appunti le sentenze non si citano nel testo: si raccolgono tutte in fondo, in una sezione finale con una sintesi di una o due righe ciascuna.
+- Gli appunti si salvano in `appunti/`.
