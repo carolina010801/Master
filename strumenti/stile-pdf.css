@@ -7,3 +7,7 @@ p { margin: 0 0 0.6em; }
 hr { border: none; border-top: 1px solid #999; margin: 1em 0; }
 ul, ol { margin: 0 0 0.6em; padding-left: 1.4em; }
 li { margin-bottom: 0.2em; }
+table { width: 100%; border-collapse: collapse; margin: 0.5em 0 1em; font-size: 10.5pt; text-align: left; hyphens: auto; }
+th, td { border: 1px solid #999; padding: 4px 6px; vertical-align: top; }
+th { background: #eee; }
+td:last-child, th:last-child { width: 18%; }
