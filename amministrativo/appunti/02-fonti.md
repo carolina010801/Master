@@ -74,6 +74,8 @@ Il recepimento delle norme europee è oggi disciplinato dalla L. 24 dicembre 201
 
 ## 5. Le fonti primarie
 
+### 5.1 Legge, decreto-legge e decreto legislativo
+
 La Costituzione individua come fonti primarie:
 
 - la **legge** approvata dalle due Camere e promulgata dal Presidente della Repubblica (artt. 70-74 Cost.);
@@ -81,6 +83,19 @@ La Costituzione individua come fonti primarie:
 - il **decreto legislativo**, emanato dal Governo sulla base di una legge di delega che ne definisce l'oggetto, determina i principi e criteri direttivi e fissa il termine entro il quale la delega può essere esercitata (art. 76 Cost.).
 
 > **Correzione:** gli articoli sulla legge sono gli artt. 70-74 Cost. (non 71-74: l'art. 70 attribuisce la funzione legislativa alle due Camere). Per il decreto legislativo, la legge che conferisce la delega è la «legge di delega» (o legge delega): la «legge di delegazione» è quella europea. Il limite posto dall'art. 76 è soprattutto temporale («per tempo limitato e per oggetti definiti»).
+
+### 5.2 Le leggi-provvedimento
+
+Le **leggi-provvedimento** sono leggi prive dei caratteri della generalità e dell'astrattezza: regolano situazioni concrete, talora un'unica fattispecie. Sono tali, ad esempio, le leggi che:
+
+- rilasciano, prorogano o revocano concessioni amministrative riferite a determinate imprese;
+- costituiscono o disciplinano singole società per azioni;
+- erogano finanziamenti a una o più imprese;
+- approvano un atto di pianificazione o sottopongono a vincolo un bene specifico.
+
+La legge-provvedimento elimina le garanzie che il regime dell'atto e del procedimento amministrativo offre al privato, come il diritto di partecipare al procedimento o l'obbligo di motivazione. Essa, inoltre, non è impugnabile davanti al giudice amministrativo: può essere censurata soltanto sotto il profilo della legittimità costituzionale, con le forme, i limiti e i tempi propri del giudizio davanti alla Corte costituzionale.
+
+> **Nota di integrazione:** secondo l'orientamento costante della Corte costituzionale, le leggi-provvedimento non sono di per sé incompatibili con la Costituzione, ma sono soggette a uno scrutinio stretto di legittimità costituzionale, in particolare sotto il profilo della non arbitrarietà e della ragionevolezza delle scelte del legislatore.
 
 ## 6. La riserva di legge
 
@@ -151,3 +166,60 @@ Restano tuttavia distinti:
 
 - la **riserva di legge relativa** attiene ai rapporti, per così dire, interni al sistema delle fonti: stabilisce condizioni e limiti del potere regolamentare del Governo ed esige che la legge disciplini almeno una parte della materia;
 - il **principio di legalità** riguarda l'azione amministrativa in generale e richiede all'amministrazione, il più delle volte, non una meccanica applicazione di una o più disposizioni espresse, ma una valutazione articolata delle norme e dei principi generali riferibili al caso concreto.
+
+## 9. I regolamenti governativi
+
+### 9.1 Il riparto della potestà regolamentare tra Stato e Regioni
+
+La L. cost. n. 3/2001 ha introdotto il principio del **parallelismo** tra competenza legislativa e competenza regolamentare. Ai sensi dell'art. 117, comma 6, Cost., lo Stato è titolare della potestà regolamentare esclusivamente nelle materie di sua legislazione esclusiva, salva la possibilità di delegarla alle Regioni; in ogni altra materia la potestà regolamentare spetta alle Regioni. Ne è derivata una significativa riduzione dell'ambito dei regolamenti governativi e ministeriali.
+
+Lo Stato può emanare regolamenti nelle materie di potestà legislativa regionale concorrente o residuale solo in via suppletiva, nelle more dell'approvazione da parte delle Regioni delle norme di loro competenza e in caso di inerzia di queste ultime. Tali regolamenti hanno carattere **cedevole**: perdono efficacia con l'entrata in vigore della normativa adottata da ciascuna Regione.
+
+> **Da verificare:** la Corte costituzionale ha affermato, all'indomani della riforma del Titolo V, che nelle materie di competenza regionale lo Stato non può adottare regolamenti, neppure cedevoli. L'ipotesi dei regolamenti statali cedevoli è prevista espressamente per l'attuazione degli obblighi europei in materie regionali, in caso di inerzia delle Regioni (art. 117, comma 5, Cost. e L. n. 234/2012). Controllare a quale ipotesi si riferisca il manuale.
+
+### 9.2 Le tipologie (art. 17 L. n. 400/1988)
+
+L'art. 17, comma 1, L. 23 agosto 1988, n. 400 prevede che i regolamenti governativi siano emanati con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato. Le tipologie sono le seguenti.
+
+1. I **regolamenti esecutivi** pongono le norme di dettaglio necessarie per l'applicazione concreta di una legge: ulteriori specificazioni della fattispecie, modalità procedurali, termini e adempimenti. Possono essere emanati anche per dare esecuzione ai decreti legislativi e ai regolamenti europei.
+2. I **regolamenti di attuazione e integrazione** possono essere emanati nelle materie non coperte da riserva assoluta di legge, quando la legge si limita a individuare i principi generali della materia e autorizza il Governo a porre la disciplina di dettaglio.
+3. I **regolamenti indipendenti** intervengono nelle materie non riservate alla legge, nelle quali manchi una disciplina di rango primario.
+4. I **regolamenti di organizzazione** disciplinano l'organizzazione e il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge. Costituiscono in realtà una sottospecie dei regolamenti esecutivi e di attuazione: già l'art. 97 Cost. pone infatti una riserva di legge relativa in materia di organizzazione dei pubblici uffici e richiede quindi una disciplina di fonte primaria che ne delinei in termini generali l'assetto.
+5. I **regolamenti delegati** (o autorizzati), previsti dall'art. 17, comma 2, sono ammessi nelle materie non coperte da riserva assoluta di legge e realizzano la **delegificazione**: sostituiscono cioè la disciplina posta da una fonte primaria con una disciplina posta da una fonte secondaria. A tal fine occorre una legge che autorizzi il Governo a emanarli, determini le norme generali regolatrici della materia e disponga l'abrogazione delle norme vigenti, anche di rango primario, con effetto dall'entrata in vigore del regolamento. L'effetto abrogativo deriva dunque dalla legge di autorizzazione, ma si produce solo con l'entrata in vigore del regolamento.
+
+> **Correzione:** nel dettato le tipologie erano annunciate come cinque ma poi elencate in sei, comprendendo i regolamenti ministeriali. I regolamenti governativi in senso stretto sono quelli dei commi 1 e 2 dell'art. 17 (cinque tipi); i regolamenti ministeriali e interministeriali (comma 3) sono una categoria distinta, trattata qui di seguito. Inoltre i regolamenti di organizzazione riguardano l'«organizzazione» degli uffici, non la «riorganizzazione».
+
+### 9.3 I regolamenti ministeriali e interministeriali
+
+I **regolamenti ministeriali e interministeriali** sono previsti dall'art. 17, comma 3, L. n. 400/1988 nelle materie di competenza di uno o più ministri. Possono essere emanati solo quando la legge espressamente conferisca tale potere e sono gerarchicamente subordinati ai regolamenti governativi, con i quali non possono porsi in contrasto. Devono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.
+
+### 9.4 Il procedimento di adozione
+
+Sotto il profilo formale, ai sensi dell'art. 17, comma 4, L. n. 400/1988, sia i regolamenti governativi sia quelli ministeriali e interministeriali:
+
+- sono adottati previo parere del Consiglio di Stato;
+- sono sottoposti al visto e alla registrazione della Corte dei conti;
+- sono pubblicati nella Gazzetta Ufficiale.
+
+> **Correzione:** nel dettato questi requisiti formali erano riferiti ai soli regolamenti ministeriali. L'art. 17, comma 4, li prevede per tutti i regolamenti, governativi e ministeriali.
+
+### 9.5 Regolamenti previsti da leggi speciali
+
+L'art. 17 L. n. 400/1988 non esaurisce la tipologia dei regolamenti governativi: numerose leggi speciali prevedono fattispecie che derogano alla disciplina generale.
+
+> **Da verificare:** nel dettato si legge che di essi «si è fatto un uso assai frequente in seguito alla pandemia». Durante l'emergenza Covid-19 lo strumento più utilizzato è stato il decreto del Presidente del Consiglio dei ministri (d.P.C.M.) previsto dai decreti-legge emergenziali, che la Corte costituzionale ha qualificato come atto amministrativo e non come regolamento. Controllare il riferimento esatto nel manuale.
+
+### 9.6 Il regime giuridico dei regolamenti
+
+I regolamenti sono atti **formalmente amministrativi** e **sostanzialmente normativi**. Il loro regime giuridico è quindi in parte quello dei provvedimenti amministrativi.
+
+In quanto atti formalmente amministrativi, i regolamenti che contengono disposizioni contrarie alla legge possono essere **impugnati** davanti al giudice amministrativo.
+
+> **Nota di integrazione:** di regola il regolamento, essendo generale e astratto, non è immediatamente lesivo e va impugnato insieme all'atto applicativo che ne fa concreta applicazione (c.d. doppia impugnativa); è impugnabile autonomamente solo quando contiene prescrizioni immediatamente lesive (c.d. regolamenti volizione-azione).
+
+In base al principio di preferenza della legge, inoltre, i regolamenti illegittimi sono suscettibili di **disapplicazione** da parte del giudice ordinario.
+
+Anche il giudice amministrativo può disapplicare una norma regolamentare, in almeno due ipotesi:
+
+- quando il provvedimento impugnato viola un regolamento che, a sua volta, è difforme dalla legge: il regolamento illegittimo non può fungere da parametro di legittimità del provvedimento;
+- quando il provvedimento impugnato è conforme a un regolamento che però contrasta con la legge: il giudice disapplica il regolamento e valuta il provvedimento direttamente alla stregua della legge.
