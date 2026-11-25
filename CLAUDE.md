@@ -32,7 +32,7 @@ L'ambiente serve anche a raccogliere appunti dettati da **due manuali diversi** 
 
 ## Organizzazione
 
-- `amministrativo/appunti/clarich/` (Manuale A: Clarich) e `amministrativo/appunti/caringella/` (Manuale B: Caringella): appunti grezzi, così come dettati, un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`). Ogni file indica in testa il manuale e il capitolo di riferimento.
+- `amministrativo/appunti/clarich/` (Manuale A: Clarich) e `amministrativo/appunti/caringella/` (Manuale B: Caringella): appunti dettati e rielaborati secondo le regole sotto, un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`). Ogni file indica in testa il manuale e il capitolo di riferimento.
 - `amministrativo/manuale-integrato/`: un file per capitolo (`NN-argomento.md`) che fonde i due manuali; `00-indice.md` contiene l'indice aggiornato.
 
 ## Regole per la dettatura
