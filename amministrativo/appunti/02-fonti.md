@@ -368,3 +368,127 @@ Poiché la procedura di approvazione richiede tempi lunghi, il piano produce eff
 La natura giuridica del PRG è controversa: si discute se abbia natura normativa (regolamentare) o di atto amministrativo.
 
 Nella giurisprudenza prevale la tesi intermedia della **natura mista**: i piani regolatori, da un lato, dispongono in via generale e astratta in ordine al governo e all'utilizzazione dell'intero territorio comunale; dall'altro, contengono prescrizioni di concreta definizione, sistemazione e destinazione di singole parti del territorio urbano.
+
+## 15. Le ordinanze contingibili e urgenti
+
+### 15.1 Funzione
+
+Ogni Stato deve disporre di strumenti per far fronte a emergenze imprevedibili. Le **ordinanze contingibili e urgenti** si pongono come una valvola di sfogo di cui ogni Stato di diritto deve necessariamente disporre: sono strumenti utili a fronteggiare emergenze che, per la loro imprevedibilità, non si prestano a essere classificate e disciplinate *ex ante* in modo puntuale dalle fonti primarie.
+
+### 15.2 Le principali ipotesi
+
+A livello subcostituzionale numerose disposizioni di legge attribuiscono ad autorità amministrative il potere di emanare ordinanze contingibili e urgenti. Ad esempio:
+
+- il **prefetto**, nel caso di urgenza o per grave necessità pubblica, ha facoltà di adottare i provvedimenti indispensabili per la tutela dell'ordine pubblico e della sicurezza pubblica (art. 2 TULPS, r.d. n. 773/1931);
+- in materia di **protezione civile**, quando si verificano calamità che richiedono interventi immediati con mezzi e poteri straordinari, il Consiglio dei ministri può deliberare lo **stato di emergenza**, fissandone la durata e l'estensione territoriale e disponendo in ordine all'esercizio del potere di ordinanza (artt. 24 e 25 d.lgs. n. 1/2018).
+
+> **Nota di integrazione:** altre ipotesi rilevanti sono le ordinanze contingibili e urgenti del sindaco, quale rappresentante della comunità locale in caso di emergenze sanitarie o di igiene pubblica (art. 50, comma 5, TUEL) e quale ufficiale del Governo per prevenire ed eliminare gravi pericoli per l'incolumità pubblica e la sicurezza urbana (art. 54, comma 4, TUEL), e quelle del Ministro della salute in materia di igiene e sanità pubblica (art. 32 L. n. 833/1978). Le ordinanze di protezione civile sono adottate in deroga alle disposizioni vigenti, ma nel rispetto dei principi generali dell'ordinamento e delle norme dell'Unione europea.
+
+### 15.3 Presupposti e limiti
+
+Le leggi che attribuiscono questi poteri si limitano di solito a individuare l'autorità competente, a descrivere in termini generali il presupposto che ne legittima l'esercizio e a specificare il fine pubblico da perseguire. L'autorità competente è quindi titolare di un'ampia discrezionalità.
+
+Questa discrezionalità incontra però alcuni limiti:
+
+- la **proporzionalità**: il contenuto delle ordinanze deve essere calibrato in funzione della specifica emergenza;
+- la **temporaneità**: le ordinanze hanno efficacia limitata nel tempo;
+- la **residualità**: trattandosi di uno strumento *extra ordinem*, il potere di ordinanza può essere esercitato solo quando l'emergenza non possa essere fronteggiata con gli strumenti ordinari.
+
+> **Nota di integrazione:** la Corte costituzionale, già nel 1956 e nel 1961 con riferimento all'art. 2 TULPS, ha individuato ulteriori limiti: le ordinanze devono rispettare i principi generali dell'ordinamento giuridico, essere adeguatamente motivate e pubblicate, e non possono intervenire nelle materie coperte da riserva assoluta di legge.
+
+### 15.4 Natura
+
+Le ordinanze contingibili e urgenti hanno di regola **natura non normativa**. Tuttavia, quando la situazione di emergenza tende a protrarsi, esse finiscono inevitabilmente per acquistare il carattere dell'astrattezza e per perdere quello della temporaneità.
+
+## 16. Le direttive e gli atti di indirizzo
+
+### 16.1 Nozione
+
+Ciò che caratterizza le **direttive** è il loro contenuto: esso non consiste in prescrizioni puntuali e vincolanti in modo assoluto, ma si limita all'indicazione dei fini e degli obiettivi da raggiungere, dei criteri di massima e dei mezzi per conseguirli.
+
+Le direttive lasciano quindi ai destinatari spazi di valutazione e decisione più o meno estesi, così da consentire di tener conto, in sede applicativa, di tutte le circostanze del caso concreto. I destinatari possono anche discostarsene, in tutto o in parte, quando ciò sia giustificato, esponendone le ragioni nella motivazione.
+
+Si distinguono di solito le direttive nei **rapporti interorganici** e nei **rapporti intersoggettivi**.
+
+### 16.2 Le direttive nei rapporti interorganici
+
+Le direttive interorganiche sono lo strumento con cui l'organo sovraordinato orienta l'attività degli organi sottordinati.
+
+Nei rapporti gerarchici la direttiva può essere talvolta utilizzata in luogo dell'atto più tipico di questa relazione, cioè l'**ordine gerarchico**, che ha contenuto puntuale ed è riferito a una situazione concreta.
+
+Quando invece l'organo sottordinato è titolare di una competenza autonoma, non interamente compresa in quella dell'organo sovraordinato, il rapporto non può qualificarsi come propriamente gerarchico. La direttiva assume allora contorni più tipici e connota un rapporto definito di **direzione**.
+
+Tra gli esempi più rilevanti vi è il rapporto tra ministro e dirigenti generali, fondato sul **principio di distinzione** tra indirizzo politico-amministrativo e attività di gestione (artt. 4 e 14 d.lgs. n. 165/2001):
+
+- al ministro è preclusa ogni competenza gestionale e amministrativa diretta: egli può soltanto formulare direttive generali per l'attività amministrativa e per la gestione;
+- i dirigenti sono titolari dei poteri di gestione e di adozione degli atti e dei provvedimenti, curano l'attuazione delle direttive generali del ministro e, a loro volta, definiscono gli obiettivi che i dirigenti loro sottoposti devono perseguire.
+
+> **Nota di integrazione:** l'art. 14, comma 3, d.lgs. n. 165/2001 stabilisce espressamente che il ministro non può revocare, riformare, riservare o avocare a sé o altrimenti adottare provvedimenti o atti di competenza dei dirigenti.
+
+### 16.3 Le direttive nei rapporti intersoggettivi
+
+Le direttive intersoggettive sono lo strumento con cui il ministro competente o la Regione esercitano il potere di indirizzo nei confronti degli **enti strumentali**, la cui attività deve essere resa coerente con i fini istituzionali del Ministero di settore o della Regione.
+
+## 17. Le norme interne e le circolari
+
+### 17.1 Le norme interne
+
+Le organizzazioni complesse, anche private, si dotano di regole interne volte a disciplinarne il funzionamento e i raccordi tra le varie unità operative: le grandi imprese, ad esempio, approvano regolamenti aziendali, manuali di procedura e altri atti organizzativi.
+
+Nell'ordinamento pubblico il tema delle **norme interne** si ricollega storicamente alla ricostruzione della p.a. come ordinamento giuridico speciale. In base alla teoria della **pluralità degli ordinamenti giuridici** [Santi Romano], ciò che avviene all'interno di ciascun ordinamento speciale non ha sempre rilevanza nell'ordinamento generale.
+
+Le norme interne possono assumere la forma di regolamenti interni, istruzioni, ordini di servizio, direttive generali e simili; la forma più usuale è quella della circolare.
+
+Un esempio è offerto dall'**ordinamento sportivo**, che prevede un'organizzazione pubblicistica facente capo a un ente pubblico, il CONI, e alle federazioni sportive.
+
+### 17.2 La rilevanza esterna delle norme interne
+
+Le norme interne, e i comportamenti tenuti sulla base di esse, acquistano sempre più spesso rilevanza nell'ordinamento generale. L'illecito sportivo, ad esempio, può comportare l'applicazione non solo delle sanzioni previste dalle norme interne dell'ordinamento sportivo, ma anche di quelle previste dall'ordinamento generale.
+
+> **Nota di integrazione:** i rapporti tra ordinamento sportivo e ordinamento statale sono oggi disciplinati dal d.l. n. 220/2003, convertito dalla L. n. 280/2003, che riconosce l'autonomia dell'ordinamento sportivo, salvi i casi di rilevanza per l'ordinamento statale di situazioni giuridiche soggettive connesse con esso. Sul piano penale, la frode in competizioni sportive è punita dalla L. n. 401/1989.
+
+Contribuisce alla rilevanza esterna delle norme interne anche l'**obbligo di pubblicazione**, che le rende conoscibili al di là della cerchia, talvolta ristretta, dei titolari e degli addetti agli uffici. Se l'amministrazione emana un provvedimento in violazione di una norma interna, il giudice amministrativo può quindi censurarlo.
+
+> **Nota di integrazione:** l'obbligo di pubblicazione di direttive, circolari, programmi e istruzioni è oggi previsto dall'art. 12 d.lgs. n. 33/2013 (decreto trasparenza).
+
+### 17.3 Le circolari
+
+Le **circolari** sono il mezzo principale di comunicazione delle norme interne. Nella vita quotidiana degli uffici sono uno strumento di orientamento e di guida che ha di fatto, per essi, un grado di cogenza talora superiore a quello delle norme giuridiche, anche di rango primario.
+
+Il contenuto delle circolari è vario: possono contenere ordini, direttive o interpretazioni di leggi o di altri atti normativi. Nella prassi se ne distinguono tre tipi.
+
+- Le **circolari interpretative** mirano a rendere omogenea l'applicazione delle nuove normative da parte delle pubbliche amministrazioni. Hanno un grado di vincolatività maggiore quando sono emanate nell'ambito di apparati strutturati in modo gerarchico.
+- Le **circolari normative** hanno la funzione di orientare l'esercizio del potere discrezionale degli organi titolari del potere amministrativo. Non hanno per oggetto l'interpretazione delle norme da applicare, bensì gli spazi di valutazione discrezionale che la legge rimette all'autorità amministrativa.
+- Le **circolari informative** sono emanate per diffondere all'interno dell'organizzazione notizie, informazioni e messaggi di varia natura.
+
+> **Nota di integrazione:** secondo l'orientamento consolidato della giurisprudenza, le circolari interpretative non sono vincolanti né per i privati né per il giudice, e non sono autonomamente impugnabili, salvo che contengano prescrizioni immediatamente lesive.
+
+## 18. La *soft law*
+
+La ***soft law*** è l'insieme di strumenti, spesso informali, volti a influenzare i comportamenti delle autorità amministrative e dei soggetti amministrati.
+
+La *soft law* mette in discussione il **principio di tipicità** delle fonti e degli atti amministrativi a valenza regolatoria, che costituisce un'esplicazione del principio di legalità, nonché la stessa nozione di vincolatività.
+
+## 19. La *better regulation*
+
+### 19.1 Obiettivi
+
+Molti Stati si sono dotati di strumenti volti a promuovere la qualità della regolazione (***better regulation***), che perseguono una pluralità di obiettivi:
+
+- contenere l'iperregolazione;
+- ridurre gli oneri che gravano sulle pubbliche amministrazioni e sui privati per adeguarsi alle nuove normative;
+- evitare che un'eccessiva quantità di regole comprometta la competitività del sistema economico.
+
+### 19.2 L'analisi di impatto della regolazione (AIR)
+
+L'**analisi di impatto della regolazione (AIR)** obbliga le pubbliche amministrazioni, prima di approvare un atto di regolazione, a individuare e confrontare le soluzioni alternative possibili, compresa quella di non intervenire, valutandone gli effetti sui destinatari.
+
+> **Nota di integrazione:** l'AIR è disciplinata in via generale dall'art. 14 L. n. 246/2005, che prevede anche la verifica dell'impatto della regolazione (VIR), cioè la valutazione *ex post* degli effetti prodotti dagli atti normativi adottati.
+
+### 19.3 Il *nudge*
+
+In epoca recente sono stati sperimentati in vari Paesi modelli innovativi di regolazione, come il ***nudge*** («spinta gentile») [Thaler, Sunstein].
+
+Lo Stato, anziché obbligare i privati a tenere determinati comportamenti, eventualmente con la minaccia di sanzioni, individua l'opzione che ritiene preferibile nell'interesse reale degli stessi privati, senza però eliminarne la libertà di scelta. L'opzione proposta dai pubblici poteri si applica, per così dire, **per *default***, cioè in mancanza di una diversa ed esplicita manifestazione di volontà dell'interessato. Lo Stato potrebbe, ad esempio, prevedere come regola generale una trattenuta sui salari per finanziare prestazioni previdenziali o sanitarie future, lasciando al lavoratore la facoltà di rinunciarvi.
+
+> **Nota di integrazione:** un esempio nell'ordinamento italiano è il meccanismo del silenzio-assenso per il conferimento del trattamento di fine rapporto ai fondi pensione, previsto dal d.lgs. n. 252/2005.
