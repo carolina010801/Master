@@ -38,9 +38,10 @@ L'ambiente serve anche a raccogliere appunti di diritto amministrativo dettati d
 ## Flusso di lavoro
 
 1. Ogni dettatura viene subito rielaborata e salvata nel file dell'argomento. Se l'argomento esiste già (ad esempio perché dettato dall'altro manuale), il nuovo dettato si **fonde** con quello esistente in un testo unico: non si aggiunge un nuovo paragrafo sullo stesso tema, ma si riscrive il paragrafo esistente integrando al punto giusto ciò che manca, senza ripetizioni.
-2. Dopo ogni dettatura si fa commit e push sul branch di lavoro, perché l'ambiente è temporaneo e ciò che non è caricato va perso.
-3. Solo su richiesta finale si redige `amministrativo/manuale-unico.md`, riunendo tutti gli argomenti in ordine, con impaginazione e linguaggio uniformi.
-4. Prima di consegnare il manuale unico si fa una **revisione completa di correttezza**, perché è il testo su cui si studierà:
+2. **Dopo ogni dettatura si fa sempre un controllo di correttezza** del testo salvato: gli articoli di legge citati si verificano sul testo vigente (Normattiva, EUR-Lex) e si correggono direttamente nel testo; ciò che non si riesce a verificare e non è certo si toglie. In chat si riferisce brevemente cosa è stato corretto.
+3. Dopo ogni dettatura e controllo si fa commit e push sul branch di lavoro, perché l'ambiente è temporaneo e ciò che non è caricato va perso.
+4. Solo su richiesta finale si redige `amministrativo/manuale-unico.md`, riunendo tutti gli argomenti in ordine, con impaginazione e linguaggio uniformi.
+5. Prima di consegnare il manuale unico si fa una **revisione completa di correttezza**, perché è il testo su cui si studierà:
    - ogni articolo di legge citato si controlla sul testo vigente (Normattiva, EUR-Lex), correggendo numeri, commi e contenuti e aggiornando le norme modificate o abrogate;
    - si controllano coerenza interna (stesse nozioni definite allo stesso modo in tutti i capitoli), assenza di ripetizioni tra capitoli e rinvii interni;
    - si eliminano le affermazioni su giurisprudenza e dottrina di cui non si è certi;
