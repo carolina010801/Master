@@ -57,7 +57,7 @@ Le **direttive** hanno come destinatari gli Stati membri e sono vincolanti quant
 
 Le direttive sono adottate di regola dal Parlamento europeo e dal Consiglio con la procedura legislativa ordinaria; possono essere adottate anche dal solo Consiglio o dalla Commissione nei casi previsti dai Trattati.
 
-> **Nota di integrazione:** le direttive sufficientemente chiare, precise e incondizionate (c.d. *self-executing*), non recepite nel termine, possono produrre effetti diretti nei rapporti verticali, cioè essere fatte valere dal privato nei confronti dello Stato e delle pubbliche amministrazioni, che sono tenute ad applicarle.
+le direttive sufficientemente chiare, precise e incondizionate (c.d. *self-executing*), non recepite nel termine, possono produrre effetti diretti nei rapporti verticali, cioè essere fatte valere dal privato nei confronti dello Stato e delle pubbliche amministrazioni, che sono tenute ad applicarle.
 
 Le **decisioni** hanno contenuto puntuale: applicano a fattispecie concrete le norme generali e astratte previste dal diritto europeo. Sono obbligatorie in tutti i loro elementi e, se designano i destinatari, sono obbligatorie soltanto nei confronti di questi.
 
@@ -95,7 +95,7 @@ Le **leggi-provvedimento** sono leggi prive dei caratteri della generalità e de
 
 La legge-provvedimento elimina le garanzie che il regime dell'atto e del procedimento amministrativo offre al privato, come il diritto di partecipare al procedimento o l'obbligo di motivazione. Essa, inoltre, non è impugnabile davanti al giudice amministrativo: può essere censurata soltanto sotto il profilo della legittimità costituzionale, con le forme, i limiti e i tempi propri del giudizio davanti alla Corte costituzionale.
 
-> **Nota di integrazione:** secondo l'orientamento costante della Corte costituzionale, le leggi-provvedimento non sono di per sé incompatibili con la Costituzione, ma sono soggette a uno scrutinio stretto di legittimità costituzionale, in particolare sotto il profilo della non arbitrarietà e della ragionevolezza delle scelte del legislatore.
+secondo l'orientamento costante della Corte costituzionale, le leggi-provvedimento non sono di per sé incompatibili con la Costituzione, ma sono soggette a uno scrutinio stretto di legittimità costituzionale, in particolare sotto il profilo della non arbitrarietà e della ragionevolezza delle scelte del legislatore.
 
 ## 6. La riserva di legge
 
@@ -118,7 +118,7 @@ La riserva di legge si distingue in:
 - **rinforzata**, che aggiunge al carattere dell'assolutezza il fatto che la Costituzione ponga direttamente alcuni principi materiali o procedurali relativi alla disciplina della materia, che vincolano il legislatore ordinario;
 - **relativa**, che richiede che la legge ponga le prescrizioni di principio e consente l'emanazione di regolamenti esecutivi contenenti le norme di dettaglio che completano la disciplina della materia.
 
-> **Nota di integrazione:** esempi tipici sono, per la riserva assoluta, l'art. 13 Cost. (libertà personale) e l'art. 25, comma 2, Cost. (materia penale); per la riserva rinforzata, l'art. 16 Cost. (limiti alla libertà di circolazione solo «per motivi di sanità o di sicurezza»); per la riserva relativa, l'art. 23 Cost. (prestazioni personali e patrimoniali) e l'art. 97, comma 2, Cost. (organizzazione dei pubblici uffici).
+esempi tipici sono, per la riserva assoluta, l'art. 13 Cost. (libertà personale) e l'art. 25, comma 2, Cost. (materia penale); per la riserva rinforzata, l'art. 16 Cost. (limiti alla libertà di circolazione solo «per motivi di sanità o di sicurezza»); per la riserva relativa, l'art. 23 Cost. (prestazioni personali e patrimoniali) e l'art. 97, comma 2, Cost. (organizzazione dei pubblici uffici).
 
 ## 7. Il principio di legalità
 
@@ -128,9 +128,7 @@ Il **principio di legalità** è uno dei principi fondamentali del diritto ammin
 
 In Costituzione il principio è presupposto, in particolare, dall'art. 113 Cost.: la giustiziabilità degli atti amministrativi implica che il giudice trovi nella legge un parametro oggettivo alla stregua del quale sindacare gli atti impugnati.
 
-Il principio riceve un riconoscimento implicito anche nei Trattati europei (art. 19 TUE e disposizioni del TFUE sul controllo di legittimità degli atti dell'Unione).
-
-> **Da verificare:** nel dettato è indicato l'art. 264 TFUE. La disposizione sul controllo di legittimità degli atti dell'Unione (ricorso di annullamento) è l'art. 263 TFUE; l'art. 264 ne disciplina gli effetti (nullità dell'atto annullato). Controllare quale articolo sia citato nel manuale.
+Il principio riceve un riconoscimento implicito anche nei Trattati europei (art. 19 TUE e art. 263 TFUE, che disciplina il ricorso di annullamento contro gli atti dell'Unione).
 
 ### 7.2 Funzioni
 
@@ -156,7 +154,7 @@ In una seconda accezione il principio di legalità richiede che il potere ammini
 
 La Corte costituzionale ha valorizzato il principio di legalità in senso sostanziale. Secondo la Corte non è sufficiente che il potere sia finalizzato dalla legge alla tutela di un bene o di un valore: è indispensabile che il suo esercizio sia determinato nel contenuto e nelle modalità, così da mantenere costantemente una copertura legislativa dell'azione amministrativa.
 
-> **Nota di integrazione:** il caso più noto è la pronuncia della Corte costituzionale del 2011 sulle ordinanze sindacali in materia di sicurezza urbana (art. 54 TUEL), con cui è stato dichiarato illegittimo il potere del sindaco di adottare ordinanze non contingibili e urgenti prive di adeguata delimitazione legislativa.
+il caso più noto è la pronuncia della Corte costituzionale del 2011 sulle ordinanze sindacali in materia di sicurezza urbana (art. 54 TUEL), con cui è stato dichiarato illegittimo il potere del sindaco di adottare ordinanze non contingibili e urgenti prive di adeguata delimitazione legislativa.
 
 ## 8. Riserva di legge relativa e principio di legalità
 
@@ -173,9 +171,7 @@ Restano tuttavia distinti:
 
 La L. cost. n. 3/2001 ha introdotto il principio del **parallelismo** tra competenza legislativa e competenza regolamentare. Ai sensi dell'art. 117, comma 6, Cost., lo Stato è titolare della potestà regolamentare esclusivamente nelle materie di sua legislazione esclusiva, salva la possibilità di delegarla alle Regioni; in ogni altra materia la potestà regolamentare spetta alle Regioni. Ne è derivata una significativa riduzione dell'ambito dei regolamenti governativi e ministeriali.
 
-Lo Stato può emanare regolamenti nelle materie di potestà legislativa regionale concorrente o residuale solo in via suppletiva, nelle more dell'approvazione da parte delle Regioni delle norme di loro competenza e in caso di inerzia di queste ultime. Tali regolamenti hanno carattere **cedevole**: perdono efficacia con l'entrata in vigore della normativa adottata da ciascuna Regione.
-
-> **Da verificare:** la Corte costituzionale ha affermato, all'indomani della riforma del Titolo V, che nelle materie di competenza regionale lo Stato non può adottare regolamenti, neppure cedevoli. L'ipotesi dei regolamenti statali cedevoli è prevista espressamente per l'attuazione degli obblighi europei in materie regionali, in caso di inerzia delle Regioni (art. 117, comma 5, Cost. e L. n. 234/2012). Controllare a quale ipotesi si riferisca il manuale.
+Nelle materie di potestà legislativa regionale, concorrente o residuale, lo Stato non può dunque adottare regolamenti. Fa eccezione l'attuazione degli obblighi europei: in caso di inerzia delle Regioni, lo Stato può intervenire in via suppletiva, nelle more dell'approvazione delle norme regionali (art. 117, comma 5, Cost. e L. n. 234/2012). Tali norme statali hanno carattere **cedevole**: perdono efficacia con l'entrata in vigore della normativa adottata da ciascuna Regione.
 
 ### 9.2 Le tipologie (art. 17 L. n. 400/1988)
 
@@ -205,7 +201,7 @@ Sotto il profilo formale, ai sensi dell'art. 17, comma 4, L. n. 400/1988, sia i 
 
 L'art. 17 L. n. 400/1988 non esaurisce la tipologia dei regolamenti governativi: numerose leggi speciali prevedono fattispecie che derogano alla disciplina generale.
 
-> **Da verificare:** nel dettato si legge che di essi «si è fatto un uso assai frequente in seguito alla pandemia». Durante l'emergenza Covid-19 lo strumento più utilizzato è stato il decreto del Presidente del Consiglio dei ministri (d.P.C.M.) previsto dai decreti-legge emergenziali, che la Corte costituzionale ha qualificato come atto amministrativo e non come regolamento. Controllare il riferimento esatto nel manuale.
+Durante l'emergenza Covid-19 si è fatto ampio ricorso ai decreti del Presidente del Consiglio dei ministri (d.P.C.M.) previsti dai decreti-legge emergenziali, che la Corte costituzionale ha qualificato come atti amministrativi e non come regolamenti.
 
 ### 9.6 Il regime giuridico dei regolamenti
 
@@ -213,7 +209,7 @@ I regolamenti sono atti **formalmente amministrativi** e **sostanzialmente norma
 
 In quanto atti formalmente amministrativi, i regolamenti che contengono disposizioni contrarie alla legge possono essere **impugnati** davanti al giudice amministrativo.
 
-> **Nota di integrazione:** di regola il regolamento, essendo generale e astratto, non è immediatamente lesivo e va impugnato insieme all'atto applicativo che ne fa concreta applicazione (c.d. doppia impugnativa); è impugnabile autonomamente solo quando contiene prescrizioni immediatamente lesive (c.d. regolamenti volizione-azione).
+di regola il regolamento, essendo generale e astratto, non è immediatamente lesivo e va impugnato insieme all'atto applicativo che ne fa concreta applicazione (c.d. doppia impugnativa); è impugnabile autonomamente solo quando contiene prescrizioni immediatamente lesive (c.d. regolamenti volizione-azione).
 
 In base al principio di preferenza della legge, inoltre, i regolamenti illegittimi sono suscettibili di **disapplicazione** da parte del giudice ordinario.
 
@@ -229,8 +225,6 @@ Anche il giudice amministrativo può disapplicare una norma regolamentare, in al
 La produzione normativa ha assunto una dimensione patologica. L'**inflazione legislativa** e il disordine normativo sono dovuti anzitutto al cattivo funzionamento del Parlamento, riconducibile a fattori legati alla forma di governo. Lo *stock* di leggi amministrative si presenta come un insieme frastagliato, stratificato nel tempo e poco stabile.
 
 A partire dagli anni Novanta del secolo scorso è stato avviato un **riordino della legislazione**, almeno nelle materie più rilevanti. Si è cercato anzi di istituzionalizzare questa attività, prevedendo la presentazione al Parlamento, a cadenza annuale, di un disegno di legge per la semplificazione e il riassetto normativo (art. 20 L. n. 59/1997).
-
-> **Da verificare:** il dettato indica come termine per la presentazione del disegno di legge annuale il 31 maggio. Era il termine originario dell'art. 20 L. n. 59/1997; a quanto risulta, le modifiche successive lo hanno anticipato al 30 aprile. Controllare sul testo vigente.
 
 ### 10.2 I testi unici
 
@@ -253,7 +247,7 @@ La Costituzione prevede tre fonti normative regionali: gli statuti, le leggi e i
 
 Lo **statuto** della Regione ordinaria determina, in armonia con la Costituzione, la forma di governo e i principi fondamentali di organizzazione e funzionamento (art. 123 Cost.). È approvato con un procedimento aggravato: legge regionale approvata dal Consiglio regionale a maggioranza assoluta, con due deliberazioni successive adottate a intervallo non minore di due mesi.
 
-> **Nota di integrazione:** ai sensi dell'art. 123 Cost., il Governo può promuovere la questione di legittimità costituzionale dello statuto entro trenta giorni dalla pubblicazione; lo statuto è inoltre sottoposto a *referendum* popolare se, entro tre mesi dalla pubblicazione, ne fa richiesta un cinquantesimo degli elettori della Regione o un quinto dei componenti del Consiglio regionale.
+ai sensi dell'art. 123 Cost., il Governo può promuovere la questione di legittimità costituzionale dello statuto entro trenta giorni dalla pubblicazione; lo statuto è inoltre sottoposto a *referendum* popolare se, entro tre mesi dalla pubblicazione, ne fa richiesta un cinquantesimo degli elettori della Regione o un quinto dei componenti del Consiglio regionale.
 
 Lo statuto delle Regioni a statuto speciale è invece adottato con legge costituzionale (art. 116 Cost.).
 
@@ -266,7 +260,7 @@ La giurisprudenza costituzionale ha peraltro ritenuto che, entro certi limiti, l
 - alcune materie di competenza legislativa esclusiva statale hanno natura **trasversale** e consentono quindi alla legge statale di introdurre disposizioni che le Regioni non possono derogare;
 - in base al principio di **sussidiarietà verticale**, quando una funzione amministrativa richiede di essere esercitata in modo unitario a livello statale, anche la relativa funzione legislativa viene, per così dire, **attratta** nella competenza statale (c.d. chiamata in sussidiarietà).
 
-> **Nota di integrazione:** sono tipicamente considerate materie trasversali la tutela della concorrenza, la determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali e la tutela dell'ambiente (art. 117, comma 2, lett. *e*, *m* e *s*, Cost.). La chiamata in sussidiarietà è stata elaborata dalla Corte costituzionale nel 2003, che l'ha subordinata, tra l'altro, al rispetto del principio di leale collaborazione, in particolare attraverso il raggiungimento di un'intesa con le Regioni interessate.
+sono tipicamente considerate materie trasversali la tutela della concorrenza, la determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali e la tutela dell'ambiente (art. 117, comma 2, lett. *e*, *m* e *s*, Cost.). La chiamata in sussidiarietà è stata elaborata dalla Corte costituzionale nel 2003, che l'ha subordinata, tra l'altro, al rispetto del principio di leale collaborazione, in particolare attraverso il raggiungimento di un'intesa con le Regioni interessate.
 
 ### 11.3 I regolamenti regionali
 
@@ -282,7 +276,7 @@ Le fonti normative di Comuni, Province e Città metropolitane sono essenzialment
 
 Gli **statuti** sono menzionati dall'art. 114, comma 2, Cost., secondo cui Comuni, Province, Città metropolitane e Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione. Nella gerarchia delle fonti lo statuto ha rango **subprimario**: si colloca al di sotto delle leggi statali che ne fissano i principi (art. 6 TUEL), ma prevale sui regolamenti dell'ente.
 
-> **Nota di integrazione:** lo statuto è approvato dal Consiglio con il voto favorevole dei due terzi dei consiglieri assegnati; se tale maggioranza non è raggiunta, la votazione è ripetuta in successive sedute ed è sufficiente la maggioranza assoluta in due votazioni (art. 6, comma 4, TUEL).
+lo statuto è approvato dal Consiglio con il voto favorevole dei due terzi dei consiglieri assegnati; se tale maggioranza non è raggiunta, la votazione è ripetuta in successive sedute ed è sufficiente la maggioranza assoluta in due votazioni (art. 6, comma 4, TUEL).
 
 ### 12.2 I regolamenti
 
@@ -290,13 +284,13 @@ I **regolamenti** degli enti locali sono richiamati dall'art. 117, comma 6, Cost
 
 I regolamenti comunali, approvati di regola dal Consiglio comunale, sono una fonte di utilizzo assai frequente e intervengono in materie importanti come l'urbanistica, l'edilizia, il traffico e il commercio.
 
-> **Nota di integrazione:** fa eccezione il regolamento sull'ordinamento degli uffici e dei servizi, adottato dalla Giunta nel rispetto dei criteri generali stabiliti dal Consiglio (art. 48, comma 3, TUEL).
+fa eccezione il regolamento sull'ordinamento degli uffici e dei servizi, adottato dalla Giunta nel rispetto dei criteri generali stabiliti dal Consiglio (art. 48, comma 3, TUEL).
 
 ## 13. Le autorità amministrative indipendenti
 
 Le **autorità amministrative indipendenti** svolgono un ruolo di vigilanza e regolazione di particolari settori economici e sono titolari di poteri di auto-organizzazione e normativi assai estesi.
 
-> **Nota di integrazione:** poiché le leggi istitutive attribuiscono spesso a queste autorità poteri normativi poco delimitati, la giurisprudenza amministrativa ritiene che il deficit di legalità sostanziale sia compensato da un rafforzamento della **legalità procedurale**, cioè da garanzie di partecipazione degli interessati (consultazioni) e da un obbligo di motivazione anche degli atti regolatori generali.
+poiché le leggi istitutive attribuiscono spesso a queste autorità poteri normativi poco delimitati, la giurisprudenza amministrativa ritiene che il deficit di legalità sostanziale sia compensato da un rafforzamento della **legalità procedurale**, cioè da garanzie di partecipazione degli interessati (consultazioni) e da un obbligo di motivazione anche degli atti regolatori generali.
 
 ## 14. Gli atti amministrativi generali
 
@@ -324,7 +318,7 @@ I **bandi di concorso** costituiscono l'atto di avvio del procedimento di selezi
 
 Il **bando di gara** costituisce la *lex specialis* della singola procedura: vincola la stazione appaltante e condiziona la legittimità degli atti successivamente adottati.
 
-> **Nota di integrazione:** proprio perché vincola la stazione appaltante, il bando non può essere da essa disapplicato. Di regola il bando va impugnato insieme all'atto applicativo che rende attuale la lesione (esclusione o aggiudicazione); va invece impugnato immediatamente quando contiene clausole che impediscono la partecipazione alla gara (c.d. clausole escludenti), secondo quanto ribadito dall'Adunanza plenaria del Consiglio di Stato nel 2018.
+proprio perché vincola la stazione appaltante, il bando non può essere da essa disapplicato. Di regola il bando va impugnato insieme all'atto applicativo che rende attuale la lesione (esclusione o aggiudicazione); va invece impugnato immediatamente quando contiene clausole che impediscono la partecipazione alla gara (c.d. clausole escludenti), secondo quanto ribadito dall'Adunanza plenaria del Consiglio di Stato nel 2018.
 
 ### 14.4 Gli atti di pianificazione e programmazione
 
@@ -343,9 +337,7 @@ Il Piano ha due componenti:
 - un elenco di progetti, con le tempistiche di realizzazione e gli importi da stanziare per ciascuno;
 - le riforme strutturali da approvare per legge, al fine di creare condizioni favorevoli alla crescita economica.
 
-Sono inoltre indicati gli obiettivi programmatici, le strategie di gestione del personale, gli strumenti per promuovere la trasparenza e la lotta alla corruzione e le misure di semplificazione da attuare.
-
-> **Da verificare:** questi contenuti corrispondono al **Piano integrato di attività e organizzazione (PIAO)**, introdotto nel 2021 (art. 6 d.l. n. 80/2021) proprio in attuazione del PNRR, che ogni amministrazione adotta annualmente e che assorbe i precedenti piani della performance, del fabbisogno di personale e di prevenzione della corruzione e della trasparenza. Controllare sul manuale se il passaggio si riferisca al PIAO.
+In attuazione del PNRR è stato introdotto il **Piano integrato di attività e organizzazione (PIAO)** (art. 6 d.l. n. 80/2021), che ogni amministrazione adotta annualmente. Esso indica gli obiettivi programmatici, le strategie di gestione del personale, gli strumenti per promuovere la trasparenza e la lotta alla corruzione e le misure di semplificazione da attuare, e assorbe i precedenti piani della performance, del fabbisogno di personale e di prevenzione della corruzione e della trasparenza.
 
 ### 14.6 Il piano regolatore generale
 
@@ -355,7 +347,7 @@ Il PRG si inserisce in un sistema articolato di strumenti di pianificazione ed �
 
 Il PRG è approvato all'esito di un procedimento aperto alla partecipazione dei privati: il piano è adottato dal Comune e depositato per trenta giorni, perché gli interessati possano prenderne visione e presentare osservazioni (art. 9 L. n. 1150/1942).
 
-> **Nota di integrazione:** secondo l'orientamento consolidato della giurisprudenza, le osservazioni dei privati costituiscono un mero apporto collaborativo: l'amministrazione non è tenuta a confutarle analiticamente, essendo sufficiente che le abbia esaminate e motivate in termini generali.
+secondo l'orientamento consolidato della giurisprudenza, le osservazioni dei privati costituiscono un mero apporto collaborativo: l'amministrazione non è tenuta a confutarle analiticamente, essendo sufficiente che le abbia esaminate e motivate in termini generali.
 
 Poiché la procedura di approvazione richiede tempi lunghi, il piano produce effetti fin dalla sua adozione formale: preclude il rilascio di permessi di costruire in contrasto con le nuove prescrizioni (c.d. **misure di salvaguardia**, oggi previste dall'art. 12, comma 3, d.P.R. n. 380/2001).
 
@@ -378,7 +370,7 @@ A livello subcostituzionale numerose disposizioni di legge attribuiscono ad auto
 - il **prefetto**, nel caso di urgenza o per grave necessità pubblica, ha facoltà di adottare i provvedimenti indispensabili per la tutela dell'ordine pubblico e della sicurezza pubblica (art. 2 TULPS, r.d. n. 773/1931);
 - in materia di **protezione civile**, quando si verificano calamità che richiedono interventi immediati con mezzi e poteri straordinari, il Consiglio dei ministri può deliberare lo **stato di emergenza**, fissandone la durata e l'estensione territoriale e disponendo in ordine all'esercizio del potere di ordinanza (artt. 24 e 25 d.lgs. n. 1/2018).
 
-> **Nota di integrazione:** altre ipotesi rilevanti sono le ordinanze contingibili e urgenti del sindaco, quale rappresentante della comunità locale in caso di emergenze sanitarie o di igiene pubblica (art. 50, comma 5, TUEL) e quale ufficiale del Governo per prevenire ed eliminare gravi pericoli per l'incolumità pubblica e la sicurezza urbana (art. 54, comma 4, TUEL), e quelle del Ministro della salute in materia di igiene e sanità pubblica (art. 32 L. n. 833/1978). Le ordinanze di protezione civile sono adottate in deroga alle disposizioni vigenti, ma nel rispetto dei principi generali dell'ordinamento e delle norme dell'Unione europea.
+altre ipotesi rilevanti sono le ordinanze contingibili e urgenti del sindaco, quale rappresentante della comunità locale in caso di emergenze sanitarie o di igiene pubblica (art. 50, comma 5, TUEL) e quale ufficiale del Governo per prevenire ed eliminare gravi pericoli per l'incolumità pubblica e la sicurezza urbana (art. 54, comma 4, TUEL), e quelle del Ministro della salute in materia di igiene e sanità pubblica (art. 32 L. n. 833/1978). Le ordinanze di protezione civile sono adottate in deroga alle disposizioni vigenti, ma nel rispetto dei principi generali dell'ordinamento e delle norme dell'Unione europea.
 
 ### 15.3 Presupposti e limiti
 
@@ -390,7 +382,7 @@ Questa discrezionalità incontra però alcuni limiti:
 - la **temporaneità**: le ordinanze hanno efficacia limitata nel tempo;
 - la **residualità**: trattandosi di uno strumento *extra ordinem*, il potere di ordinanza può essere esercitato solo quando l'emergenza non possa essere fronteggiata con gli strumenti ordinari.
 
-> **Nota di integrazione:** la Corte costituzionale, già nel 1956 e nel 1961 con riferimento all'art. 2 TULPS, ha individuato ulteriori limiti: le ordinanze devono rispettare i principi generali dell'ordinamento giuridico, essere adeguatamente motivate e pubblicate, e non possono intervenire nelle materie coperte da riserva assoluta di legge.
+la Corte costituzionale, già nel 1956 e nel 1961 con riferimento all'art. 2 TULPS, ha individuato ulteriori limiti: le ordinanze devono rispettare i principi generali dell'ordinamento giuridico, essere adeguatamente motivate e pubblicate, e non possono intervenire nelle materie coperte da riserva assoluta di legge.
 
 ### 15.4 Natura
 
@@ -419,7 +411,7 @@ Tra gli esempi più rilevanti vi è il rapporto tra ministro e dirigenti general
 - al ministro è preclusa ogni competenza gestionale e amministrativa diretta: egli può soltanto formulare direttive generali per l'attività amministrativa e per la gestione;
 - i dirigenti sono titolari dei poteri di gestione e di adozione degli atti e dei provvedimenti, curano l'attuazione delle direttive generali del ministro e, a loro volta, definiscono gli obiettivi che i dirigenti loro sottoposti devono perseguire.
 
-> **Nota di integrazione:** l'art. 14, comma 3, d.lgs. n. 165/2001 stabilisce espressamente che il ministro non può revocare, riformare, riservare o avocare a sé o altrimenti adottare provvedimenti o atti di competenza dei dirigenti.
+l'art. 14, comma 3, d.lgs. n. 165/2001 stabilisce espressamente che il ministro non può revocare, riformare, riservare o avocare a sé o altrimenti adottare provvedimenti o atti di competenza dei dirigenti.
 
 ### 16.3 Le direttive nei rapporti intersoggettivi
 
@@ -441,11 +433,11 @@ Un esempio è offerto dall'**ordinamento sportivo**, che prevede un'organizzazio
 
 Le norme interne, e i comportamenti tenuti sulla base di esse, acquistano sempre più spesso rilevanza nell'ordinamento generale. L'illecito sportivo, ad esempio, può comportare l'applicazione non solo delle sanzioni previste dalle norme interne dell'ordinamento sportivo, ma anche di quelle previste dall'ordinamento generale.
 
-> **Nota di integrazione:** i rapporti tra ordinamento sportivo e ordinamento statale sono oggi disciplinati dal d.l. n. 220/2003, convertito dalla L. n. 280/2003, che riconosce l'autonomia dell'ordinamento sportivo, salvi i casi di rilevanza per l'ordinamento statale di situazioni giuridiche soggettive connesse con esso. Sul piano penale, la frode in competizioni sportive è punita dalla L. n. 401/1989.
+i rapporti tra ordinamento sportivo e ordinamento statale sono oggi disciplinati dal d.l. n. 220/2003, convertito dalla L. n. 280/2003, che riconosce l'autonomia dell'ordinamento sportivo, salvi i casi di rilevanza per l'ordinamento statale di situazioni giuridiche soggettive connesse con esso. Sul piano penale, la frode in competizioni sportive è punita dalla L. n. 401/1989.
 
 Contribuisce alla rilevanza esterna delle norme interne anche l'**obbligo di pubblicazione**, che le rende conoscibili al di là della cerchia, talvolta ristretta, dei titolari e degli addetti agli uffici. Se l'amministrazione emana un provvedimento in violazione di una norma interna, il giudice amministrativo può quindi censurarlo.
 
-> **Nota di integrazione:** l'obbligo di pubblicazione di direttive, circolari, programmi e istruzioni è oggi previsto dall'art. 12 d.lgs. n. 33/2013 (decreto trasparenza).
+l'obbligo di pubblicazione di direttive, circolari, programmi e istruzioni è oggi previsto dall'art. 12 d.lgs. n. 33/2013 (decreto trasparenza).
 
 ### 17.3 Le circolari
 
@@ -457,7 +449,7 @@ Il contenuto delle circolari è vario: possono contenere ordini, direttive o int
 - Le **circolari normative** hanno la funzione di orientare l'esercizio del potere discrezionale degli organi titolari del potere amministrativo. Non hanno per oggetto l'interpretazione delle norme da applicare, bensì gli spazi di valutazione discrezionale che la legge rimette all'autorità amministrativa.
 - Le **circolari informative** sono emanate per diffondere all'interno dell'organizzazione notizie, informazioni e messaggi di varia natura.
 
-> **Nota di integrazione:** secondo l'orientamento consolidato della giurisprudenza, le circolari interpretative non sono vincolanti né per i privati né per il giudice, e non sono autonomamente impugnabili, salvo che contengano prescrizioni immediatamente lesive.
+secondo l'orientamento consolidato della giurisprudenza, le circolari interpretative non sono vincolanti né per i privati né per il giudice, e non sono autonomamente impugnabili, salvo che contengano prescrizioni immediatamente lesive.
 
 ## 18. La *soft law*
 
@@ -479,7 +471,7 @@ Molti Stati si sono dotati di strumenti volti a promuovere la qualità della reg
 
 L'**analisi di impatto della regolazione (AIR)** obbliga le pubbliche amministrazioni, prima di approvare un atto di regolazione, a individuare e confrontare le soluzioni alternative possibili, compresa quella di non intervenire, valutandone gli effetti sui destinatari.
 
-> **Nota di integrazione:** l'AIR è disciplinata in via generale dall'art. 14 L. n. 246/2005, che prevede anche la verifica dell'impatto della regolazione (VIR), cioè la valutazione *ex post* degli effetti prodotti dagli atti normativi adottati.
+l'AIR è disciplinata in via generale dall'art. 14 L. n. 246/2005, che prevede anche la verifica dell'impatto della regolazione (VIR), cioè la valutazione *ex post* degli effetti prodotti dagli atti normativi adottati.
 
 ### 19.3 Il *nudge*
 
@@ -487,4 +479,4 @@ In epoca recente sono stati sperimentati in vari Paesi modelli innovativi di reg
 
 Lo Stato, anziché obbligare i privati a tenere determinati comportamenti, eventualmente con la minaccia di sanzioni, individua l'opzione che ritiene preferibile nell'interesse reale degli stessi privati, senza però eliminarne la libertà di scelta. L'opzione proposta dai pubblici poteri si applica, per così dire, **per *default***, cioè in mancanza di una diversa ed esplicita manifestazione di volontà dell'interessato. Lo Stato potrebbe, ad esempio, prevedere come regola generale una trattenuta sui salari per finanziare prestazioni previdenziali o sanitarie future, lasciando al lavoratore la facoltà di rinunciarvi.
 
-> **Nota di integrazione:** un esempio nell'ordinamento italiano è il meccanismo del silenzio-assenso per il conferimento del trattamento di fine rapporto ai fondi pensione, previsto dal d.lgs. n. 252/2005.
+un esempio nell'ordinamento italiano è il meccanismo del silenzio-assenso per il conferimento del trattamento di fine rapporto ai fondi pensione, previsto dal d.lgs. n. 252/2005.

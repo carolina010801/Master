@@ -138,7 +138,7 @@ A livello governativo opera il **Dipartimento per le politiche europee**, incard
 
 Il diritto europeo impone agli Stati membri vincoli stringenti di finanza pubblica, che condizionano l'operatività delle pubbliche amministrazioni e l'attuazione dei loro programmi di intervento.
 
-> **Nota di integrazione:** in attuazione di tali vincoli, la L. cost. 20 aprile 2012, n. 1 ha introdotto in Costituzione il principio dell'equilibrio dei bilanci, modificando tra l'altro gli artt. 81, 97 e 119 Cost.
+in attuazione di tali vincoli, la L. cost. 20 aprile 2012, n. 1 ha introdotto in Costituzione il principio dell'equilibrio dei bilanci, modificando tra l'altro gli artt. 81, 97 e 119 Cost.
 
 ### 5.5 La tutela giurisdizionale
 
