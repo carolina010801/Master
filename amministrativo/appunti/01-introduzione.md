@@ -1,7 +1,5 @@
 # 01. Introduzione al diritto amministrativo
 
-**Fonte:** Clarich, Introduzione
-
 ---
 
 ## 1. Nozione

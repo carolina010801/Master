@@ -26,36 +26,35 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 
 ---
 
-# Appunti di diritto amministrativo (manuale integrato)
+# Appunti di diritto amministrativo (manuale unico)
 
-L'ambiente serve anche a raccogliere appunti dettati da **due manuali diversi** di diritto amministrativo: **A = Clarich**, **B = Caringella** e a fonderli in un **manuale unico integrato**.
+L'ambiente serve anche a raccogliere appunti di diritto amministrativo dettati da due manuali diversi (Clarich e Caringella) e a fonderli in un **manuale unico**. Non interessa distinguere da quale manuale provenga ogni parte: non va chiesto né indicato.
 
 ## Organizzazione
 
-- `amministrativo/appunti/clarich/` (Manuale A: Clarich) e `amministrativo/appunti/caringella/` (Manuale B: Caringella): appunti dettati e rielaborati secondo le regole sotto, un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`). Ogni file indica in testa il manuale e il capitolo di riferimento.
-- `amministrativo/manuale-integrato.md`: **file unico** che fonde i due manuali, con indice iniziale e capitoli in sequenza. Si crea **solo alla fine**, quando richiesto espressamente; fino ad allora si lavora solo sugli appunti dei due manuali.
+- `amministrativo/appunti/`: un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`), con gli appunti dettati e rielaborati secondo le regole sotto.
+- `amministrativo/manuale-unico.md`: **file unico** finale, con indice iniziale e tutti i capitoli in sequenza. Si crea **solo alla fine**, quando richiesto espressamente.
 
 ## Flusso di lavoro
 
-1. Ogni dettatura viene subito rielaborata e salvata nel file dell'argomento, nella cartella del manuale da cui proviene (se il file esiste già, il nuovo dettato si inserisce al punto giusto, senza duplicazioni).
+1. Ogni dettatura viene subito rielaborata e salvata nel file dell'argomento. Se l'argomento esiste già (ad esempio perché dettato dall'altro manuale), il nuovo dettato si **fonde** con quello esistente: si integra al punto giusto ciò che manca, senza duplicazioni.
 2. Dopo ogni dettatura si fa commit e push sul branch di lavoro, perché l'ambiente è temporaneo e ciò che non è caricato va perso.
-3. Solo su richiesta finale si redige `amministrativo/manuale-integrato.md` secondo le regole per l'integrazione.
+3. Solo su richiesta finale si redige `amministrativo/manuale-unico.md`, riunendo tutti gli argomenti in ordine, con impaginazione e linguaggio uniformi.
 
 ## Regole per la dettatura
 
-- All'inizio di ogni dettatura va chiarito **da quale manuale** proviene (A o B) e **quale argomento/capitolo**; se non è indicato, chiederlo.
 - Il dettato non si trascrive alla lettera: si **rielabora** in forma di appunto ordinato, mantenendone tutto il contenuto.
 - **Grammatica e sintassi** si correggono sempre dove opportuno (periodi spezzati, ripetizioni, costruzioni tipiche del parlato).
 - **Correzioni sostanziali**: se il dettato contiene un errore o un'imprecisione (es. articolo sbagliato, norma abrogata o modificata, nozione inesatta), si corregge, ma solo se si è certi della correzione, e la si segnala con `> **Correzione:** …` indicando brevemente cosa è stato modificato e perché. In caso di dubbio non si corregge: si segnala con `> **Da verificare:** …`.
+- Le aggiunte proprie (es. aggiornamenti normativi) si segnalano con `> **Nota di integrazione:** …`.
+- Se due dettati sullo stesso argomento sono in contrasto (impostazione, tesi, classificazioni), si riportano entrambe le posizioni con `> **Posizioni diverse:** …`.
 
 ## Impaginazione e linguaggio (uniformi in tutti i file)
 
-Ogni file, sia negli appunti sia nel manuale integrato, segue sempre lo stesso schema:
+Ogni file segue sempre lo stesso schema:
 
 ```
 # NN. Titolo dell'argomento
-
-**Fonte:** Clarich, cap. … | Caringella, cap. … | Integrato (Clarich + Caringella)
 
 ---
 
@@ -67,18 +66,10 @@ Testo in prosa, paragrafi brevi.
 ```
 
 - Titoli: `#` per l'argomento, `##` per i paragrafi numerati (1, 2, 3…), `###` per i sottoparagrafi (1.1, 1.2…). Non oltre il terzo livello.
+- Ordine logico di ogni argomento: nozione, fondamento normativo, disciplina, questioni controverse, giurisprudenza.
 - Prosa continua, in paragrafi brevi; elenchi puntati solo per enumerazioni vere (requisiti, elementi, tipologie, presupposti).
 - **Grassetto** solo alla prima comparsa delle nozioni chiave e degli istituti; *corsivo* per le espressioni latine e straniere.
 - Articoli citati sempre nella stessa forma: "art. 21-*octies*, comma 2, L. n. 241/1990"; "art. 34 c.p.a."; "art. 97 Cost.".
 - Linguaggio tecnico-giuridico, registro uniforme e impersonale, terminologia costante (stesso istituto, stesso nome in tutti i file; sigle sciolte alla prima occorrenza: "pubblica amministrazione (p.a.)").
-- Riquadri, sempre in questa forma: `> **Correzione:**`, `> **Da verificare:**`, `> **Divergenza Clarich/Caringella:**`, `> **Nota di integrazione:**`.
-
-## Regole per l'integrazione
-
-- Ogni capitolo del manuale integrato segue un ordine logico unico (nozione, fondamento normativo, disciplina, questioni controverse, giurisprudenza), non la giustapposizione dei due manuali.
-- Dove i manuali coincidono, si scrive una versione unica, la più completa e chiara.
-- Dove uno dei due aggiunge qualcosa, lo si integra nel punto pertinente.
-- Dove i manuali **divergono** (impostazione, tesi, classificazioni), si riportano entrambe le posizioni, segnalando la divergenza con `> **Divergenza Clarich/Caringella:** …`.
-- Le aggiunte non presenti in nessuno dei due manuali (es. aggiornamenti normativi) si segnalano con `> **Nota di integrazione:** …` e valgono le regole sulle fonti sopra indicate.
-- Dottrina e giurisprudenza: si applicano le regole sulle fonti; i nomi degli autori citati dai manuali vanno tra parentesi quadre.
-- Gli articoli di legge si verificano, se possibile, sul testo vigente (es. per la L. 241/1990 e il c.p.a., spesso modificati).
+- Riquadri, sempre in questa forma: `> **Correzione:**`, `> **Da verificare:**`, `> **Nota di integrazione:**`, `> **Posizioni diverse:**`.
+- Dottrina e giurisprudenza: si applicano le regole sulle fonti; i nomi degli autori vanno tra parentesi quadre. Gli articoli di legge si verificano, se possibile, sul testo vigente.
