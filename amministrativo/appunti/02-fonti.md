@@ -301,3 +301,70 @@ I regolamenti comunali, approvati di regola dal Consiglio comunale, sono una fon
 Le **autorità amministrative indipendenti** svolgono un ruolo di vigilanza e regolazione di particolari settori economici e sono titolari di poteri di auto-organizzazione e normativi assai estesi.
 
 > **Nota di integrazione:** poiché le leggi istitutive attribuiscono spesso a queste autorità poteri normativi poco delimitati, la giurisprudenza amministrativa ritiene che il deficit di legalità sostanziale sia compensato da un rafforzamento della **legalità procedurale**, cioè da garanzie di partecipazione degli interessati (consultazioni) e da un obbligo di motivazione anche degli atti regolatori generali.
+
+## 14. Gli atti amministrativi generali
+
+### 14.1 Nozione
+
+Di regola i provvedimenti amministrativi hanno un contenuto concreto e si rivolgono a uno o più destinatari determinati: fissano il modo di essere di un rapporto giuridico tra p.a. e privato in relazione a una specifica situazione di fatto.
+
+Di frequente, tuttavia, la p.a. ha il potere di emanare **atti amministrativi generali**. Essi sono propedeutici all'emanazione di provvedimenti puntuali o trovano svolgimento in un'attività di organizzazione degli uffici pubblici. Si rivolgono in modo indifferenziato a categorie più o meno ampie di destinatari, non necessariamente determinati nel provvedimento. Talora sono suscettibili di applicazione in una serie ripetuta di casi e presentano quindi anche il carattere dell'astrattezza.
+
+La tipologia degli atti amministrativi generali è variegata e le classificazioni proposte in dottrina hanno per lo più valenza descrittiva. Vi si fanno rientrare di solito i piani, i programmi, le direttive e gli atti di indirizzo.
+
+### 14.2 Il regime giuridico
+
+Gli atti amministrativi generali sono soggetti a un regime che deroga in parte a quello dei provvedimenti amministrativi e ricalca quello degli atti normativi. Come i regolamenti:
+
+- non richiedono la motivazione (art. 3, comma 2, L. n. 241/1990);
+- il procedimento per la loro adozione non prevede la partecipazione dei privati (art. 13 L. n. 241/1990);
+- l'attività dell'amministrazione diretta alla loro emanazione è esclusa dal diritto di accesso (art. 24, comma 1, lett. *c*, L. n. 241/1990).
+
+### 14.3 Bandi di concorso e bandi di gara
+
+I bandi di concorso e i bandi e avvisi di gara sono privi del carattere dell'astrattezza e hanno quindi natura non normativa: si tratta dei bandi di concorso per l'assunzione di dipendenti delle pubbliche amministrazioni e dei bandi e avvisi di gara relativi ai contratti pubblici.
+
+I **bandi di concorso** costituiscono l'atto di avvio del procedimento di selezione del personale delle pubbliche amministrazioni. Hanno contenuto concreto, perché esauriscono i loro effetti con il completamento della procedura, che avviene con l'approvazione della graduatoria finale.
+
+Il **bando di gara** costituisce la *lex specialis* della singola procedura: vincola la stazione appaltante e condiziona la legittimità degli atti successivamente adottati.
+
+> **Nota di integrazione:** proprio perché vincola la stazione appaltante, il bando non può essere da essa disapplicato. Di regola il bando va impugnato insieme all'atto applicativo che rende attuale la lesione (esclusione o aggiudicazione); va invece impugnato immediatamente quando contiene clausole che impediscono la partecipazione alla gara (c.d. clausole escludenti), secondo quanto ribadito dall'Adunanza plenaria del Consiglio di Stato nel 2018.
+
+### 14.4 Gli atti di pianificazione e programmazione
+
+L'attività di **pianificazione e programmazione** serve a creare raccordi tra i diversi livelli di governo (Stato, Regioni, Comuni) secondo il metodo della c.d. **pianificazione a cascata**, in modo coerente con una strategia complessiva. In materia sanitaria, ad esempio, la programmazione si articola nel piano sanitario nazionale, nei piani sanitari regionali e, infine, negli atti di programmazione delle aziende sanitarie locali (ASL).
+
+Dal punto di vista della teoria della regolazione amministrativa, gli atti di pianificazione introdotti con frequenza nella legislazione economica della seconda metà del secolo scorso sono considerati tra gli strumenti di intervento pubblico più intrusivi della libertà di iniziativa economica privata e, in taluni casi, distorsivi della concorrenza.
+
+### 14.5 Il Piano nazionale di ripresa e resilienza (PNRR)
+
+Il **PNRR** costituisce un tipo a sé. È stato adottato nel 2021 nell'ambito del programma *Next Generation EU* ed è stato presentato dal Governo italiano alla Commissione europea alla fine di aprile 2021.
+
+> **Correzione:** nel dettato il PNRR risultava «presentato dal Governo italiano e dalla Commissione europea». Il Piano è stato presentato dal Governo alla Commissione, che lo ha valutato; è stato poi approvato dal Consiglio dell'Unione nel luglio 2021.
+
+Il Piano ha due componenti:
+
+- un elenco di progetti, con le tempistiche di realizzazione e gli importi da stanziare per ciascuno;
+- le riforme strutturali da approvare per legge, al fine di creare condizioni favorevoli alla crescita economica.
+
+Il dettato prosegue indicando che il piano reca gli obiettivi programmatici, le strategie di gestione del personale, gli strumenti per promuovere la trasparenza e la lotta alla corruzione e le misure di semplificazione da attuare.
+
+> **Da verificare:** questi contenuti corrispondono al **Piano integrato di attività e organizzazione (PIAO)**, introdotto nel 2021 (art. 6 d.l. n. 80/2021) proprio in attuazione del PNRR, che ogni amministrazione adotta annualmente e che assorbe i precedenti piani della performance, del fabbisogno di personale e di prevenzione della corruzione e della trasparenza. Controllare sul manuale se il passaggio si riferisca al PIAO.
+
+### 14.6 Il piano regolatore generale
+
+Il **piano regolatore generale (PRG)** suddivide anzitutto il territorio comunale in **zone omogenee**, indicando per ciascuna le attività insediabili; individua inoltre le aree destinate a edifici e infrastrutture pubbliche o di uso pubblico.
+
+Il PRG si inserisce in un sistema articolato di strumenti di pianificazione ed è condizionato a monte dai piani territoriali regionali, dal piano territoriale di coordinamento provinciale e dai piani paesaggistici.
+
+Il PRG è approvato all'esito di un procedimento aperto alla partecipazione dei privati: il piano è adottato dal Comune e depositato per trenta giorni, perché gli interessati possano prenderne visione e presentare osservazioni (art. 9 L. n. 1150/1942).
+
+> **Nota di integrazione:** secondo l'orientamento consolidato della giurisprudenza, le osservazioni dei privati costituiscono un mero apporto collaborativo: l'amministrazione non è tenuta a confutarle analiticamente, essendo sufficiente che le abbia esaminate e motivate in termini generali.
+
+Poiché la procedura di approvazione richiede tempi lunghi, il piano produce effetti fin dalla sua adozione formale: preclude il rilascio di permessi di costruire in contrasto con le nuove prescrizioni (c.d. **misure di salvaguardia**, oggi previste dall'art. 12, comma 3, d.P.R. n. 380/2001).
+
+### 14.7 La natura giuridica del piano regolatore
+
+La natura giuridica del PRG è controversa: si discute se abbia natura normativa (regolamentare) o di atto amministrativo.
+
+Nella giurisprudenza prevale la tesi intermedia della **natura mista**: i piani regolatori, da un lato, dispongono in via generale e astratta in ordine al governo e all'utilizzazione dell'intero territorio comunale; dall'altro, contengono prescrizioni di concreta definizione, sistemazione e destinazione di singole parti del territorio urbano.
