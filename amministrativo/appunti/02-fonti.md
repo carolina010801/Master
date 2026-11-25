@@ -45,7 +45,7 @@ Le fonti europee sono costituite anzitutto dai **Trattati**, più volte modifica
 
 Accanto ai Trattati si colloca la **Carta dei diritti fondamentali dell'Unione europea**, che ha lo stesso valore giuridico dei Trattati (art. 6, par. 1, TUE).
 
-> **Correzione:** nel dettato la Convenzione europea per la salvaguardia dei diritti dell'uomo (CEDU) era indicata tra le fonti dell'Unione europea. La CEDU è invece una convenzione del Consiglio d'Europa, distinta dall'ordinamento dell'Unione: i diritti fondamentali che essa garantisce fanno parte del diritto dell'Unione in quanto principi generali (art. 6, par. 3, TUE). Nell'ordinamento interno la CEDU rileva come obbligo internazionale ai sensi dell'art. 117, comma 1, Cost.
+Distinta dalle fonti dell'Unione è la **Convenzione europea per la salvaguardia dei diritti dell'uomo (CEDU)**, adottata nell'ambito del Consiglio d'Europa. I diritti fondamentali da essa garantiti fanno parte del diritto dell'Unione in quanto principi generali (art. 6, par. 3, TUE); nell'ordinamento interno la CEDU rileva come obbligo internazionale ai sensi dell'art. 117, comma 1, Cost.
 
 ### 4.3 Regolamenti, direttive e decisioni
 
@@ -55,13 +55,13 @@ I **regolamenti** hanno portata generale, sono obbligatori in tutti i loro eleme
 
 Le **direttive** hanno come destinatari gli Stati membri e sono vincolanti quanto al risultato da raggiungere. Impongono dunque un obbligo di risultato, lasciando agli Stati la scelta della forma e dei mezzi, cioè delle modalità concrete e del tipo di atti da adottare per raggiungere gli obiettivi.
 
-> **Correzione:** nel dettato le direttive erano indicate come emanate «dal Consiglio e dalla Commissione». Oggi le direttive sono adottate di regola dal Parlamento europeo e dal Consiglio con la procedura legislativa ordinaria; possono essere adottate anche dal solo Consiglio o dalla Commissione nei casi previsti dai Trattati.
+Le direttive sono adottate di regola dal Parlamento europeo e dal Consiglio con la procedura legislativa ordinaria; possono essere adottate anche dal solo Consiglio o dalla Commissione nei casi previsti dai Trattati.
 
 > **Nota di integrazione:** le direttive sufficientemente chiare, precise e incondizionate (c.d. *self-executing*), non recepite nel termine, possono produrre effetti diretti nei rapporti verticali, cioè essere fatte valere dal privato nei confronti dello Stato e delle pubbliche amministrazioni, che sono tenute ad applicarle.
 
 Le **decisioni** hanno contenuto puntuale: applicano a fattispecie concrete le norme generali e astratte previste dal diritto europeo. Sono obbligatorie in tutti i loro elementi e, se designano i destinatari, sono obbligatorie soltanto nei confronti di questi.
 
-> **Correzione:** nel dettato le decisioni erano indicate come vincolanti per gli Stati membri ma prive di efficacia diretta. In realtà la decisione vincola i suoi destinatari, che possono essere sia Stati sia privati; quella rivolta a un privato è per lui direttamente vincolante, e anche quella rivolta a uno Stato può produrre effetti diretti.
+I destinatari della decisione possono essere sia Stati sia privati: la decisione rivolta a un privato è per lui direttamente vincolante, e anche quella rivolta a uno Stato può produrre effetti diretti.
 
 ### 4.4 Il recepimento del diritto europeo
 
@@ -70,7 +70,7 @@ Il recepimento delle norme europee è oggi disciplinato dalla L. 24 dicembre 201
 - la **legge europea**, che modifica o abroga le disposizioni statali vigenti in contrasto con il diritto europeo;
 - la **legge di delegazione europea**, che conferisce al Governo le deleghe legislative per il recepimento delle direttive.
 
-> **Correzione:** nel dettato la disciplina era riferita alla L. 4 febbraio 2005, n. 11 e alla L. n. 234/2012. La L. n. 11/2005 è stata abrogata e sostituita dalla L. n. 234/2012, che ha sdoppiato la precedente legge comunitaria annuale nella legge europea e nella legge di delegazione europea.
+La L. n. 234/2012 ha abrogato e sostituito la L. 4 febbraio 2005, n. 11, sdoppiando la precedente legge comunitaria annuale nella legge europea e nella legge di delegazione europea.
 
 ## 5. Le fonti primarie
 
@@ -82,7 +82,7 @@ La Costituzione individua come fonti primarie:
 - il **decreto-legge**, che il Governo può adottare in casi straordinari di necessità e urgenza e che perde efficacia sin dall'inizio se non è convertito in legge dalle Camere entro sessanta giorni dalla pubblicazione (art. 77 Cost.);
 - il **decreto legislativo**, emanato dal Governo sulla base di una legge di delega che ne definisce l'oggetto, determina i principi e criteri direttivi e fissa il termine entro il quale la delega può essere esercitata (art. 76 Cost.).
 
-> **Correzione:** gli articoli sulla legge sono gli artt. 70-74 Cost. (non 71-74: l'art. 70 attribuisce la funzione legislativa alle due Camere). Per il decreto legislativo, la legge che conferisce la delega è la «legge di delega» (o legge delega): la «legge di delegazione» è quella europea. Il limite posto dall'art. 76 è soprattutto temporale («per tempo limitato e per oggetti definiti»).
+Il limite posto dall'art. 76 Cost. alla delega è anche temporale: essa può essere conferita solo «per tempo limitato e per oggetti definiti».
 
 ### 5.2 Le leggi-provvedimento
 
@@ -145,7 +145,7 @@ In una prima accezione il principio di legalità si intende come **preferenza de
 
 Il principio di preferenza si desume da varie disposizioni, in particolare dall'art. 4, comma 1, delle disposizioni preliminari al codice civile, secondo cui i regolamenti non possono contenere norme contrarie alle disposizioni di legge.
 
-> **Correzione:** nel dettato l'obbligo del giudice ordinario di disapplicare i regolamenti illegittimi era ricondotto all'art. 4 delle preleggi. L'art. 4 sancisce il principio di preferenza; il potere-dovere di disapplicazione del giudice ordinario deriva invece dall'art. 5 della legge sul contenzioso amministrativo (L. 20 marzo 1865, n. 2248, all. E).
+Il potere-dovere del giudice ordinario di disapplicare i regolamenti illegittimi deriva invece dall'art. 5 della legge sul contenzioso amministrativo (L. 20 marzo 1865, n. 2248, all. E).
 
 In una seconda accezione il principio di legalità richiede che il potere amministrativo trovi un **fondamento espresso** in una norma di legge: la legge diviene così un **limite positivo**. Intesa in questo senso, la legalità ha una duplice dimensione:
 
@@ -187,7 +187,7 @@ L'art. 17, comma 1, L. 23 agosto 1988, n. 400 prevede che i regolamenti governat
 4. I **regolamenti di organizzazione** disciplinano l'organizzazione e il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge. Costituiscono in realtà una sottospecie dei regolamenti esecutivi e di attuazione: già l'art. 97 Cost. pone infatti una riserva di legge relativa in materia di organizzazione dei pubblici uffici e richiede quindi una disciplina di fonte primaria che ne delinei in termini generali l'assetto.
 5. I **regolamenti delegati** (o autorizzati), previsti dall'art. 17, comma 2, sono ammessi nelle materie non coperte da riserva assoluta di legge e realizzano la **delegificazione**: sostituiscono cioè la disciplina posta da una fonte primaria con una disciplina posta da una fonte secondaria. A tal fine occorre una legge che autorizzi il Governo a emanarli, determini le norme generali regolatrici della materia e disponga l'abrogazione delle norme vigenti, anche di rango primario, con effetto dall'entrata in vigore del regolamento. L'effetto abrogativo deriva dunque dalla legge di autorizzazione, ma si produce solo con l'entrata in vigore del regolamento.
 
-> **Correzione:** nel dettato le tipologie erano annunciate come cinque ma poi elencate in sei, comprendendo i regolamenti ministeriali. I regolamenti governativi in senso stretto sono quelli dei commi 1 e 2 dell'art. 17 (cinque tipi); i regolamenti ministeriali e interministeriali (comma 3) sono una categoria distinta, trattata qui di seguito. Inoltre i regolamenti di organizzazione riguardano l'«organizzazione» degli uffici, non la «riorganizzazione».
+I regolamenti ministeriali e interministeriali (art. 17, comma 3) costituiscono una categoria distinta da queste cinque tipologie.
 
 ### 9.3 I regolamenti ministeriali e interministeriali
 
@@ -200,8 +200,6 @@ Sotto il profilo formale, ai sensi dell'art. 17, comma 4, L. n. 400/1988, sia i 
 - sono adottati previo parere del Consiglio di Stato;
 - sono sottoposti al visto e alla registrazione della Corte dei conti;
 - sono pubblicati nella Gazzetta Ufficiale.
-
-> **Correzione:** nel dettato questi requisiti formali erano riferiti ai soli regolamenti ministeriali. L'art. 17, comma 4, li prevede per tutti i regolamenti, governativi e ministeriali.
 
 ### 9.5 Regolamenti previsti da leggi speciali
 
@@ -229,8 +227,6 @@ Anche il giudice amministrativo può disapplicare una norma regolamentare, in al
 ### 10.1 L'inflazione legislativa e il riordino normativo
 
 La produzione normativa ha assunto una dimensione patologica. L'**inflazione legislativa** e il disordine normativo sono dovuti anzitutto al cattivo funzionamento del Parlamento, riconducibile a fattori legati alla forma di governo. Lo *stock* di leggi amministrative si presenta come un insieme frastagliato, stratificato nel tempo e poco stabile.
-
-> **Correzione:** nel dettato si leggeva «cattivo funzionamento del parametro»; si tratta evidentemente del Parlamento.
 
 A partire dagli anni Novanta del secolo scorso è stato avviato un **riordino della legislazione**, almeno nelle materie più rilevanti. Si è cercato anzi di istituzionalizzare questa attività, prevedendo la presentazione al Parlamento, a cadenza annuale, di un disegno di legge per la semplificazione e il riassetto normativo (art. 20 L. n. 59/1997).
 
@@ -276,7 +272,7 @@ La giurisprudenza costituzionale ha peraltro ritenuto che, entro certi limiti, l
 
 I **regolamenti regionali** possono essere emanati, secondo il principio del parallelismo tra funzione legislativa e funzione regolamentare, nelle materie di competenza legislativa concorrente e residuale delle Regioni, oltre che nelle materie di competenza esclusiva statale in caso di delega da parte dello Stato (art. 117, comma 6, Cost.).
 
-> **Correzione:** nel dettato i regolamenti regionali sono indicati come adottati dalla Giunta regionale. Dopo la L. cost. n. 1/1999, che ha modificato l'art. 121 Cost., la Costituzione non riserva più la potestà regolamentare al Consiglio regionale: l'organo competente è individuato dallo statuto di ciascuna Regione, che spesso la attribuisce alla Giunta.
+Dopo la L. cost. n. 1/1999, che ha modificato l'art. 121 Cost., la Costituzione non riserva più la potestà regolamentare al Consiglio regionale: l'organo competente è individuato dallo statuto di ciascuna Regione, che spesso la attribuisce alla Giunta.
 
 ## 12. Le fonti degli enti locali
 
@@ -340,7 +336,7 @@ Dal punto di vista della teoria della regolazione amministrativa, gli atti di pi
 
 Il **PNRR** costituisce un tipo a sé. È stato adottato nel 2021 nell'ambito del programma *Next Generation EU* ed è stato presentato dal Governo italiano alla Commissione europea alla fine di aprile 2021.
 
-> **Correzione:** nel dettato il PNRR risultava «presentato dal Governo italiano e dalla Commissione europea». Il Piano è stato presentato dal Governo alla Commissione, che lo ha valutato; è stato poi approvato dal Consiglio dell'Unione nel luglio 2021.
+Dopo la valutazione della Commissione, il Piano è stato approvato dal Consiglio dell'Unione nel luglio 2021.
 
 Il Piano ha due componenti:
 

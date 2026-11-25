@@ -14,8 +14,6 @@ Fin dall'antichità i grandi imperi si dotarono di strutture burocratiche stabil
 
 Il punto di partenza più utile, tuttavia, è la formazione degli Stati nazionali europei a partire dal XVI secolo. Essi si affermarono superando un'organizzazione politica **policentrica e pluralista**, fondata su rapporti personali di tipo pattizio. L'**accentramento burocratico**, cioè la formazione di uno **Stato amministrativo**, fu lo strumento per ricondurre a unità il potere politico in capo al sovrano.
 
-> **Correzione:** nel dettato l'organizzazione policentrica e pluralista era riferita agli Stati nazionali; in realtà è l'assetto (di matrice feudale) che gli Stati nazionali superarono proprio attraverso l'accentramento burocratico.
-
 L'espansione dei compiti dello Stato e l'attribuzione di poteri amministrativi a funzionari delegati dal sovrano e a strutture burocratiche fecero emergere progressivamente la **funzione amministrativa** come funzione autonoma, non più inglobata in quella giudiziaria.
 
 ### 2.2 Lo Stato di diritto
@@ -41,7 +39,7 @@ La svolta autoritaria si ebbe con l'avvento del fascismo in Italia e del nazismo
 
 Si affermò quindi lo **Stato imprenditore**, che interviene direttamente nell'economia attraverso imprese ed enti pubblici. Successivamente il modello dello **Stato regolatore**, nel quale lo Stato non gestisce direttamente le attività economiche ma ne fissa le regole e le fa rispettare, ha costituito il paradigma di riferimento per circa un trentennio.
 
-> **Correzione:** nel dettato lo Stato imprenditore era indicato come «affermatosi negli Stati Uniti». In realtà lo Stato imprenditore è tipico dei Paesi europei (in particolare dell'Italia, con l'IRI e il sistema delle partecipazioni statali); è invece lo **Stato regolatore** ad avere origine negli Stati Uniti, con le agenzie e commissioni indipendenti di regolazione, e ad essersi diffuso in Europa negli ultimi decenni del Novecento.
+Lo Stato imprenditore è tipico dei Paesi europei e in particolare dell'Italia, con l'IRI e il sistema delle partecipazioni statali. Il modello dello Stato regolatore ha invece origine negli Stati Uniti, con le agenzie e commissioni indipendenti di regolazione, e si è diffuso in Europa negli ultimi decenni del Novecento.
 
 ### 2.5 Le crisi recenti e lo Stato «resiliente»
 
@@ -61,7 +59,7 @@ Sul finire del XIX secolo il governo Crispi avviò un programma riformatore che 
 
 All'inizio del XX secolo, in età giolittiana, furono potenziate le strutture ministeriali e istituite le prime aziende ed enti pubblici nazionali, come l'**INA** (Istituto nazionale delle assicurazioni, 1912).
 
-> **Correzione:** nel dettato tra gli enti dell'età giolittiana era indicato anche l'INPS. L'INPS con questa denominazione è successivo: deriva dalla Cassa nazionale di previdenza per l'invalidità e la vecchiaia degli operai (1898), trasformata in età fascista nell'Istituto nazionale fascista della previdenza sociale (1933) e ridenominata INPS dopo la caduta del fascismo.
+Nello stesso periodo si consolidò il sistema previdenziale pubblico, che faceva capo alla Cassa nazionale di previdenza per l'invalidità e la vecchiaia degli operai (1898); questa fu trasformata in età fascista nell'Istituto nazionale fascista della previdenza sociale (1933), ridenominato **INPS** (Istituto nazionale della previdenza sociale) dopo la caduta del fascismo.
 
 ### 3.2 Dalla Prima guerra mondiale al fascismo
 
@@ -108,8 +106,6 @@ Un secondo nesso è espresso dalla formula di un altro autore tedesco [Otto Maye
 
 Il diritto costituzionale, incidendo sui rami alti, può mutare in modo repentino, in seguito a moti rivoluzionari, sconfitte militari o rotture costituzionali. Le riforme amministrative, invece, mirano a modificare l'organizzazione e il modo di operare di apparati burocratici caratterizzati da strutture, personale, prassi operative e culture istituzionali formatisi lentamente, per stratificazioni successive, e strutturalmente poco permeabili al cambiamento.
 
-> **Correzione:** il nome dell'autore è Otto **Mayer** (non «Maier»).
-
 ## 5. Diritto amministrativo e diritto europeo
 
 Il diritto pubblico è la branca del diritto più legata alla storia, alla cultura e alle tradizioni nazionali, e dunque la più resistente a innesti e trapianti di istituti propri di altri ordinamenti. Ciò nonostante, il diritto amministrativo italiano ha acquisito una **dimensione europea** sotto cinque profili principali: la legislazione amministrativa, l'attività, l'organizzazione, la finanza e la tutela giurisdizionale.
@@ -120,15 +116,13 @@ L'art. 117, comma 1, Cost. stabilisce che la potestà legislativa dello Stato e 
 
 Un condizionamento del legislatore nazionale deriva, ad esempio, dalla **direttiva 2006/123/CE** del Parlamento europeo e del Consiglio, del 12 dicembre 2006, relativa ai servizi nel mercato interno (c.d. direttiva servizi o Bolkestein), nonché dalla disciplina antitrust, alla quale si ispira la L. 10 ottobre 1990, n. 287.
 
-> **Correzione:** nel dettato la data della direttiva era indicata come 12 dicembre 2026; la data corretta è 12 dicembre 2006.
-
 ### 5.2 L'attività amministrativa
 
 L'art. 1, comma 1, L. n. 241/1990 include tra i principi generali dell'attività amministrativa anche i **principi dell'ordinamento comunitario**, ricavabili sia dai Trattati sia dalla giurisprudenza della Corte di giustizia dell'Unione europea.
 
 La p.a. è menzionata anche nella **Carta dei diritti fondamentali dell'Unione europea**, che ha lo stesso valore giuridico dei Trattati (art. 6, par. 1, TUE). In particolare l'art. 41 della Carta, rubricato «Diritto ad una buona amministrazione», garantisce a ogni persona il diritto a che le questioni che la riguardano siano trattate in modo imparziale ed equo ed entro un termine ragionevole dalle istituzioni, organi e organismi dell'Unione.
 
-> **Correzione:** nel dettato la Carta era indicata come «incorporata come protocollo allegato al Trattato di Lisbona». La Carta non è un protocollo: il Trattato di Lisbona, modificando l'art. 6 TUE, le ha riconosciuto lo stesso valore giuridico dei Trattati. Va precisato inoltre che l'art. 41 si rivolge alle istituzioni e agli organi dell'Unione, non alle amministrazioni nazionali.
+L'art. 41 si rivolge alle istituzioni e agli organi dell'Unione, non alle amministrazioni nazionali; i principi di buona amministrazione che esso esprime operano tuttavia anche nei confronti di queste ultime, in quanto principi generali del diritto dell'Unione.
 
 ### 5.3 L'organizzazione
 
@@ -139,8 +133,6 @@ A livello governativo opera il **Dipartimento per le politiche europee**, incard
 - il **Comitato interministeriale per gli affari europei (CIAE)**, che coordina le linee politiche del Governo nella formazione della posizione italiana nella fase di predisposizione degli atti dell'Unione europea;
 - un comitato tecnico di valutazione degli atti dell'Unione europea;
 - nuclei di valutazione degli atti dell'Unione europea istituiti presso le amministrazioni statali.
-
-> **Correzione:** la sigla del Comitato interministeriale per gli affari europei è CIAE (non «CAE»).
 
 ### 5.4 La finanza pubblica
 
@@ -165,7 +157,7 @@ Il diritto amministrativo è un diritto **autonomo**. Il rinvio della L. n. 241/
 
 Diritto amministrativo e diritto privato, pertanto, non stanno in un rapporto di regola ed eccezione.
 
-> **Correzione:** nel dettato il rinvio indiretto e selettivo era riferito genericamente ai «primi articoli» della L. n. 241/1990. La formula tipica è quella dell'art. 11, comma 2, L. n. 241/1990, in tema di accordi, secondo cui agli accordi si applicano, ove non diversamente previsto, «i principi del codice civile in materia di obbligazioni e contratti in quanto compatibili».
+La formula tipica di questo rinvio è quella dell'art. 11, comma 2, L. n. 241/1990, secondo cui agli accordi tra amministrazione e privati si applicano, ove non diversamente previsto, «i principi del codice civile in materia di obbligazioni e contratti in quanto compatibili».
 
 ### 6.2 L'attività: diritto amministrativo e diritto privato
 
@@ -174,8 +166,6 @@ L'attività delle pubbliche amministrazioni è regolata in parte da leggi ammini
 Le pubbliche amministrazioni sono dotate di **soggettività piena** e di una **capacità giuridica generale**, intesa come attitudine ad assumere la titolarità di diritti e obblighi secondo le norme del codice civile e delle leggi speciali. Possono dunque instaurare con gli altri soggetti dell'ordinamento rapporti regolati dal diritto comune. L'art. 1, comma 1-*bis*, L. n. 241/1990 stabilisce infatti che la p.a., nell'adozione di atti di natura non autoritativa, agisce secondo le norme di diritto privato, salvo che la legge disponga diversamente.
 
 L'unico limite è che la capacità giuridica generale è attribuita alle pubbliche amministrazioni per il perseguimento delle finalità di interesse pubblico. A questa capacità di diritto privato si aggiunge una sorta di **capacità speciale**, costituita dai **poteri amministrativi** (autoritativi) che la legge attribuisce alla p.a. per la cura degli interessi pubblici.
-
-> **Correzione:** nel dettato il limite della capacità generale era riferito alle «attività promosse con carattere autoritativo». In realtà il limite è il vincolo di scopo (perseguimento dell'interesse pubblico), mentre l'attività autoritativa costituisce l'oggetto della capacità speciale attribuita per legge, che si aggiunge alla capacità di diritto privato.
 
 Regole pubblicistiche e privatistiche possono anche convivere nella stessa vicenda: è il caso dei **contratti pubblici** per la fornitura di beni e servizi, nei quali la scelta del contraente avviene con procedure a evidenza pubblica, mentre l'esecuzione del contratto è regolata in prevalenza dal diritto privato.
 
