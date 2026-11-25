@@ -223,3 +223,81 @@ Anche il giudice amministrativo può disapplicare una norma regolamentare, in al
 
 - quando il provvedimento impugnato viola un regolamento che, a sua volta, è difforme dalla legge: il regolamento illegittimo non può fungere da parametro di legittimità del provvedimento;
 - quando il provvedimento impugnato è conforme a un regolamento che però contrasta con la legge: il giudice disapplica il regolamento e valuta il provvedimento direttamente alla stregua della legge.
+
+## 10. Testi unici e codici
+
+### 10.1 L'inflazione legislativa e il riordino normativo
+
+La produzione normativa ha assunto una dimensione patologica. L'**inflazione legislativa** e il disordine normativo sono dovuti anzitutto al cattivo funzionamento del Parlamento, riconducibile a fattori legati alla forma di governo. Lo *stock* di leggi amministrative si presenta come un insieme frastagliato, stratificato nel tempo e poco stabile.
+
+> **Correzione:** nel dettato si leggeva «cattivo funzionamento del parametro»; si tratta evidentemente del Parlamento.
+
+A partire dagli anni Novanta del secolo scorso è stato avviato un **riordino della legislazione**, almeno nelle materie più rilevanti. Si è cercato anzi di istituzionalizzare questa attività, prevedendo la presentazione al Parlamento, a cadenza annuale, di un disegno di legge per la semplificazione e il riassetto normativo (art. 20 L. n. 59/1997).
+
+> **Da verificare:** il dettato indica come termine per la presentazione del disegno di legge annuale il 31 maggio. Era il termine originario dell'art. 20 L. n. 59/1997; a quanto risulta, le modifiche successive lo hanno anticipato al 30 aprile. Controllare sul testo vigente.
+
+### 10.2 I testi unici
+
+Lo strumento di riordino più tradizionale è costituito dai **testi unici**, che accorpano e razionalizzano in un unico corpo normativo le disposizioni vigenti relative a una determinata materia. Si distinguono di solito in:
+
+- **testi unici innovativi**, emanati sulla base di un'autorizzazione legislativa che stabilisce i criteri del riordino e che consente quindi di modificare la disciplina vigente;
+- **testi unici di mera compilazione**, rari nella prassi, emanati su iniziativa autonoma del Governo, che hanno soltanto la funzione pratica di riunire in un unico testo le disposizioni vigenti per renderne più semplice il reperimento, senza alcuna forza innovativa.
+
+### 10.3 I codici
+
+Un altro strumento è il **codice**, previsto ora come modalità ordinaria di riassetto. Il codice si differenzia dal testo unico perché è concepito non solo per coordinare i testi normativi, ma anche per innovare in modo più esteso la disciplina, di solito sulla base di una legge di delega.
+
+Sono stati adottati codici in numerose materie: ad esempio il codice dei contratti pubblici (oggi d.lgs. n. 36/2023), il codice della protezione civile (d.lgs. n. 1/2018), il codice in materia di protezione dei dati personali (d.lgs. n. 196/2003), il codice dei beni culturali e del paesaggio (d.lgs. n. 42/2004) e il codice dell'amministrazione digitale (d.lgs. n. 82/2005).
+
+## 11. Le fonti regionali
+
+La Costituzione prevede tre fonti normative regionali: gli statuti, le leggi e i regolamenti.
+
+### 11.1 Gli statuti
+
+Lo **statuto** della Regione ordinaria determina, in armonia con la Costituzione, la forma di governo e i principi fondamentali di organizzazione e funzionamento (art. 123 Cost.). È approvato con un procedimento aggravato: legge regionale approvata dal Consiglio regionale a maggioranza assoluta, con due deliberazioni successive adottate a intervallo non minore di due mesi.
+
+> **Nota di integrazione:** ai sensi dell'art. 123 Cost., il Governo può promuovere la questione di legittimità costituzionale dello statuto entro trenta giorni dalla pubblicazione; lo statuto è inoltre sottoposto a *referendum* popolare se, entro tre mesi dalla pubblicazione, ne fa richiesta un cinquantesimo degli elettori della Regione o un quinto dei componenti del Consiglio regionale.
+
+Lo statuto delle Regioni a statuto speciale è invece adottato con legge costituzionale (art. 116 Cost.).
+
+### 11.2 Le leggi regionali
+
+Le **leggi regionali** sono approvate dal Consiglio regionale e promulgate dal Presidente della Regione nelle materie attribuite dall'art. 117 Cost. alla competenza regionale, concorrente o residuale.
+
+La giurisprudenza costituzionale ha peraltro ritenuto che, entro certi limiti, lo Stato possa legiferare anche nelle materie di competenza regionale, per due ragioni:
+
+- alcune materie di competenza legislativa esclusiva statale hanno natura **trasversale** e consentono quindi alla legge statale di introdurre disposizioni che le Regioni non possono derogare;
+- in base al principio di **sussidiarietà verticale**, quando una funzione amministrativa richiede di essere esercitata in modo unitario a livello statale, anche la relativa funzione legislativa viene, per così dire, **attratta** nella competenza statale (c.d. chiamata in sussidiarietà).
+
+> **Nota di integrazione:** sono tipicamente considerate materie trasversali la tutela della concorrenza, la determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali e la tutela dell'ambiente (art. 117, comma 2, lett. *e*, *m* e *s*, Cost.). La chiamata in sussidiarietà è stata elaborata dalla Corte costituzionale nel 2003, che l'ha subordinata, tra l'altro, al rispetto del principio di leale collaborazione, in particolare attraverso il raggiungimento di un'intesa con le Regioni interessate.
+
+### 11.3 I regolamenti regionali
+
+I **regolamenti regionali** possono essere emanati, secondo il principio del parallelismo tra funzione legislativa e funzione regolamentare, nelle materie di competenza legislativa concorrente e residuale delle Regioni, oltre che nelle materie di competenza esclusiva statale in caso di delega da parte dello Stato (art. 117, comma 6, Cost.).
+
+> **Correzione:** nel dettato i regolamenti regionali sono indicati come adottati dalla Giunta regionale. Dopo la L. cost. n. 1/1999, che ha modificato l'art. 121 Cost., la Costituzione non riserva più la potestà regolamentare al Consiglio regionale: l'organo competente è individuato dallo statuto di ciascuna Regione, che spesso la attribuisce alla Giunta.
+
+## 12. Le fonti degli enti locali
+
+Le fonti normative di Comuni, Province e Città metropolitane sono essenzialmente gli statuti e i regolamenti.
+
+### 12.1 Gli statuti
+
+Gli **statuti** sono menzionati dall'art. 114, comma 2, Cost., secondo cui Comuni, Province, Città metropolitane e Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione. Nella gerarchia delle fonti lo statuto ha rango **subprimario**: si colloca al di sotto delle leggi statali che ne fissano i principi (art. 6 TUEL), ma prevale sui regolamenti dell'ente.
+
+> **Nota di integrazione:** lo statuto è approvato dal Consiglio con il voto favorevole dei due terzi dei consiglieri assegnati; se tale maggioranza non è raggiunta, la votazione è ripetuta in successive sedute ed è sufficiente la maggioranza assoluta in due votazioni (art. 6, comma 4, TUEL).
+
+### 12.2 I regolamenti
+
+I **regolamenti** degli enti locali sono richiamati dall'art. 117, comma 6, Cost., secondo cui gli enti locali hanno potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni loro attribuite, e sono disciplinati dall'art. 7 del testo unico delle leggi sull'ordinamento degli enti locali (TUEL, d.lgs. n. 267/2000).
+
+I regolamenti comunali, approvati di regola dal Consiglio comunale, sono una fonte di utilizzo assai frequente e intervengono in materie importanti come l'urbanistica, l'edilizia, il traffico e il commercio.
+
+> **Nota di integrazione:** fa eccezione il regolamento sull'ordinamento degli uffici e dei servizi, adottato dalla Giunta nel rispetto dei criteri generali stabiliti dal Consiglio (art. 48, comma 3, TUEL).
+
+## 13. Le autorità amministrative indipendenti
+
+Le **autorità amministrative indipendenti** svolgono un ruolo di vigilanza e regolazione di particolari settori economici e sono titolari di poteri di auto-organizzazione e normativi assai estesi.
+
+> **Nota di integrazione:** poiché le leggi istitutive attribuiscono spesso a queste autorità poteri normativi poco delimitati, la giurisprudenza amministrativa ritiene che il deficit di legalità sostanziale sia compensato da un rafforzamento della **legalità procedurale**, cioè da garanzie di partecipazione degli interessati (consultazioni) e da un obbligo di motivazione anche degli atti regolatori generali.
