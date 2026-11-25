@@ -33,7 +33,13 @@ L'ambiente serve anche a raccogliere appunti dettati da **due manuali diversi** 
 ## Organizzazione
 
 - `amministrativo/appunti/clarich/` (Manuale A: Clarich) e `amministrativo/appunti/caringella/` (Manuale B: Caringella): appunti dettati e rielaborati secondo le regole sotto, un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`). Ogni file indica in testa il manuale e il capitolo di riferimento.
-- `amministrativo/manuale-integrato/`: un file per capitolo (`NN-argomento.md`) che fonde i due manuali; `00-indice.md` contiene l'indice aggiornato.
+- `amministrativo/manuale-integrato.md`: **file unico** che fonde i due manuali, con indice iniziale e capitoli in sequenza. Si crea **solo alla fine**, quando richiesto espressamente; fino ad allora si lavora solo sugli appunti dei due manuali.
+
+## Flusso di lavoro
+
+1. Ogni dettatura viene subito rielaborata e salvata nel file dell'argomento, nella cartella del manuale da cui proviene (se il file esiste già, il nuovo dettato si inserisce al punto giusto, senza duplicazioni).
+2. Dopo ogni dettatura si fa commit e push sul branch di lavoro, perché l'ambiente è temporaneo e ciò che non è caricato va perso.
+3. Solo su richiesta finale si redige `amministrativo/manuale-integrato.md` secondo le regole per l'integrazione.
 
 ## Regole per la dettatura
 
@@ -69,7 +75,7 @@ Testo in prosa, paragrafi brevi.
 
 ## Regole per l'integrazione
 
-- Il capitolo integrato segue un ordine logico unico (nozione, fondamento normativo, disciplina, questioni controverse, giurisprudenza), non la giustapposizione dei due manuali.
+- Ogni capitolo del manuale integrato segue un ordine logico unico (nozione, fondamento normativo, disciplina, questioni controverse, giurisprudenza), non la giustapposizione dei due manuali.
 - Dove i manuali coincidono, si scrive una versione unica, la più completa e chiara.
 - Dove uno dei due aggiunge qualcosa, lo si integra nel punto pertinente.
 - Dove i manuali **divergono** (impostazione, tesi, classificazioni), si riportano entrambe le posizioni, segnalando la divergenza con `> **Divergenza Clarich/Caringella:** …`.
