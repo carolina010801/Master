@@ -28,11 +28,11 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 
 # Appunti di diritto amministrativo (manuale integrato)
 
-L'ambiente serve anche a raccogliere appunti dettati da **due manuali diversi** di diritto amministrativo e a fonderli in un **manuale unico integrato**.
+L'ambiente serve anche a raccogliere appunti dettati da **due manuali diversi** di diritto amministrativo: **A = Clarich**, **B = Caringella** e a fonderli in un **manuale unico integrato**.
 
 ## Organizzazione
 
-- `amministrativo/appunti/manuale-A/` e `amministrativo/appunti/manuale-B/`: appunti grezzi, così come dettati, un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`). Ogni file indica in testa il manuale e il capitolo di riferimento.
+- `amministrativo/appunti/clarich/` (Manuale A: Clarich) e `amministrativo/appunti/caringella/` (Manuale B: Caringella): appunti grezzi, così come dettati, un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`). Ogni file indica in testa il manuale e il capitolo di riferimento.
 - `amministrativo/manuale-integrato/`: un file per capitolo (`NN-argomento.md`) che fonde i due manuali; `00-indice.md` contiene l'indice aggiornato.
 
 ## Regole per la dettatura
@@ -49,7 +49,7 @@ Ogni file, sia negli appunti sia nel manuale integrato, segue sempre lo stesso s
 ```
 # NN. Titolo dell'argomento
 
-**Fonte:** Manuale A, cap. … | Manuale B, cap. … | Integrato (A + B)
+**Fonte:** Clarich, cap. … | Caringella, cap. … | Integrato (Clarich + Caringella)
 
 ---
 
@@ -65,14 +65,14 @@ Testo in prosa, paragrafi brevi.
 - **Grassetto** solo alla prima comparsa delle nozioni chiave e degli istituti; *corsivo* per le espressioni latine e straniere.
 - Articoli citati sempre nella stessa forma: "art. 21-*octies*, comma 2, L. n. 241/1990"; "art. 34 c.p.a."; "art. 97 Cost.".
 - Linguaggio tecnico-giuridico, registro uniforme e impersonale, terminologia costante (stesso istituto, stesso nome in tutti i file; sigle sciolte alla prima occorrenza: "pubblica amministrazione (p.a.)").
-- Riquadri, sempre in questa forma: `> **Correzione:**`, `> **Da verificare:**`, `> **Divergenza A/B:**`, `> **Nota di integrazione:**`.
+- Riquadri, sempre in questa forma: `> **Correzione:**`, `> **Da verificare:**`, `> **Divergenza Clarich/Caringella:**`, `> **Nota di integrazione:**`.
 
 ## Regole per l'integrazione
 
 - Il capitolo integrato segue un ordine logico unico (nozione, fondamento normativo, disciplina, questioni controverse, giurisprudenza), non la giustapposizione dei due manuali.
 - Dove i manuali coincidono, si scrive una versione unica, la più completa e chiara.
 - Dove uno dei due aggiunge qualcosa, lo si integra nel punto pertinente.
-- Dove i manuali **divergono** (impostazione, tesi, classificazioni), si riportano entrambe le posizioni, segnalando la divergenza con `> **Divergenza A/B:** …`.
+- Dove i manuali **divergono** (impostazione, tesi, classificazioni), si riportano entrambe le posizioni, segnalando la divergenza con `> **Divergenza Clarich/Caringella:** …`.
 - Le aggiunte non presenti in nessuno dei due manuali (es. aggiornamenti normativi) si segnalano con `> **Nota di integrazione:** …` e valgono le regole sulle fonti sopra indicate.
 - Dottrina e giurisprudenza: si applicano le regole sulle fonti; i nomi degli autori citati dai manuali vanno tra parentesi quadre.
 - Gli articoli di legge si verificano, se possibile, sul testo vigente (es. per la L. 241/1990 e il c.p.a., spesso modificati).
