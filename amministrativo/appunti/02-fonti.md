@@ -347,7 +347,7 @@ Il Piano ha due componenti:
 - un elenco di progetti, con le tempistiche di realizzazione e gli importi da stanziare per ciascuno;
 - le riforme strutturali da approvare per legge, al fine di creare condizioni favorevoli alla crescita economica.
 
-Il dettato prosegue indicando che il piano reca gli obiettivi programmatici, le strategie di gestione del personale, gli strumenti per promuovere la trasparenza e la lotta alla corruzione e le misure di semplificazione da attuare.
+Sono inoltre indicati gli obiettivi programmatici, le strategie di gestione del personale, gli strumenti per promuovere la trasparenza e la lotta alla corruzione e le misure di semplificazione da attuare.
 
 > **Da verificare:** questi contenuti corrispondono al **Piano integrato di attività e organizzazione (PIAO)**, introdotto nel 2021 (art. 6 d.l. n. 80/2021) proprio in attuazione del PNRR, che ogni amministrazione adotta annualmente e che assorbe i precedenti piani della performance, del fabbisogno di personale e di prevenzione della corruzione e della trasparenza. Controllare sul manuale se il passaggio si riferisca al PIAO.
 
