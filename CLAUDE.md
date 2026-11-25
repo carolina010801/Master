@@ -23,3 +23,29 @@ Questo ambiente serve esclusivamente alla redazione dei temi assegnati settimana
 
 - Un file Markdown per tema, in una cartella per materia: `civile/`, `penale/`, `amministrativo/`.
 - Nome file: `AAAA-MM-GG-titolo-breve.md`, con la traccia riportata in testa.
+
+---
+
+# Appunti di diritto amministrativo (manuale integrato)
+
+L'ambiente serve anche a raccogliere appunti dettati da **due manuali diversi** di diritto amministrativo e a fonderli in un **manuale unico integrato**.
+
+## Organizzazione
+
+- `amministrativo/appunti/manuale-A/` e `amministrativo/appunti/manuale-B/`: appunti grezzi, così come dettati, un file per argomento (`NN-argomento.md`, es. `03-provvedimento-amministrativo.md`). Ogni file indica in testa il manuale e il capitolo di riferimento.
+- `amministrativo/manuale-integrato/`: un file per capitolo (`NN-argomento.md`) che fonde i due manuali; `00-indice.md` contiene l'indice aggiornato.
+
+## Regole per la dettatura
+
+- All'inizio di ogni dettatura va chiarito **da quale manuale** proviene (A o B) e **quale argomento/capitolo**; se non è indicato, chiederlo.
+- Negli appunti grezzi si trascrive fedelmente il dettato, correggendo solo refusi ed errori di trascrizione evidenti e dandogli una struttura per paragrafi. Non si aggiunge contenuto proprio.
+
+## Regole per l'integrazione
+
+- Il capitolo integrato segue un ordine logico unico (nozione, fondamento normativo, disciplina, questioni controverse, giurisprudenza), non la giustapposizione dei due manuali.
+- Dove i manuali coincidono, si scrive una versione unica, la più completa e chiara.
+- Dove uno dei due aggiunge qualcosa, lo si integra nel punto pertinente.
+- Dove i manuali **divergono** (impostazione, tesi, classificazioni), si riportano entrambe le posizioni, segnalando la divergenza con `> **Divergenza A/B:** …`.
+- Le aggiunte non presenti in nessuno dei due manuali (es. aggiornamenti normativi) si segnalano con `> **Nota di integrazione:** …` e valgono le regole sulle fonti sopra indicate.
+- Dottrina e giurisprudenza: si applicano le regole sulle fonti; i nomi degli autori citati dai manuali vanno tra parentesi quadre.
+- Gli articoli di legge si verificano, se possibile, sul testo vigente (es. per la L. 241/1990 e il c.p.a., spesso modificati).
