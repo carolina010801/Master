@@ -178,10 +178,10 @@ Nelle materie di potestà legislativa regionale, concorrente o residuale, lo Sta
 L'art. 17, comma 1, L. 23 agosto 1988, n. 400 prevede che i regolamenti governativi siano emanati con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato. Le tipologie sono le seguenti.
 
 1. I **regolamenti esecutivi** pongono le norme di dettaglio necessarie per l'applicazione concreta di una legge: ulteriori specificazioni della fattispecie, modalità procedurali, termini e adempimenti. Possono essere emanati anche per dare esecuzione ai decreti legislativi e ai regolamenti europei.
-2. I **regolamenti di attuazione e integrazione** possono essere emanati nelle materie non coperte da riserva assoluta di legge, quando la legge si limita a individuare i principi generali della materia e autorizza il Governo a porre la disciplina di dettaglio.
+2. I **regolamenti di attuazione e integrazione** possono essere emanati quando la legge o il decreto legislativo si limita a porre norme di principio, e il regolamento ne completa la disciplina di dettaglio. Sono esclusi nelle materie riservate alla competenza regionale (art. 17, comma 1, lett. *b*) e, per principio costituzionale, nelle materie coperte da riserva assoluta di legge.
 3. I **regolamenti indipendenti** intervengono nelle materie non riservate alla legge, nelle quali manchi una disciplina di rango primario.
 4. I **regolamenti di organizzazione** disciplinano l'organizzazione e il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge. Costituiscono in realtà una sottospecie dei regolamenti esecutivi e di attuazione: già l'art. 97 Cost. pone infatti una riserva di legge relativa in materia di organizzazione dei pubblici uffici e richiede quindi una disciplina di fonte primaria che ne delinei in termini generali l'assetto.
-5. I **regolamenti delegati** (o autorizzati), previsti dall'art. 17, comma 2, sono ammessi nelle materie non coperte da riserva assoluta di legge e realizzano la **delegificazione**: sostituiscono cioè la disciplina posta da una fonte primaria con una disciplina posta da una fonte secondaria. A tal fine occorre una legge che autorizzi il Governo a emanarli, determini le norme generali regolatrici della materia e disponga l'abrogazione delle norme vigenti, anche di rango primario, con effetto dall'entrata in vigore del regolamento. L'effetto abrogativo deriva dunque dalla legge di autorizzazione, ma si produce solo con l'entrata in vigore del regolamento.
+5. I **regolamenti delegati** (o autorizzati), previsti dall'art. 17, comma 2, sono ammessi nelle materie non coperte da riserva assoluta di legge e realizzano la **delegificazione**: sostituiscono cioè la disciplina posta da una fonte primaria con una disciplina posta da una fonte secondaria. Sono emanati con d.P.R., previa deliberazione del Consiglio dei ministri, sentiti il Consiglio di Stato e le Commissioni parlamentari competenti. Occorre una legge che autorizzi il Governo a emanarli, determini le norme generali regolatrici della materia e disponga l'abrogazione delle norme vigenti, anche di rango primario, con effetto dall'entrata in vigore del regolamento. L'effetto abrogativo deriva dunque dalla legge di autorizzazione, ma si produce solo con l'entrata in vigore del regolamento.
 
 I regolamenti ministeriali e interministeriali (art. 17, comma 3) costituiscono una categoria distinta da queste cinque tipologie.
 
@@ -224,7 +224,7 @@ Anche il giudice amministrativo può disapplicare una norma regolamentare, in al
 
 La produzione normativa ha assunto una dimensione patologica. L'**inflazione legislativa** e il disordine normativo sono dovuti anzitutto al cattivo funzionamento del Parlamento, riconducibile a fattori legati alla forma di governo. Lo *stock* di leggi amministrative si presenta come un insieme frastagliato, stratificato nel tempo e poco stabile.
 
-A partire dagli anni Novanta del secolo scorso è stato avviato un **riordino della legislazione**, almeno nelle materie più rilevanti. Si è cercato anzi di istituzionalizzare questa attività, prevedendo la presentazione al Parlamento, a cadenza annuale, di un disegno di legge per la semplificazione e il riassetto normativo (art. 20 L. n. 59/1997).
+A partire dagli anni Novanta del secolo scorso è stato avviato un **riordino della legislazione**, almeno nelle materie più rilevanti. Si è cercato anzi di istituzionalizzare questa attività, prevedendo la presentazione al Parlamento, a cadenza annuale, di un disegno di legge per la semplificazione e il riassetto normativo, originariamente previsto dall'art. 20 L. n. 59/1997. Oggi la materia è disciplinata dalla L. 10 novembre 2025, n. 167, che ha abrogato l'art. 20 e ha istituito la **legge annuale di semplificazione normativa**: il Governo presenta alle Camere entro il 30 giugno di ogni anno un disegno di legge per la semplificazione, il riordino e il riassetto della normativa vigente in determinate materie, anche mediante deleghe legislative.
 
 ### 10.2 I testi unici
 
@@ -337,7 +337,7 @@ Il Piano ha due componenti:
 - un elenco di progetti, con le tempistiche di realizzazione e gli importi da stanziare per ciascuno;
 - le riforme strutturali da approvare per legge, al fine di creare condizioni favorevoli alla crescita economica.
 
-In attuazione del PNRR è stato introdotto il **Piano integrato di attività e organizzazione (PIAO)** (art. 6 d.l. n. 80/2021), che ogni amministrazione adotta annualmente. Esso indica gli obiettivi programmatici, le strategie di gestione del personale, gli strumenti per promuovere la trasparenza e la lotta alla corruzione e le misure di semplificazione da attuare, e assorbe i precedenti piani della performance, del fabbisogno di personale e di prevenzione della corruzione e della trasparenza.
+In attuazione del PNRR è stato introdotto il **Piano integrato di attività e organizzazione (PIAO)** (art. 6 d.l. n. 80/2021), che le amministrazioni con più di cinquanta dipendenti adottano entro il 31 gennaio di ogni anno. Il Piano ha durata triennale ed è aggiornato annualmente; indica gli obiettivi programmatici, le strategie di gestione del personale, gli strumenti per promuovere la trasparenza e la lotta alla corruzione e le misure di semplificazione da attuare, e assorbe i precedenti piani della performance, del fabbisogno di personale e di prevenzione della corruzione e della trasparenza.
 
 ### 14.6 Il piano regolatore generale
 
@@ -345,7 +345,7 @@ Il **piano regolatore generale (PRG)** suddivide anzitutto il territorio comunal
 
 Il PRG si inserisce in un sistema articolato di strumenti di pianificazione ed è condizionato a monte dai piani territoriali regionali, dal piano territoriale di coordinamento provinciale e dai piani paesaggistici.
 
-Il PRG è approvato all'esito di un procedimento aperto alla partecipazione dei privati: il piano è adottato dal Comune e depositato per trenta giorni, perché gli interessati possano prenderne visione e presentare osservazioni (art. 9 L. n. 1150/1942).
+Il PRG è approvato all'esito di un procedimento aperto alla partecipazione dei privati: il progetto di piano adottato dal Comune è depositato presso la segreteria comunale per trenta giorni consecutivi, durante i quali chiunque può prenderne visione, e nei trenta giorni successivi possono essere presentate osservazioni (art. 9 L. n. 1150/1942).
 
 secondo l'orientamento consolidato della giurisprudenza, le osservazioni dei privati costituiscono un mero apporto collaborativo: l'amministrazione non è tenuta a confutarle analiticamente, essendo sufficiente che le abbia esaminate e motivate in termini generali.
 
